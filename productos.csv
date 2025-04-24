@@ -1,0 +1,1830 @@
+﻿CLIENTE,PRODUCTO,CIUDAD,VENDEDOR,ESTADO,VALOR VENTA,Comision,Otro
+Geraldine Ortiz,Alquitran,PEREIRA,García Val,Abierto,2740975,76747,3
+Andrea Arenas,Acetileno,BOGOTA,Sánchez Mar,Cerrado,2732760,76517,28
+Nataly Muriel,Acetileno,ARMENIA,Pérez Jul,Abierto,1672000,46816
+Manuela Betancur,Acetona ,BOGOTA,Cardona Jua,Abierto,1750000,49000
+Andrea Arenas,Kerosene,VILLAVICENCIO,Rodríguez Ale,Cerrado,5584743,156372,804
+Andrea Arenas,Alquitran,BOGOTA,Alzate Val,Abierto,6320000,176960
+Valerie Zapata,Alquitran,NEIVA,Cardona Jua,Abierto,3084125,86355,5
+Valentina García,Alquitran,BOGOTA,Alzate Val,Abierto,2650120,74203,36
+Luisa Cely,Eter Etílico,BOGOTA,Alzate Val,Abierto,1394431,39044,068
+Juan Cardona,Gas,PASTO,Zapata Die,Abierto,8057207,225601,796
+Alejandro Rodríguez,Acido Clorhidrico-Muriático,MEDELLIN,García Val,Cerrado,10921632,305805,696
+Valentina De Los Ríos,Eter Etílico,PEREIRA,Cely Lui,Abierto,2750771,77021,588
+Andrea Arenas,Acetileno,NEIVA,Zapata Man,Abierto,2026497,56741,916
+Valerie Zapata,Acetona ,MEDELLIN,Muriel Nat,Ingresado,2014200,56397,6
+Valentina Alzate,Acido Clorhidrico-Muriático,PEREIRA,Rodríguez Ale,Abierto,4117299,115284,372
+Andrea Arenas,Acido Clorhidrico-Muriático,BOGOTA,Sánchez Mar,Pendiente envío,6228000,174384
+Juliana Pérez,Acetona ,MEDELLIN,Muriel Nat,Abierto,8150307,228208,596
+Valentina García,Acetileno,SINCELEJO,Betancur Man,Abierto,5000000,140000
+Clara Sánchez,Toluol,CUCUTA,De Los Ríos Val,Abierto,1569440,43944,32
+Cristián Grajales,Kerosene,FLORENCIA,Arenas And,Abierto,5432587,152112,436
+Manuela Gómez,Acido Clorhidrico-Muriático,NEIVA,Vanegas Cam,Abierto,2283619,63941,332
+Geraldine Ortiz,Toluol,BOGOTA,Alzate Val,Ingresado,1800000,50400
+Geraldine Ortiz,Acetileno,CALDAS,De Los Ríos Val,Abierto,15204084,425714,352
+Valentina Alzate,Acetona ,BOGOTA,Vanegas Cam,Abierto,2162694,60555,432
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,PASTO,García Val,Ingresado,2550000,71400
+Luisa Cely,Acetileno,CUCUTA,Arenas And,Cerrado,18603941,520910,348
+Natalia Zapata,Cloruro de Amonio,CALI,Zapata Val,Abierto,1835400,51391,2
+Manuela Zapata,Alquitran,BOGOTA,García Val,Abierto,2258717,63244,076
+Nataly Muriel,Acetileno,MEDELLIN,Muriel Nat,Cerrado,8928811,250006,708
+Valentina De Los Ríos,Alquitran,MEDELLIN,Ortiz Ger,Cerrado,3500000,98000
+Nataly Muriel,Alquitran,BOGOTA,Cardona Jua,Ingresado,2108597,59040,716
+Camila Vanegas,Toluol,MEDELLIN,Grajales Cri,Abierto,28000000,784000
+Valentina Alzate,Eter Etílico,VILLAVICENCIO,Ortiz Ger,Abierto,5252044,147057,232
+Valerie Zapata,Acetileno,MEDELLIN,Alzate Val,Ingresado,4341396,121559,088
+Alejandro Rodríguez,Toluol,SANTA MARTA,Zapata Nat,Abierto,1690726,47340,328
+Valentina García,Cloruro de Amonio,PEREIRA,Vanegas Cam,Abierto,2802891,78480,948
+Valentina Zapata,Gas,MEDELLIN,Vanegas Cam,Ingresado,2091054,58549,512
+Manuela Gómez,Acido Sulfúrico,BOGOTA,Muriel Nat,Abierto,4007579,112212,212
+Juliana Pérez,Acido Clorhidrico-Muriático,BOGOTA,Zapata Man,Pendiente envío,1397780,39137,84
+Andrea Arenas,Acido Sulfúrico,PASTO,Gómez Man,Ingresado,2574000,72072
+Manuela Gómez,Gas,BOGOTA,Pérez Jul,Abierto,5834263,163359,364
+Manuela Gómez,Acetona ,MEDELLIN,Arenas And,Abierto,14509446,406264,488
+Valentina De Los Ríos,Acetona ,MEDELLIN,Ortiz Ger,Abierto,1632956,45722,768
+Luisa Cely,Acetileno,BOGOTA,Vanegas Cam,Cerrado,2659500,74466
+Manuela Zapata,Acetona ,BOGOTA,Gómez Man,Abierto,6641341,185957,548
+Camila Vanegas,Gas,CUCUTA,De Los Ríos Val,Ingresado,4960041,138881,148
+Manuela Gómez,Gas,BUCARAMANGA,Zapata Man,Pendiente envío,4787282,134043,896
+Luisa Cely,Acetileno,PASTO,Cely Lui,Cerrado,10691400,299359,2
+Valentina García,Gas,MEDELLIN,Rodríguez Ale,Ingresado,2203757,61705,196
+Natalia Zapata,Acido Clorhidrico-Muriático,PEREIRA,Zapata Man,Cerrado,2215949,62046,572
+Manuela Gómez,Toluol,MEDELLIN,Muriel Nat,Pendiente envío,3500000,98000
+Juliana Pérez,Acido Sulfúrico,BOGOTA,Vanegas Cam,Abierto,6321500,177002
+Luisa Cely,Acetileno,MEDELLIN,García Val,Ingresado,1700000,47600
+Manuela Betancur,Acetileno,VILLAVICENCIO,Gómez Man,Abierto,5425037,151901,036
+Natalia Zapata,Toluol,MEDELLIN,Pérez Jul,Ingresado,22588257,632471,196
+Geraldine Ortiz,Alquitran,BOGOTA,Zapata Man,Cerrado,1714881,48016,668
+Valentina De Los Ríos,Gas,PEREIRA,Muriel Nat,Cerrado,2063659,57782,452
+Camila Vanegas,Acetileno,TULUA,Arenas And,Abierto,1675200,46905,6
+Valentina De Los Ríos,Alquitran,MEDELLIN,Ortiz Ger,Cerrado,13757255,385203,14
+Luisa Cely,Acido Sulfúrico,VILLAVICENCIO,Vanegas Cam,Pendiente envío,1994367,55842,276
+Nataly Muriel,Acetona ,CARTAGENA,Zapata Nat,Abierto,1967321,55084,988
+Cristián Grajales,Gas,PEREIRA,Gómez Man,Abierto,2919811,81754,708
+Manuela Gómez,Cloruro de Amonio,BOGOTA,Cardona Jua,Pendiente envío,2731788,76490,064
+Valerie Zapata,Alquitran,BOGOTA,Zapata Man,Abierto,1500468,42013,104
+Alejandro Rodríguez,Acido Sulfúrico,PEREIRA,Zapata Val,Abierto,2805569,78555,932
+Manuela Gómez,Acetona ,SANTA MARTA,Cely Lui,Abierto,5293878,148228,584
+Diego Zapata,Acido Clorhidrico-Muriático,CALI,Cardona Jua,Abierto,7000000,196000
+Andrea Arenas,Acetona ,FLORENCIA,Zapata Die,Abierto,18548403,519355,284
+Valentina García,Cloruro de Amonio,TULUA,Zapata Val,Abierto,1481336,41477,408
+Andrea Arenas,Kerosene,CARTAGENA,Zapata Nat,Abierto,2227452,62368,656
+Juliana Pérez,Acido Clorhidrico-Muriático,MEDELLIN,Zapata Val,Abierto,4300000,120400
+Juan Cardona,Acetona ,MEDELLIN,Rodríguez Ale,Abierto,1700000,47600
+Juan Cardona,Kerosene,BOGOTA,Cardona Jua,Ingresado,2720000,76160
+Valentina Zapata,Acetileno,PEREIRA,Cely Lui,Abierto,2888217,80870,076
+Clara Sánchez,Toluol,MONTERIA,Arenas And,Abierto,9066135,253851,78
+Andrea Arenas,Eter Etílico,FLORENCIA,Muriel Nat,Pendiente envío,4736000,132608
+Luisa Cely,Alquitran,ARMENIA,De Los Ríos Val,Abierto,1835556,51395,568
+Valentina De Los Ríos,Acetileno,BOGOTA,Pérez Jul,Pendiente envío,6007806,168218,568
+Manuela Zapata,Cloruro de Amonio,MEDELLIN,Sánchez Mar,Abierto,3184045,89153,26
+Cristián Grajales,Acido Sulfúrico,BOGOTA,Ortiz Ger,Cerrado,56469893,1581157,004
+Cristián Grajales,Acetona ,IBAGUE,Grajales Cri,Abierto,1674416,46883,648
+Juliana Pérez,Gas,CUCUTA,Vanegas Cam,Abierto,26604104,744914,912
+Manuela Betancur,Kerosene,BOGOTA,Zapata Val,Cerrado,2082576,58312,128
+Valentina De Los Ríos,Alquitran,CARTAGENA,Alzate Val,Abierto,13278350,371793,8
+Juliana Pérez,Acetona ,PASTO,Sánchez Mar,Pendiente envío,2583391,72334,948
+Valentina García,Gas,BOGOTA,Zapata Man,Ingresado,6520500,182574
+Juan Cardona,Gas,BOGOTA,Ortiz Ger,Abierto,1643140,46007,92
+Valentina De Los Ríos,Acetileno,PEREIRA,Zapata Val,Abierto,2878945,80610,46
+Clara Sánchez,Acido Sulfúrico,MEDELLIN,Sánchez Mar,Abierto,1671734,46808,552
+Valentina Zapata,Acetona ,PEREIRA,Cardona Jua,Pendiente envío,2825305,79108,54
+Valentina Zapata,Kerosene,MEDELLIN,Rodríguez Ale,Pendiente envío,4217773,118097,644
+Luisa Cely,Gas,BOGOTA,Betancur Man,Abierto,6478614,181401,192
+Andrea Arenas,Acetona ,BOGOTA,Muriel Nat,Abierto,6111036,171109,008
+Manuela Zapata,Eter Etílico,PEREIRA,Vanegas Cam,Abierto,2963850,82987,8
+Alejandro Rodríguez,Toluol,MEDELLIN,Zapata Die,Abierto,3513644,98382,032
+Manuela Gómez,Eter Etílico,BOGOTA,Zapata Die,Abierto,2628091,73586,548
+Natalia Zapata,Kerosene,BOGOTA,Rodríguez Ale,Abierto,11477169,321360,732
+Valentina Zapata,Acetileno,PEREIRA,Cely Lui,Abierto,2784000,77952
+Natalia Zapata,Toluol,MEDELLIN,Cely Lui,Abierto,1480293,41448,204
+Valentina Zapata,Acetileno,CALDAS,Vanegas Cam,Cerrado,2098570,58759,96
+Alejandro Rodríguez,Acetona ,CALDAS,Ortiz Ger,Abierto,1582704,44315,712
+Camila Vanegas,Acetileno,PASTO,Alzate Val,Pendiente envío,1870000,52360
+Manuela Betancur,Toluol,BUCARAMANGA,Betancur Man,Cerrado,1980000,55440
+Nataly Muriel,Acetileno,CALI,Pérez Jul,Abierto,3468089,97106,492
+Valentina Alzate,Acetona ,PASTO,Rodríguez Ale,Pendiente envío,2179532,61026,896
+Valentina De Los Ríos,Toluol,MEDELLIN,Cardona Jua,Abierto,1450860,40624,08
+Juliana Pérez,Cloruro de Amonio,MEDELLIN,Rodríguez Ale,Abierto,3212681,89955,068
+Juliana Pérez,Acetileno,BARRANQUILLA,Cely Lui,Abierto,5229803,146434,484
+Nataly Muriel,Toluol,BARRANQUILLA,Betancur Man,Abierto,7009432,196264,096
+Camila Vanegas,Toluol,POPAYAN,Sánchez Mar,Cerrado,10500000,294000
+Luisa Cely,Acetileno,MEDELLIN,Sánchez Mar,Pendiente envío,8944400,250443,2
+Valentina Alzate,Gas,MEDELLIN,Gómez Man,Ingresado,8231756,230489,168
+Manuela Gómez,Acetona ,MANIZALES,Rodríguez Ale,Pendiente envío,1408012,39424,336
+Camila Vanegas,Acetileno,BOGOTA,Alzate Val,Abierto,6418000,179704
+Camila Vanegas,Kerosene,NEIVA,Pérez Jul,Abierto,2071155,57992,34
+Camila Vanegas,Gas,CUCUTA,Zapata Man,Ingresado,15099412,422783,536
+Valerie Zapata,Toluol,BOGOTA,Betancur Man,Abierto,1860000,52080
+Alejandro Rodríguez,Toluol,MEDELLIN,Gómez Man,Abierto,1617040,45277,12
+Natalia Zapata,Toluol,MEDELLIN,Betancur Man,Abierto,3527920,98781,76
+Juliana Pérez,Eter Etílico,BOGOTA,García Val,Ingresado,1670958,46786,824
+Diego Zapata,Acetileno,NEIVA,Arenas And,Ingresado,37118794,1039326,232
+Alejandro Rodríguez,Acetileno,TULUA,Grajales Cri,Abierto,7797238,218322,664
+Alejandro Rodríguez,Eter Etílico,MEDELLIN,Vanegas Cam,Abierto,2082312,58304,736
+Diego Zapata,Acetileno,MEDELLIN,De Los Ríos Val,Cerrado,1450000,40600
+Valerie Zapata,Acetileno,TULUA,Betancur Man,Pendiente envío,1511925,42333,9
+Valentina De Los Ríos,Acido Sulfúrico,PASTO,Betancur Man,Ingresado,1572312,44024,736
+Valentina García,Cloruro de Amonio,BOGOTA,Zapata Die,Ingresado,2695648,75478,144
+Valentina De Los Ríos,Acido Sulfúrico,SANTA MARTA,García Val,Cerrado,1900000,53200
+Clara Sánchez,Acetileno,BOGOTA,Cardona Jua,Pendiente envío,1910380,53490,64
+Clara Sánchez,Acetileno,MEDELLIN,García Val,Abierto,3548589,99360,492
+Camila Vanegas,Eter Etílico,PASTO,Rodríguez Ale,Abierto,1828562,51199,736
+Manuela Betancur,Acetileno,MEDELLIN,Zapata Val,Abierto,4554929,127538,012
+Manuela Zapata,Alquitran,PEREIRA,Pérez Jul,Pendiente envío,4110241,115086,748
+Clara Sánchez,Acetileno,NEIVA,Rodríguez Ale,Abierto,2338136,65467,808
+Cristián Grajales,Acido Clorhidrico-Muriático,BUCARAMANGA,Cardona Jua,Pendiente envío,23865269,668227,532
+Valentina De Los Ríos,Acido Sulfúrico,BOGOTA,Ortiz Ger,Cerrado,4005084,112142,352
+Camila Vanegas,Cloruro de Amonio,MEDELLIN,Vanegas Cam,Ingresado,1627000,45556
+Valentina De Los Ríos,Gas,SINCELEJO,Gómez Man,Cerrado,1690478,47333,384
+Clara Sánchez,Acetona ,BOGOTA,Zapata Die,Ingresado,6700899,187625,172
+Cristián Grajales,Gas,MEDELLIN,Pérez Jul,Abierto,16412681,459555,068
+Andrea Arenas,Acido Sulfúrico,BOGOTA,Alzate Val,Abierto,1364570,38207,96
+Valerie Zapata,Acido Clorhidrico-Muriático,BOGOTA,Grajales Cri,Abierto,1732500,48510
+Clara Sánchez,Acido Sulfúrico,CALI,Zapata Die,Abierto,7411813,207530,764
+Juan Cardona,Kerosene,BOGOTA,Gómez Man,Abierto,5788315,162072,82
+Juan Cardona,Toluol,MEDELLIN,Zapata Die,Abierto,3152946,88282,488
+Luisa Cely,Acido Clorhidrico-Muriático,MEDELLIN,García Val,Abierto,10913000,305564
+Camila Vanegas,Acido Sulfúrico,BOGOTA,Ortiz Ger,Abierto,3724738,104292,664
+Valentina Zapata,Toluol,NEIVA,Rodríguez Ale,Abierto,2305779,64561,812
+Nataly Muriel,Toluol,PEREIRA,Cely Lui,Ingresado,4675000,130900
+Valentina De Los Ríos,Kerosene,BOGOTA,Grajales Cri,Abierto,1355000,37940
+Luisa Cely,Acetona ,MEDELLIN,Ortiz Ger,Abierto,3639427,101903,956
+Valentina Alzate,Acetileno,VILLAVICENCIO,Arenas And,Cerrado,2186870,61232,36
+Natalia Zapata,Acetona ,PEREIRA,Alzate Val,Pendiente envío,2784000,77952
+Clara Sánchez,Acetileno,BOGOTA,Muriel Nat,Abierto,2023465,56657,02
+Juan Cardona,Cloruro de Amonio,NEIVA,Alzate Val,Abierto,2324178,65076,984
+Juliana Pérez,Kerosene,PASTO,Alzate Val,Ingresado,2030620,56857,36
+Manuela Zapata,Acido Clorhidrico-Muriático,NEIVA,Rodríguez Ale,Abierto,2362000,66136
+Manuela Zapata,Gas,MEDELLIN,Zapata Man,Abierto,3177352,88965,856
+Juan Cardona,Acetona ,NEIVA,De Los Ríos Val,Pendiente envío,2159459,60464,852
+Andrea Arenas,Acido Clorhidrico-Muriático,CUCUTA,Zapata Man,Abierto,8782876,245920,528
+Luisa Cely,Cloruro de Amonio,PASTO,Sánchez Mar,Abierto,2579766,72233,448
+Clara Sánchez,Acido Sulfúrico,NEIVA,Muriel Nat,Pendiente envío,2309348,64661,744
+Nataly Muriel,Cloruro de Amonio,BOGOTA,Zapata Man,Ingresado,1355000,37940
+Manuela Zapata,Eter Etílico,PASTO,Cely Lui,Abierto,2609678,73070,984
+Manuela Zapata,Kerosene,MEDELLIN,Cely Lui,Pendiente envío,1480092,41442,576
+Manuela Zapata,Eter Etílico,NEIVA,Rodríguez Ale,Cerrado,3656786,102390,008
+Manuela Gómez,Acetileno,PASTO,Pérez Jul,Cerrado,1939846,54315,688
+Valentina Zapata,Toluol,NEIVA,De Los Ríos Val,Abierto,2024670,56690,76
+Valentina García,Acetileno,MEDELLIN,Zapata Nat,Pendiente envío,60340489,1689533,692
+Cristián Grajales,Eter Etílico,BOGOTA,Gómez Man,Pendiente envío,1381213,38673,964
+Nataly Muriel,Alquitran,MEDELLIN,Vanegas Cam,Pendiente envío,13848057,387745,596
+Juan Cardona,Alquitran,BOGOTA,Grajales Cri,Abierto,1956345,54777,66
+Juliana Pérez,Gas,MEDELLIN,Sánchez Mar,Abierto,3082721,86316,188
+Valentina De Los Ríos,Acetona ,BOGOTA,Grajales Cri,Abierto,1520000,42560
+Geraldine Ortiz,Alquitran,SINCELEJO,Zapata Die,Abierto,1386000,38808
+Valerie Zapata,Eter Etílico,BOGOTA,Cely Lui,Abierto,6581448,184280,544
+Cristián Grajales,Gas,MEDELLIN,De Los Ríos Val,Ingresado,3527856,98779,968
+Valentina Zapata,Toluol,PASTO,Muriel Nat,Pendiente envío,1679974,47039,272
+Manuela Gómez,Acido Clorhidrico-Muriático,NEIVA,Zapata Die,Cerrado,1710451,47892,628
+Juan Cardona,Acetileno,BOGOTA,Muriel Nat,Pendiente envío,2068839,57927,492
+Camila Vanegas,Kerosene,BOGOTA,Alzate Val,Abierto,2717303,76084,484
+Valentina Alzate,Cloruro de Amonio,MEDELLIN,Rodríguez Ale,Cerrado,27366756,766269,168
+Natalia Zapata,Toluol,BOGOTA,De Los Ríos Val,Abierto,6523875,182668,5
+Luisa Cely,Kerosene,MEDELLIN,Gómez Man,Cerrado,1944554,54447,512
+Cristián Grajales,Gas,MEDELLIN,De Los Ríos Val,Pendiente envío,1387008,38836,224
+Juan Cardona,Alquitran,MEDELLIN,Grajales Cri,Abierto,2160000,60480
+Natalia Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Gómez Man,Ingresado,3405214,95345,992
+Valentina De Los Ríos,Toluol,PEREIRA,Zapata Val,Abierto,1400000,39200
+Manuela Gómez,Eter Etílico,NEIVA,Zapata Die,Abierto,2380000,66640
+Valentina De Los Ríos,Eter Etílico,MONTERIA,Grajales Cri,Abierto,8545050,239261,4
+Manuela Betancur,Acetona ,IBAGUE,Gómez Man,Abierto,2207700,61815,6
+Valentina Alzate,Cloruro de Amonio,NEIVA,Cely Lui,Abierto,1900000,53200
+Andrea Arenas,Kerosene,BOGOTA,Sánchez Mar,Cerrado,6457000,180796
+Alejandro Rodríguez,Acetileno,BOGOTA,Muriel Nat,Abierto,1809997,50679,916
+Juan Cardona,Toluol,BOGOTA,García Val,Cerrado,2192995,61403,86
+Valerie Zapata,Gas,BOGOTA,De Los Ríos Val,Ingresado,2678004,74984,112
+Natalia Zapata,Alquitran,PEREIRA,Ortiz Ger,Abierto,11609217,325058,076
+Manuela Gómez,Acetona ,MEDELLIN,Cardona Jua,Pendiente envío,1453658,40702,424
+Natalia Zapata,Alquitran,MEDELLIN,De Los Ríos Val,Abierto,3024017,84672,476
+Juliana Pérez,Acido Sulfúrico,PASTO,Alzate Val,Ingresado,2411748,67528,944
+Luisa Cely,Gas,BOGOTA,Zapata Die,Ingresado,2231321,62476,988
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,MEDELLIN,Alzate Val,Pendiente envío,4487716,125656,048
+Camila Vanegas,Acetileno,MEDELLIN,Muriel Nat,Ingresado,2034748,56972,944
+Nataly Muriel,Alquitran,BARRANQUILLA,Cardona Jua,Abierto,5122914,143441,592
+Clara Sánchez,Acido Clorhidrico-Muriático,SANTA MARTA,De Los Ríos Val,Ingresado,1430311,40048,708
+Diego Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Ortiz Ger,Pendiente envío,4933000,138124
+Manuela Betancur,Cloruro de Amonio,CUCUTA,Gómez Man,Cerrado,1675000,46900
+Geraldine Ortiz,Toluol,MEDELLIN,Grajales Cri,Abierto,1815951,50846,628
+Manuela Betancur,Kerosene,MANIZALES,De Los Ríos Val,Abierto,1511228,42314,384
+Andrea Arenas,Acido Clorhidrico-Muriático,PEREIRA,Zapata Nat,Abierto,2799214,78377,992
+Camila Vanegas,Eter Etílico,BOGOTA,Zapata Die,Abierto,1876127,52531,556
+Valentina De Los Ríos,Acetileno,PASTO,Ortiz Ger,Pendiente envío,2469005,69132,14
+Alejandro Rodríguez,Toluol,BOGOTA,De Los Ríos Val,Cerrado,1418596,39720,688
+Manuela Gómez,Eter Etílico,PASTO,Cardona Jua,Abierto,2393574,67020,072
+Valentina García,Acetileno,MEDELLIN,Zapata Nat,Abierto,14944704,418451,712
+Manuela Zapata,Acetileno,BOGOTA,De Los Ríos Val,Cerrado,2258833,63247,324
+Valentina Alzate,Eter Etílico,SINCELEJO,Zapata Die,Abierto,26146645,732106,06
+Juan Cardona,Toluol,CALDAS,Vanegas Cam,Ingresado,5206095,145770,66
+Natalia Zapata,Toluol,BOGOTA,Gómez Man,Abierto,8204681,229731,068
+Alejandro Rodríguez,Alquitran,IBAGUE,Vanegas Cam,Abierto,3226940,90354,32
+Natalia Zapata,Acido Sulfúrico,MEDELLIN,Zapata Nat,Pendiente envío,3114870,87216,36
+Nataly Muriel,Acetona ,MONTERIA,Gómez Man,Abierto,4711852,131931,856
+Valentina García,Alquitran,BOGOTA,Vanegas Cam,Abierto,24509284,686259,952
+Geraldine Ortiz,Acetileno,MEDELLIN,Pérez Jul,Abierto,3350650,93818,2
+Nataly Muriel,Acetona ,CALI,Zapata Man,Ingresado,7589490,212505,72
+Natalia Zapata,Cloruro de Amonio,ARMENIA,Ortiz Ger,Ingresado,5577350,156165,8
+Alejandro Rodríguez,Acetona ,MEDELLIN,Cely Lui,Abierto,3160000,88480
+Cristián Grajales,Eter Etílico,MEDELLIN,Gómez Man,Cerrado,9437476,264249,328
+Luisa Cely,Gas,MEDELLIN,Zapata Val,Abierto,1576748,44148,944
+Camila Vanegas,Toluol,BOGOTA,Ortiz Ger,Abierto,1417242,39682,776
+Manuela Gómez,Gas,BARRANQUILLA,García Val,Abierto,5501750,154049
+Valentina Zapata,Gas,PASTO,De Los Ríos Val,Abierto,5332368,149306,304
+Valerie Zapata,Acido Sulfúrico,NEIVA,Zapata Man,Abierto,1626733,45548,524
+Valentina Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Ortiz Ger,Abierto,1354151,37916,228
+Valerie Zapata,Kerosene,NEIVA,Alzate Val,Abierto,2348220,65750,16
+Valentina García,Eter Etílico,BARRANQUILLA,Cardona Jua,Pendiente envío,4989367,139702,276
+Alejandro Rodríguez,Acetileno,POPAYAN,Arenas And,Abierto,4908512,137438,336
+Valerie Zapata,Acido Clorhidrico-Muriático,BOGOTA,Alzate Val,Ingresado,1997658,55934,424
+Cristián Grajales,Acetileno,MONTERIA,Ortiz Ger,Cerrado,4930650,138058,2
+Clara Sánchez,Eter Etílico,MANIZALES,Alzate Val,Abierto,1464169,40996,732
+Valentina De Los Ríos,Gas,CALI,Arenas And,Abierto,7034189,196957,292
+Valerie Zapata,Acido Sulfúrico,MEDELLIN,Cely Lui,Abierto,1344681,37651,068
+Andrea Arenas,Gas,BOGOTA,Betancur Man,Abierto,1458810,40846,68
+Andrea Arenas,Cloruro de Amonio,CALI,Alzate Val,Abierto,4962300,138944,4
+Geraldine Ortiz,Eter Etílico,FLORENCIA,De Los Ríos Val,Abierto,40000000,1120000
+Luisa Cely,Kerosene,BOGOTA,Cardona Jua,Abierto,6640910,185945,48
+Natalia Zapata,Acido Sulfúrico,NEIVA,De Los Ríos Val,Pendiente envío,3644206,102037,768
+Diego Zapata,Eter Etílico,ARMENIA,Rodríguez Ale,Abierto,15735304,440588,512
+Andrea Arenas,Eter Etílico,BOGOTA,Grajales Cri,Ingresado,1643500,46018
+Manuela Betancur,Kerosene,ARMENIA,Gómez Man,Abierto,1633500,45738
+Diego Zapata,Gas,BOGOTA,García Val,Abierto,2712800,75958,4
+Valentina García,Cloruro de Amonio,MEDELLIN,Muriel Nat,Abierto,1474335,41281,38
+Valerie Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Zapata Nat,Cerrado,4280313,119848,764
+Juliana Pérez,Alquitran,MEDELLIN,Ortiz Ger,Abierto,1666680,46667,04
+Manuela Betancur,Cloruro de Amonio,MEDELLIN,Arenas And,Abierto,3369861,94356,108
+Valentina García,Alquitran,PEREIRA,Rodríguez Ale,Abierto,4089800,114514,4
+Manuela Gómez,Cloruro de Amonio,BOGOTA,García Val,Cerrado,2167420,60687,76
+Geraldine Ortiz,Acetileno,BOGOTA,Gómez Man,Pendiente envío,1580000,44240
+Valerie Zapata,Cloruro de Amonio,PEREIRA,Muriel Nat,Abierto,1366180,38253,04
+Juliana Pérez,Kerosene,MEDELLIN,Zapata Man,Abierto,8873464,248456,992
+Valerie Zapata,Alquitran,NEIVA,Alzate Val,Abierto,1716921,48073,788
+Cristián Grajales,Cloruro de Amonio,CALDAS,Arenas And,Cerrado,4782720,133916,16
+Alejandro Rodríguez,Alquitran,VILLAVICENCIO,Rodríguez Ale,Pendiente envío,1634220,45758,16
+Juliana Pérez,Acido Clorhidrico-Muriático,IBAGUE,Alzate Val,Abierto,5417592,151692,576
+Cristián Grajales,Eter Etílico,VILLAVICENCIO,De Los Ríos Val,Ingresado,7070890,197984,92
+Manuela Gómez,Acetona ,MEDELLIN,Sánchez Mar,Abierto,3355210,93945,88
+Manuela Betancur,Eter Etílico,PEREIRA,Muriel Nat,Ingresado,2860233,80086,524
+Camila Vanegas,Acetona ,BUCARAMANGA,Sánchez Mar,Abierto,5588574,156480,072
+Valentina De Los Ríos,Toluol,PASTO,Pérez Jul,Pendiente envío,2567730,71896,44
+Cristián Grajales,Alquitran,CALI,Pérez Jul,Ingresado,6339309,177500,652
+Geraldine Ortiz,Acido Sulfúrico,MEDELLIN,Arenas And,Abierto,2103353,58893,884
+Natalia Zapata,Acido Sulfúrico,MEDELLIN,De Los Ríos Val,Ingresado,3044447,85244,516
+Manuela Zapata,Acetileno,BOGOTA,Grajales Cri,Abierto,1350917,37825,676
+Valentina García,Acido Clorhidrico-Muriático,NEIVA,Zapata Man,Abierto,2323642,65061,976
+Diego Zapata,Alquitran,VILLAVICENCIO,Zapata Man,Abierto,1693945,47430,46
+Manuela Gómez,Alquitran,BOGOTA,Cardona Jua,Pendiente envío,2630187,73645,236
+Alejandro Rodríguez,Acido Clorhidrico-Muriático,MEDELLIN,Gómez Man,Pendiente envío,4198141,117547,948
+Valentina De Los Ríos,Acetileno,NEIVA,Zapata Man,Abierto,3105019,86940,532
+Manuela Betancur,Acetileno,MEDELLIN,Cely Lui,Ingresado,1423746,39864,888
+Manuela Zapata,Acetileno,CALI,Zapata Man,Pendiente envío,7154008,200312,224
+Cristián Grajales,Gas,BOGOTA,Cardona Jua,Abierto,15628232,437590,496
+Clara Sánchez,Cloruro de Amonio,MEDELLIN,Vanegas Cam,Abierto,17703600,495700,8
+Valentina García,Acido Sulfúrico,NEIVA,Pérez Jul,Pendiente envío,2068364,57914,192
+Luisa Cely,Alquitran,CALI,Cardona Jua,Abierto,7576102,212130,856
+Juliana Pérez,Alquitran,MEDELLIN,Zapata Man,Ingresado,3120017,87360,476
+Manuela Zapata,Acido Clorhidrico-Muriático,BOGOTA,Muriel Nat,Abierto,3854398,107923,144
+Geraldine Ortiz,Acido Sulfúrico,PEREIRA,Pérez Jul,Abierto,2786000,78008
+Andrea Arenas,Alquitran,MEDELLIN,Alzate Val,Ingresado,1450000,40600
+Manuela Zapata,Acido Sulfúrico,PASTO,Arenas And,Abierto,32172970,900843,16
+Camila Vanegas,Acetileno,POPAYAN,Vanegas Cam,Abierto,3269486,91545,608
+Clara Sánchez,Toluol,MEDELLIN,Cardona Jua,Ingresado,3289899,92117,172
+Geraldine Ortiz,Acetona ,PEREIRA,Grajales Cri,Abierto,4100038,114801,064
+Luisa Cely,Eter Etílico,PEREIRA,Rodríguez Ale,Cerrado,2215610,62037,08
+Nataly Muriel,Acetona ,BOGOTA,Vanegas Cam,Abierto,2656996,74395,888
+Manuela Betancur,Acido Clorhidrico-Muriático,POPAYAN,Sánchez Mar,Abierto,29429047,824013,316
+Clara Sánchez,Alquitran,MEDELLIN,Ortiz Ger,Cerrado,4572379,128026,612
+Geraldine Ortiz,Acetona ,PEREIRA,Zapata Man,Abierto,1420063,39761,764
+Juliana Pérez,Alquitran,BOGOTA,Betancur Man,Abierto,2120521,59374,588
+Valerie Zapata,Toluol,BOGOTA,Pérez Jul,Abierto,1392000,38976
+Diego Zapata,Acetileno,CALDAS,Alzate Val,Abierto,1700965,47627,02
+Cristián Grajales,Toluol,SINCELEJO,Rodríguez Ale,Abierto,8719466,244145,048
+Clara Sánchez,Alquitran,BOGOTA,Zapata Man,Cerrado,6771429,189600,012
+Camila Vanegas,Toluol,BOGOTA,Alzate Val,Abierto,6423761,179865,308
+Cristián Grajales,Kerosene,PASTO,Cardona Jua,Abierto,2450000,68600
+Cristián Grajales,Acido Clorhidrico-Muriático,BARRANQUILLA,Zapata Val,Abierto,1735114,48583,192
+Valentina De Los Ríos,Acetona ,NEIVA,Zapata Die,Abierto,2379558,66627,624
+Cristián Grajales,Acido Sulfúrico,BOGOTA,Alzate Val,Abierto,6265806,175442,568
+Luisa Cely,Acido Sulfúrico,MANIZALES,Gómez Man,Abierto,4933015,138124,42
+Valentina De Los Ríos,Kerosene,NEIVA,Arenas And,Pendiente envío,1819413,50943,564
+Natalia Zapata,Cloruro de Amonio,MEDELLIN,Zapata Val,Abierto,3362354,94145,912
+Manuela Betancur,Kerosene,MEDELLIN,Cely Lui,Abierto,12540915,351145,62
+Juan Cardona,Cloruro de Amonio,MEDELLIN,Pérez Jul,Cerrado,1458630,40841,64
+Geraldine Ortiz,Gas,PEREIRA,Ortiz Ger,Abierto,4137836,115859,408
+Clara Sánchez,Acetileno,VALLEDUPAR,Ortiz Ger,Abierto,1735874,48604,472
+Clara Sánchez,Toluol,NEIVA,Betancur Man,Abierto,1700000,47600
+Valerie Zapata,Gas,MEDELLIN,Ortiz Ger,Abierto,1863770,52185,56
+Manuela Zapata,Acetileno,VALLEDUPAR,Sánchez Mar,Cerrado,1460080,40882,24
+Diego Zapata,Acetona ,MEDELLIN,De Los Ríos Val,Cerrado,4579798,128234,344
+Geraldine Ortiz,Eter Etílico,BOGOTA,Arenas And,Cerrado,3800000,106400
+Andrea Arenas,Toluol,MEDELLIN,Zapata Val,Pendiente envío,1365623,38237,444
+Manuela Betancur,Acetileno,MANIZALES,Zapata Die,Abierto,18319947,512958,516
+Valentina Zapata,Toluol,MEDELLIN,Cardona Jua,Cerrado,43934147,1230156,116
+Luisa Cely,Eter Etílico,NEIVA,Zapata Die,Pendiente envío,1804051,50513,428
+Valentina De Los Ríos,Acetileno,PEREIRA,Muriel Nat,Abierto,2855882,79964,696
+Andrea Arenas,Acido Clorhidrico-Muriático,CALDAS,De Los Ríos Val,Ingresado,11054019,309512,532
+Juan Cardona,Alquitran,BOGOTA,Zapata Die,Abierto,1360000,38080
+Juliana Pérez,Acido Clorhidrico-Muriático,PASTO,Pérez Jul,Abierto,1725245,48306,86
+Manuela Zapata,Acido Clorhidrico-Muriático,BOGOTA,Zapata Man,Abierto,2665717,74640,076
+Geraldine Ortiz,Acetileno,VALLEDUPAR,Pérez Jul,Ingresado,1495229,41866,412
+Valentina García,Acetileno,MEDELLIN,Ortiz Ger,Abierto,14790780,414141,84
+Camila Vanegas,Eter Etílico,BOGOTA,De Los Ríos Val,Abierto,6724914,188297,592
+Manuela Gómez,Acetileno,PASTO,Sánchez Mar,Cerrado,2474956,69298,768
+Juan Cardona,Gas,BOGOTA,Zapata Nat,Abierto,6575247,184106,916
+Nataly Muriel,Acetileno,PASTO,Zapata Nat,Cerrado,1939703,54311,684
+Valerie Zapata,Acido Sulfúrico,BOGOTA,Ortiz Ger,Abierto,4039690,113111,32
+Manuela Gómez,Gas,MEDELLIN,Ortiz Ger,Abierto,3394639,95049,892
+Manuela Betancur,Kerosene,BOGOTA,De Los Ríos Val,Pendiente envío,4012000,112336
+Clara Sánchez,Gas,VILLAVICENCIO,Muriel Nat,Pendiente envío,1548442,43356,376
+Luisa Cely,Eter Etílico,BOGOTA,Zapata Nat,Abierto,1472874,41240,472
+Valerie Zapata,Gas,BOGOTA,Zapata Nat,Abierto,1464442,41004,376
+Juan Cardona,Acido Clorhidrico-Muriático,BOGOTA,Pérez Jul,Abierto,2255330,63149,24
+Diego Zapata,Eter Etílico,PEREIRA,Vanegas Cam,Abierto,5318050,148905,4
+Geraldine Ortiz,Alquitran,MEDELLIN,Muriel Nat,Abierto,8880048,248641,344
+Manuela Gómez,Acetileno,MEDELLIN,Muriel Nat,Abierto,1344305,37640,54
+Natalia Zapata,Acetona ,MEDELLIN,Zapata Man,Abierto,3332291,93304,148
+Geraldine Ortiz,Acido Sulfúrico,PEREIRA,Zapata Man,Pendiente envío,4043586,113220,408
+Geraldine Ortiz,Acido Sulfúrico,BOGOTA,García Val,Abierto,1388445,38876,46
+Andrea Arenas,Eter Etílico,POPAYAN,Zapata Nat,Cerrado,1431315,40076,82
+Geraldine Ortiz,Kerosene,MONTERIA,Pérez Jul,Pendiente envío,10726055,300329,54
+Valentina De Los Ríos,Acido Sulfúrico,MEDELLIN,García Val,Ingresado,3280000,91840
+Cristián Grajales,Acetileno,MEDELLIN,Alzate Val,Abierto,4187102,117238,856
+Valentina Zapata,Acetona ,MEDELLIN,García Val,Cerrado,2966654,83066,312
+Alejandro Rodríguez,Acetona ,MEDELLIN,Vanegas Cam,Abierto,1850000,51800
+Andrea Arenas,Cloruro de Amonio,TULUA,Cardona Jua,Abierto,21107445,591008,46
+Clara Sánchez,Acetileno,BARRANQUILLA,Ortiz Ger,Abierto,5570796,155982,288
+Luisa Cely,Acido Clorhidrico-Muriático,BOGOTA,Arenas And,Cerrado,2623759,73465,252
+Valentina García,Acido Sulfúrico,BOGOTA,De Los Ríos Val,Abierto,1414980,39619,44
+Juan Cardona,Acido Clorhidrico-Muriático,PASTO,Cely Lui,Cerrado,2607970,73023,16
+Alejandro Rodríguez,Acido Clorhidrico-Muriático,BOGOTA,Sánchez Mar,Ingresado,2125000,59500
+Luisa Cely,Acetileno,BOGOTA,Arenas And,Abierto,3719653,104150,284
+Manuela Gómez,Acetileno,BOGOTA,Zapata Nat,Abierto,3861083,108110,324
+Natalia Zapata,Acido Sulfúrico,NEIVA,Gómez Man,Abierto,2360904,66105,312
+Cristián Grajales,Acetona ,ARMENIA,Zapata Val,Abierto,7014659,196410,452
+Valentina Zapata,Gas,MEDELLIN,Cely Lui,Abierto,22802504,638470,112
+Andrea Arenas,Acetileno,MEDELLIN,De Los Ríos Val,Ingresado,12246313,342896,764
+Manuela Gómez,Alquitran,CUCUTA,De Los Ríos Val,Abierto,1369180,38337,04
+Andrea Arenas,Eter Etílico,PEREIRA,Ortiz Ger,Abierto,1966138,55051,864
+Andrea Arenas,Acido Clorhidrico-Muriático,POPAYAN,Zapata Man,Cerrado,9674036,270873,008
+Diego Zapata,Acetona ,NEIVA,García Val,Abierto,9565087,267822,436
+Nataly Muriel,Acido Sulfúrico,BOGOTA,Zapata Man,Abierto,1884702,52771,656
+Manuela Gómez,Acido Sulfúrico,MEDELLIN,Cely Lui,Cerrado,3423644,95862,032
+Valentina Zapata,Acido Sulfúrico,MEDELLIN,García Val,Ingresado,3058432,85636,096
+Clara Sánchez,Acetona ,VILLAVICENCIO,Gómez Man,Ingresado,15800000,442400
+Manuela Zapata,Alquitran,PASTO,Gómez Man,Abierto,1720774,48181,672
+Valentina De Los Ríos,Alquitran,MEDELLIN,Cardona Jua,Abierto,21463822,600987,016
+Juliana Pérez,Gas,CALDAS,Grajales Cri,Abierto,1464714,41011,992
+Manuela Gómez,Alquitran,NEIVA,Grajales Cri,Abierto,2201380,61638,64
+Cristián Grajales,Kerosene,FLORENCIA,Zapata Die,Abierto,19698806,551566,568
+Valentina Alzate,Eter Etílico,MEDELLIN,Cely Lui,Abierto,1940643,54338,004
+Clara Sánchez,Acetona ,MEDELLIN,Sánchez Mar,Abierto,8983261,251531,308
+Diego Zapata,Gas,TULUA,Gómez Man,Abierto,5608296,157032,288
+Andrea Arenas,Acido Clorhidrico-Muriático,BOGOTA,Muriel Nat,Cerrado,1362000,38136
+Valentina García,Acido Clorhidrico-Muriático,BOGOTA,Grajales Cri,Cerrado,5746054,160889,512
+Valentina Alzate,Alquitran,PASTO,Vanegas Cam,Abierto,2538891,71088,948
+Manuela Gómez,Kerosene,MANIZALES,Pérez Jul,Abierto,1836670,51426,76
+Juan Cardona,Kerosene,BOGOTA,Sánchez Mar,Abierto,5813490,162777,72
+Manuela Zapata,Acetileno,PASTO,Arenas And,Abierto,1727103,48358,884
+Valerie Zapata,Eter Etílico,MEDELLIN,De Los Ríos Val,Abierto,1828984,51211,552
+Valerie Zapata,Gas,PASTO,Zapata Val,Ingresado,2603136,72887,808
+Valerie Zapata,Cloruro de Amonio,MEDELLIN,Betancur Man,Cerrado,1477520,41370,56
+Cristián Grajales,Acetileno,CALI,Vanegas Cam,Ingresado,7646049,214089,372
+Camila Vanegas,Acetileno,CALI,Muriel Nat,Abierto,7201687,201647,236
+Valentina De Los Ríos,Cloruro de Amonio,MEDELLIN,García Val,Ingresado,2211149,61912,172
+Valentina De Los Ríos,Cloruro de Amonio,CUCUTA,Zapata Man,Ingresado,1750000,49000
+Manuela Gómez,Acetona ,MEDELLIN,Cardona Jua,Pendiente envío,3340192,93525,376
+Luisa Cely,Cloruro de Amonio,BARRANQUILLA,Ortiz Ger,Abierto,2015949,56446,572
+Natalia Zapata,Alquitran,MEDELLIN,García Val,Pendiente envío,1498003,41944,084
+Clara Sánchez,Acido Clorhidrico-Muriático,CALI,Ortiz Ger,Abierto,6978678,195402,984
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,FLORENCIA,Zapata Man,Abierto,3356841,93991,548
+Luisa Cely,Eter Etílico,BOGOTA,Zapata Nat,Abierto,5800000,162400
+Alejandro Rodríguez,Eter Etílico,CARTAGENA,Ortiz Ger,Abierto,51074177,1430076,956
+Diego Zapata,Eter Etílico,CUCUTA,Muriel Nat,Abierto,1662849,46559,772
+Manuela Gómez,Acetileno,CALI,Cardona Jua,Abierto,11686015,327208,42
+Diego Zapata,Cloruro de Amonio,NEIVA,Muriel Nat,Abierto,3653615,102301,22
+Diego Zapata,Alquitran,BARRANQUILLA,Muriel Nat,Pendiente envío,115442975,3232403,3
+Juliana Pérez,Alquitran,MEDELLIN,Betancur Man,Pendiente envío,23746354,664897,912
+Andrea Arenas,Acetileno,MEDELLIN,Gómez Man,Abierto,8852202,247861,656
+Juan Cardona,Acetileno,VILLAVICENCIO,Grajales Cri,Ingresado,1582568,44311,904
+Manuela Betancur,Kerosene,PASTO,Alzate Val,Cerrado,2573257,72051,196
+Valerie Zapata,Acetileno,SANTA MARTA,Arenas And,Abierto,1601790,44850,12
+Manuela Betancur,Eter Etílico,SANTA MARTA,Betancur Man,Cerrado,4902012,137256,336
+Valerie Zapata,Alquitran,BOGOTA,Zapata Man,Ingresado,1813240,50770,72
+Clara Sánchez,Alquitran,MEDELLIN,Muriel Nat,Cerrado,1608968,45051,104
+Luisa Cely,Acetona ,PASTO,Muriel Nat,Abierto,1993618,55821,304
+Valentina Zapata,Acetona ,VILLAVICENCIO,Ortiz Ger,Ingresado,8979040,251413,12
+Nataly Muriel,Kerosene,PASTO,García Val,Cerrado,2512411,70347,508
+Natalia Zapata,Kerosene,MEDELLIN,Rodríguez Ale,Abierto,1748674,48962,872
+Diego Zapata,Acido Clorhidrico-Muriático,BUCARAMANGA,Ortiz Ger,Abierto,350872000,9824416
+Clara Sánchez,Alquitran,SINCELEJO,Arenas And,Abierto,1850000,51800
+Valentina García,Gas,PASTO,Zapata Man,Ingresado,1799290,50380,12
+Luisa Cely,Acetona ,MANIZALES,Zapata Val,Abierto,1918139,53707,892
+Manuela Betancur,Kerosene,PASTO,Sánchez Mar,Abierto,13469524,377146,672
+Alejandro Rodríguez,Alquitran,BOGOTA,Zapata Man,Abierto,1750000,49000
+Clara Sánchez,Cloruro de Amonio,BOGOTA,Cardona Jua,Abierto,1823501,51058,028
+Manuela Betancur,Cloruro de Amonio,MANIZALES,García Val,Pendiente envío,1862850,52159,8
+Valentina Zapata,Kerosene,BOGOTA,Zapata Nat,Ingresado,2630000,73640
+Valentina Alzate,Acetileno,PEREIRA,Arenas And,Abierto,2750486,77013,608
+Juan Cardona,Gas,MEDELLIN,Vanegas Cam,Cerrado,3201058,89629,624
+Valentina García,Acetona ,PASTO,Ortiz Ger,Abierto,1762317,49344,876
+Juan Cardona,Gas,MEDELLIN,Cardona Jua,Ingresado,1484410,41563,48
+Valentina Alzate,Eter Etílico,BOGOTA,Rodríguez Ale,Abierto,2257088,63198,464
+Natalia Zapata,Alquitran,BOGOTA,Cely Lui,Abierto,1520010,42560,28
+Valentina Alzate,Acetileno,MEDELLIN,Rodríguez Ale,Abierto,20180000,565040
+Luisa Cely,Acetileno,CALI,Ortiz Ger,Abierto,7330291,205248,148
+Nataly Muriel,Gas,MEDELLIN,Betancur Man,Abierto,13849000,387772
+Nataly Muriel,Acido Clorhidrico-Muriático,PASTO,Alzate Val,Abierto,2443039,68405,092
+Valentina Zapata,Alquitran,BUCARAMANGA,Betancur Man,Abierto,1947032,54516,896
+Alejandro Rodríguez,Acetileno,BOGOTA,Betancur Man,Abierto,6073945,170070,46
+Valentina García,Acetileno,PASTO,Alzate Val,Pendiente envío,9524445,266684,46
+Luisa Cely,Toluol,PEREIRA,Rodríguez Ale,Abierto,4081046,114269,288
+Manuela Betancur,Gas,MEDELLIN,Grajales Cri,Abierto,1949923,54597,844
+Luisa Cely,Acetileno,MEDELLIN,Grajales Cri,Abierto,1633291,45732,148
+Manuela Betancur,Acido Clorhidrico-Muriático,FLORENCIA,Betancur Man,Abierto,14284557,399967,596
+Camila Vanegas,Acetona ,PASTO,Pérez Jul,Pendiente envío,2571786,72010,008
+Luisa Cely,Cloruro de Amonio,BOGOTA,Grajales Cri,Abierto,2635862,73804,136
+Geraldine Ortiz,Eter Etílico,PEREIRA,Grajales Cri,Cerrado,1412000,39536
+Valentina Alzate,Acetileno,MEDELLIN,Zapata Val,Ingresado,12958078,362826,184
+Manuela Zapata,Kerosene,MEDELLIN,Cardona Jua,Abierto,1829680,51231,04
+Camila Vanegas,Eter Etílico,NEIVA,Zapata Val,Abierto,14000000,392000
+Clara Sánchez,Acido Sulfúrico,NEIVA,Arenas And,Cerrado,1749600,48988,8
+Valerie Zapata,Kerosene,MEDELLIN,Zapata Nat,Ingresado,1679836,47035,408
+Nataly Muriel,Gas,BOGOTA,Betancur Man,Cerrado,3846278,107695,784
+Valentina De Los Ríos,Acido Sulfúrico,BUCARAMANGA,Alzate Val,Abierto,5214337,146001,436
+Valentina Zapata,Alquitran,FLORENCIA,Arenas And,Pendiente envío,1452833,40679,324
+Andrea Arenas,Cloruro de Amonio,MEDELLIN,Arenas And,Abierto,14359484,402065,552
+Valerie Zapata,Kerosene,BOGOTA,García Val,Abierto,1443003,40404,084
+Valentina García,Gas,NEIVA,Rodríguez Ale,Abierto,2062928,57761,984
+Luisa Cely,Acetileno,BOGOTA,Cely Lui,Abierto,3771079,105590,212
+Nataly Muriel,Acetileno,BOGOTA,García Val,Abierto,3794767,106253,476
+Luisa Cely,Acetileno,NEIVA,Muriel Nat,Abierto,1860000,52080
+Juliana Pérez,Acido Sulfúrico,MEDELLIN,Rodríguez Ale,Cerrado,1908903,53449,284
+Manuela Betancur,Gas,PEREIRA,Zapata Val,Abierto,1879926,52637,928
+Andrea Arenas,Alquitran,BOGOTA,Ortiz Ger,Abierto,1359122,38055,416
+Geraldine Ortiz,Acetileno,MEDELLIN,Pérez Jul,Abierto,3320984,92987,552
+Natalia Zapata,Acetona ,MEDELLIN,Rodríguez Ale,Abierto,1471999,41215,972
+Manuela Betancur,Alquitran,NEIVA,García Val,Abierto,3650000,102200
+Juliana Pérez,Kerosene,PEREIRA,Zapata Man,Abierto,1874695,52491,46
+Valentina De Los Ríos,Acetileno,SANTA MARTA,Zapata Man,Ingresado,1476803,41350,484
+Valentina Zapata,Acetileno,VALLEDUPAR,Pérez Jul,Abierto,1647467,46129,076
+Juliana Pérez,Acido Sulfúrico,BOGOTA,De Los Ríos Val,Abierto,1363180,38169,04
+Alejandro Rodríguez,Acetileno,MEDELLIN,De Los Ríos Val,Abierto,2974508,83286,224
+Juliana Pérez,Toluol,MEDELLIN,De Los Ríos Val,Cerrado,2971380,83198,64
+Valentina Zapata,Cloruro de Amonio,BOGOTA,Ortiz Ger,Abierto,3908155,109428,34
+Valentina Alzate,Acetileno,MEDELLIN,Cardona Jua,Abierto,2018726,56524,328
+Luisa Cely,Alquitran,BOGOTA,Gómez Man,Cerrado,2132629,59713,612
+Valentina Alzate,Acetona ,MEDELLIN,Rodríguez Ale,Cerrado,22770982,637587,496
+Manuela Betancur,Acetileno,MONTERIA,Vanegas Cam,Cerrado,37147500,1040130
+Manuela Zapata,Kerosene,BARRANQUILLA,Ortiz Ger,Cerrado,1400000,39200
+Valentina Alzate,Eter Etílico,BOGOTA,Zapata Nat,Cerrado,2078725,58204,3
+Geraldine Ortiz,Acetileno,NEIVA,Arenas And,Abierto,2355040,65941,12
+Valentina Alzate,Acido Clorhidrico-Muriático,MANIZALES,Ortiz Ger,Abierto,1894448,53044,544
+Geraldine Ortiz,Eter Etílico,MEDELLIN,Zapata Nat,Cerrado,3391752,94969,056
+Manuela Gómez,Acido Clorhidrico-Muriático,SANTA MARTA,Rodríguez Ale,Abierto,8749011,244972,308
+Valentina Alzate,Acetileno,NEIVA,Zapata Die,Abierto,17626530,493542,84
+Manuela Betancur,Acetona ,BUCARAMANGA,Arenas And,Ingresado,1541616,43165,248
+Cristián Grajales,Acetileno,MEDELLIN,Ortiz Ger,Abierto,1893818,53026,904
+Camila Vanegas,Gas,MEDELLIN,Vanegas Cam,Abierto,4328145,121188,06
+Alejandro Rodríguez,Toluol,BOGOTA,Zapata Val,Abierto,1996791,55910,148
+Manuela Gómez,Cloruro de Amonio,POPAYAN,García Val,Abierto,4654430,130324,04
+Juan Cardona,Acido Clorhidrico-Muriático,BOGOTA,Alzate Val,Ingresado,6055473,169553,244
+Cristián Grajales,Acetileno,NEIVA,Sánchez Mar,Abierto,3660781,102501,868
+Manuela Gómez,Kerosene,PASTO,Grajales Cri,Ingresado,1595028,44660,784
+Alejandro Rodríguez,Gas,BOGOTA,Arenas And,Abierto,1370965,38387,02
+Valentina De Los Ríos,Alquitran,PEREIRA,Vanegas Cam,Pendiente envío,4645058,130061,624
+Valentina Zapata,Alquitran,BARRANQUILLA,Zapata Val,Abierto,4800000,134400
+Valentina Zapata,Alquitran,MEDELLIN,Grajales Cri,Ingresado,1650000,46200
+Nataly Muriel,Acetileno,PASTO,Cardona Jua,Ingresado,2455014,68740,392
+Valentina De Los Ríos,Acido Sulfúrico,MEDELLIN,Vanegas Cam,Cerrado,2016382,56458,696
+Valentina García,Gas,MEDELLIN,Rodríguez Ale,Cerrado,3393728,95024,384
+Manuela Betancur,Acido Clorhidrico-Muriático,PASTO,De Los Ríos Val,Pendiente envío,2412404,67547,312
+Manuela Zapata,Eter Etílico,MEDELLIN,Arenas And,Abierto,1494708,41851,824
+Valentina García,Acetileno,MEDELLIN,Vanegas Cam,Abierto,10756465,301181,02
+Camila Vanegas,Cloruro de Amonio,BOGOTA,Zapata Man,Abierto,6585474,184393,272
+Natalia Zapata,Gas,BOGOTA,Ortiz Ger,Abierto,1901959,53254,852
+Juliana Pérez,Toluol,BOGOTA,Zapata Die,Abierto,6741701,188767,628
+Manuela Zapata,Acetileno,POPAYAN,Zapata Die,Abierto,1533260,42931,28
+Valentina De Los Ríos,Toluol,TULUA,Cardona Jua,Pendiente envío,2269268,63539,504
+Valentina García,Acido Clorhidrico-Muriático,PASTO,Grajales Cri,Abierto,1713509,47978,252
+Valentina Alzate,Acetileno,BOGOTA,Zapata Man,Cerrado,2212453,61948,684
+Valentina García,Eter Etílico,CALDAS,De Los Ríos Val,Cerrado,1699424,47583,872
+Camila Vanegas,Gas,BOGOTA,Zapata Val,Abierto,3704336,103721,408
+Geraldine Ortiz,Cloruro de Amonio,MONTERIA,Zapata Man,Abierto,3084242,86358,776
+Nataly Muriel,Eter Etílico,BOGOTA,Zapata Die,Abierto,1671274,46795,672
+Cristián Grajales,Acido Sulfúrico,ARMENIA,Pérez Jul,Abierto,3500000,98000
+Valentina Alzate,Alquitran,PASTO,Alzate Val,Ingresado,2484066,69553,848
+Geraldine Ortiz,Kerosene,CARTAGENA,Pérez Jul,Abierto,2186742,61228,776
+Valentina De Los Ríos,Acido Sulfúrico,SINCELEJO,Vanegas Cam,Abierto,12090000,338520
+Andrea Arenas,Acetileno,BOGOTA,Rodríguez Ale,Abierto,1386832,38831,296
+Juliana Pérez,Acetona ,BOGOTA,Cely Lui,Abierto,2058093,57626,604
+Cristián Grajales,Cloruro de Amonio,POPAYAN,Vanegas Cam,Abierto,15008400,420235,2
+Cristián Grajales,Alquitran,NEIVA,Vanegas Cam,Pendiente envío,2268414,63515,592
+Valentina Zapata,Eter Etílico,MEDELLIN,Cely Lui,Pendiente envío,158237211,4430641,908
+Valentina Zapata,Eter Etílico,MEDELLIN,Arenas And,Abierto,2243144,62808,032
+Manuela Betancur,Acetileno,MEDELLIN,Alzate Val,Ingresado,3337016,93436,448
+Juliana Pérez,Cloruro de Amonio,CARTAGENA,Zapata Val,Abierto,34048218,953350,104
+Valentina García,Acido Clorhidrico-Muriático,BOGOTA,Zapata Val,Abierto,2080500,58254
+Cristián Grajales,Acetileno,MEDELLIN,Grajales Cri,Abierto,1632600,45712,8
+Diego Zapata,Toluol,MEDELLIN,Zapata Man,Abierto,1467885,41100,78
+Valerie Zapata,Eter Etílico,POPAYAN,Betancur Man,Abierto,5048764,141365,392
+Alejandro Rodríguez,Acido Clorhidrico-Muriático,CUCUTA,Pérez Jul,Ingresado,9334727,261372,356
+Manuela Zapata,Acetileno,PEREIRA,Alzate Val,Abierto,2933551,82139,428
+Valentina De Los Ríos,Gas,PASTO,Ortiz Ger,Abierto,2610000,73080
+Valentina De Los Ríos,Eter Etílico,MEDELLIN,Muriel Nat,Ingresado,57627250,1613563
+Valentina Zapata,Acido Sulfúrico,PEREIRA,Alzate Val,Abierto,2923545,81859,26
+Andrea Arenas,Kerosene,CALI,Cely Lui,Cerrado,7725440,216312,32
+Natalia Zapata,Acido Clorhidrico-Muriático,NEIVA,Cardona Jua,Abierto,1786794,50030,232
+Valentina Zapata,Gas,PASTO,Zapata Man,Abierto,1678914,47009,592
+Juliana Pérez,Gas,PASTO,Zapata Nat,Pendiente envío,2499312,69980,736
+Camila Vanegas,Acetona ,BOGOTA,Rodríguez Ale,Ingresado,2172535,60830,98
+Camila Vanegas,Cloruro de Amonio,MEDELLIN,Zapata Man,Ingresado,1430691,40059,348
+Nataly Muriel,Gas,BOGOTA,Grajales Cri,Pendiente envío,5569433,155944,124
+Geraldine Ortiz,Acido Sulfúrico,PASTO,Zapata Nat,Abierto,1727670,48374,76
+Juliana Pérez,Acetona ,CALDAS,Alzate Val,Abierto,1491181,41753,068
+Manuela Gómez,Acetona ,VALLEDUPAR,Cely Lui,Abierto,26142068,731977,904
+Valentina García,Eter Etílico,CUCUTA,Zapata Die,Abierto,1366929,38274,012
+Valentina Zapata,Eter Etílico,MEDELLIN,García Val,Abierto,13809143,386656,004
+Manuela Gómez,Cloruro de Amonio,PASTO,Zapata Nat,Ingresado,2494638,69849,864
+Natalia Zapata,Eter Etílico,BOGOTA,De Los Ríos Val,Cerrado,2720000,76160
+Diego Zapata,Toluol,MEDELLIN,Zapata Val,Ingresado,1892240,52982,72
+Juan Cardona,Acido Sulfúrico,CALI,Cardona Jua,Pendiente envío,6848175,191748,9
+Valentina García,Acetona ,MEDELLIN,Cardona Jua,Cerrado,20070654,561978,312
+Geraldine Ortiz,Acetona ,MEDELLIN,Ortiz Ger,Abierto,3093512,86618,336
+Natalia Zapata,Acetileno,MEDELLIN,Ortiz Ger,Abierto,3124325,87481,1
+Nataly Muriel,Cloruro de Amonio,BARRANQUILLA,Grajales Cri,Abierto,1606304,44976,512
+Andrea Arenas,Gas,MEDELLIN,Sánchez Mar,Abierto,2832044,79297,232
+Manuela Zapata,Acetileno,PEREIRA,Alzate Val,Abierto,4040000,113120
+Manuela Zapata,Alquitran,PEREIRA,Alzate Val,Abierto,13095461,366672,908
+Cristián Grajales,Eter Etílico,BOGOTA,Zapata Man,Pendiente envío,3958000,110824
+Manuela Gómez,Acetona ,PASTO,Pérez Jul,Ingresado,2408820,67446,96
+Geraldine Ortiz,Toluol,MEDELLIN,Grajales Cri,Ingresado,4432534,124110,952
+Andrea Arenas,Acido Sulfúrico,PASTO,Grajales Cri,Ingresado,2401242,67234,776
+Luisa Cely,Cloruro de Amonio,BOGOTA,Grajales Cri,Abierto,1363440,38176,32
+Diego Zapata,Acido Clorhidrico-Muriático,PEREIRA,Zapata Die,Cerrado,2825858,79124,024
+Alejandro Rodríguez,Eter Etílico,FLORENCIA,Cardona Jua,Abierto,2183670,61142,76
+Valentina García,Acetileno,PASTO,Pérez Jul,Abierto,2493499,69817,972
+Camila Vanegas,Acetona ,MEDELLIN,De Los Ríos Val,Abierto,17317309,484884,652
+Valentina Zapata,Cloruro de Amonio,BOGOTA,Cely Lui,Abierto,1355000,37940
+Geraldine Ortiz,Acetona ,PEREIRA,Zapata Man,Abierto,1708894,47849,032
+Luisa Cely,Eter Etílico,BOGOTA,Gómez Man,Abierto,1839273,51499,644
+Manuela Gómez,Acetona ,NEIVA,Zapata Nat,Abierto,1861152,52112,256
+Luisa Cely,Acido Clorhidrico-Muriático,PEREIRA,García Val,Cerrado,2947926,82541,928
+Clara Sánchez,Acido Sulfúrico,BARRANQUILLA,García Val,Abierto,5516281,154455,868
+Natalia Zapata,Acetileno,TULUA,Cely Lui,Pendiente envío,8397595,235132,66
+Luisa Cely,Alquitran,BOGOTA,Cardona Jua,Ingresado,1730000,48440
+Valentina Alzate,Cloruro de Amonio,CARTAGENA,Ortiz Ger,Abierto,1682236,47102,608
+Manuela Gómez,Kerosene,BARRANQUILLA,Cely Lui,Abierto,1460114,40883,192
+Alejandro Rodríguez,Alquitran,MEDELLIN,De Los Ríos Val,Ingresado,1907664,53414,592
+Juan Cardona,Acido Clorhidrico-Muriático,SANTA MARTA,Betancur Man,Abierto,5634318,157760,904
+Valentina De Los Ríos,Toluol,CALI,Sánchez Mar,Abierto,6852123,191859,444
+Geraldine Ortiz,Acido Clorhidrico-Muriático,BOGOTA,Zapata Die,Abierto,1830000,51240
+Clara Sánchez,Acido Sulfúrico,PASTO,Zapata Val,Abierto,1560855,43703,94
+Cristián Grajales,Acido Sulfúrico,IBAGUE,Muriel Nat,Abierto,1651836,46251,408
+Diego Zapata,Acetileno,MEDELLIN,Ortiz Ger,Abierto,2983900,83549,2
+Natalia Zapata,Cloruro de Amonio,BUCARAMANGA,Cely Lui,Abierto,3402411,95267,508
+Diego Zapata,Gas,MEDELLIN,Rodríguez Ale,Pendiente envío,3609584,101068,352
+Geraldine Ortiz,Acetileno,POPAYAN,Vanegas Cam,Ingresado,10323205,289049,74
+Nataly Muriel,Toluol,CALI,Zapata Val,Cerrado,7498873,209968,444
+Juan Cardona,Acetileno,MEDELLIN,Cely Lui,Abierto,1581119,44271,332
+Juan Cardona,Cloruro de Amonio,SANTA MARTA,Zapata Die,Abierto,2985860,83604,08
+Cristián Grajales,Acido Sulfúrico,CARTAGENA,Sánchez Mar,Abierto,5487021,153636,588
+Geraldine Ortiz,Acido Sulfúrico,BOGOTA,De Los Ríos Val,Cerrado,1350223,37806,244
+Geraldine Ortiz,Alquitran,MANIZALES,Betancur Man,Pendiente envío,22343481,625617,468
+Manuela Zapata,Cloruro de Amonio,BARRANQUILLA,Muriel Nat,Abierto,3382733,94716,524
+Juliana Pérez,Alquitran,BOGOTA,Cardona Jua,Abierto,2016543,56463,204
+Nataly Muriel,Toluol,PASTO,Gómez Man,Ingresado,2600000,72800
+Valentina Zapata,Acetileno,MEDELLIN,Zapata Die,Abierto,1989590,55708,52
+Natalia Zapata,Acetileno,MEDELLIN,Betancur Man,Abierto,20543336,575213,408
+Manuela Gómez,Gas,BOGOTA,Gómez Man,Abierto,6771518,189602,504
+Manuela Gómez,Acetona ,SANTA MARTA,Cardona Jua,Abierto,4630500,129654
+Manuela Zapata,Eter Etílico,MEDELLIN,Zapata Die,Ingresado,1597306,44724,568
+Cristián Grajales,Acetona ,MEDELLIN,Pérez Jul,Cerrado,3255669,91158,732
+Valerie Zapata,Acetileno,MEDELLIN,Rodríguez Ale,Cerrado,3487660,97654,48
+Andrea Arenas,Kerosene,MEDELLIN,Cely Lui,Abierto,4594670,128650,76
+Valentina Alzate,Kerosene,CALI,Alzate Val,Abierto,7534719,210972,132
+Juliana Pérez,Kerosene,SANTA MARTA,Pérez Jul,Cerrado,1928389,53994,892
+Valentina Zapata,Kerosene,NEIVA,Gómez Man,Abierto,2355000,65940
+Alejandro Rodríguez,Acetona ,MEDELLIN,Zapata Val,Abierto,3168000,88704
+Manuela Gómez,Kerosene,PASTO,Betancur Man,Abierto,2040000,57120
+Juan Cardona,Acido Clorhidrico-Muriático,MEDELLIN,Sánchez Mar,Abierto,4445038,124461,064
+Diego Zapata,Eter Etílico,BOGOTA,Muriel Nat,Ingresado,2691583,75364,324
+Valentina De Los Ríos,Acetileno,NEIVA,Pérez Jul,Pendiente envío,3700000,103600
+Alejandro Rodríguez,Alquitran,MONTERIA,Cely Lui,Abierto,19157597,536412,716
+Manuela Betancur,Eter Etílico,MEDELLIN,Grajales Cri,Pendiente envío,11143330,312013,24
+Manuela Gómez,Toluol,BOGOTA,De Los Ríos Val,Pendiente envío,1720523,48174,644
+Natalia Zapata,Acido Clorhidrico-Muriático,BOGOTA,Cely Lui,Abierto,2046528,57302,784
+Cristián Grajales,Gas,SINCELEJO,Arenas And,Abierto,1570528,43974,784
+Manuela Betancur,Cloruro de Amonio,TULUA,Betancur Man,Pendiente envío,2744253,76839,084
+Manuela Zapata,Acetileno,MONTERIA,Sánchez Mar,Abierto,1841360,51558,08
+Juliana Pérez,Acetileno,SANTA MARTA,Sánchez Mar,Abierto,7886245,220814,86
+Andrea Arenas,Cloruro de Amonio,PASTO,Sánchez Mar,Abierto,2550000,71400
+Valentina Alzate,Acetileno,MEDELLIN,Cardona Jua,Abierto,2209090,61854,52
+Geraldine Ortiz,Kerosene,MEDELLIN,García Val,Ingresado,3074623,86089,444
+Valentina Zapata,Cloruro de Amonio,VALLEDUPAR,Betancur Man,Abierto,10240048,286721,344
+Manuela Zapata,Eter Etílico,BOGOTA,Ortiz Ger,Pendiente envío,3902109,109259,052
+Valentina Alzate,Kerosene,MEDELLIN,Ortiz Ger,Abierto,3332800,93318,4
+Nataly Muriel,Acido Clorhidrico-Muriático,IBAGUE,Vanegas Cam,Ingresado,1950000,54600
+Clara Sánchez,Kerosene,BOGOTA,Sánchez Mar,Cerrado,3509995,98279,86
+Manuela Gómez,Alquitran,VALLEDUPAR,Zapata Val,Ingresado,1564776,43813,728
+Diego Zapata,Kerosene,MEDELLIN,Rodríguez Ale,Abierto,1432125,40099,5
+Manuela Zapata,Cloruro de Amonio,ARMENIA,Zapata Man,Pendiente envío,1564637,43809,836
+Natalia Zapata,Acido Clorhidrico-Muriático,NEIVA,García Val,Abierto,2077683,58175,124
+Nataly Muriel,Gas,PEREIRA,Arenas And,Abierto,10660855,298503,94
+Camila Vanegas,Acido Sulfúrico,CUCUTA,Zapata Die,Pendiente envío,43711820,1223930,96
+Diego Zapata,Alquitran,MEDELLIN,Gómez Man,Ingresado,3015620,84437,36
+Andrea Arenas,Acetileno,IBAGUE,Cely Lui,Abierto,26187811,733258,708
+Geraldine Ortiz,Kerosene,BOGOTA,Arenas And,Pendiente envío,1456790,40790,12
+Andrea Arenas,Alquitran,SANTA MARTA,Alzate Val,Cerrado,2836654,79426,312
+Valentina De Los Ríos,Toluol,BUCARAMANGA,Pérez Jul,Ingresado,1488750,41685
+Juan Cardona,Alquitran,NEIVA,Zapata Die,Abierto,3677838,102979,464
+Nataly Muriel,Acido Clorhidrico-Muriático,MEDELLIN,Cely Lui,Abierto,8097746,226736,888
+Luisa Cely,Acido Sulfúrico,PASTO,Sánchez Mar,Pendiente envío,2613226,73170,328
+Diego Zapata,Acetileno,PEREIRA,Pérez Jul,Abierto,4159783,116473,924
+Alejandro Rodríguez,Acetileno,PASTO,Vanegas Cam,Abierto,2557760,71617,28
+Luisa Cely,Toluol,BOGOTA,Ortiz Ger,Abierto,1725903,48325,284
+Camila Vanegas,Acido Sulfúrico,MEDELLIN,Zapata Nat,Ingresado,3464976,97019,328
+Valentina Zapata,Eter Etílico,PASTO,Gómez Man,Abierto,1680946,47066,488
+Valentina Alzate,Eter Etílico,NEIVA,Zapata Nat,Abierto,4705949,131766,572
+Valentina Alzate,Alquitran,MEDELLIN,Zapata Nat,Abierto,3076425,86139,9
+Manuela Betancur,Acetileno,ARMENIA,Muriel Nat,Abierto,1865888,52244,864
+Diego Zapata,Acido Clorhidrico-Muriático,PASTO,Ortiz Ger,Abierto,2450000,68600
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,IBAGUE,Grajales Cri,Abierto,18534018,518952,504
+Clara Sánchez,Cloruro de Amonio,BOGOTA,Muriel Nat,Abierto,6102660,170874,48
+Andrea Arenas,Kerosene,MEDELLIN,De Los Ríos Val,Pendiente envío,1661241,46514,748
+Andrea Arenas,Kerosene,BOGOTA,Zapata Die,Pendiente envío,5808979,162651,412
+Nataly Muriel,Acetileno,NEIVA,Betancur Man,Abierto,1814163,50796,564
+Diego Zapata,Kerosene,MEDELLIN,Muriel Nat,Abierto,3511925,98333,9
+Manuela Gómez,Acido Sulfúrico,BOGOTA,Zapata Die,Abierto,9840000,275520
+Valerie Zapata,Gas,NEIVA,Gómez Man,Pendiente envío,2372582,66432,296
+Manuela Betancur,Acido Sulfúrico,CARTAGENA,Zapata Die,Abierto,15116945,423274,46
+Manuela Betancur,Gas,CALDAS,Vanegas Cam,Abierto,9174000,256872
+Juan Cardona,Acido Clorhidrico-Muriático,BOGOTA,De Los Ríos Val,Abierto,1924720,53892,16
+Valentina García,Alquitran,NEIVA,Betancur Man,Abierto,1750000,49000
+Valentina De Los Ríos,Cloruro de Amonio,BOGOTA,Zapata Val,Abierto,1350753,37821,084
+Nataly Muriel,Alquitran,BOGOTA,Alzate Val,Abierto,1502863,42080,164
+Juliana Pérez,Acetona ,IBAGUE,Grajales Cri,Abierto,2128296,59592,288
+Manuela Zapata,Acido Sulfúrico,BOGOTA,Zapata Man,Abierto,5841244,163554,832
+Manuela Betancur,Acido Clorhidrico-Muriático,CALI,Betancur Man,Abierto,7113994,199191,832
+Natalia Zapata,Kerosene,BOGOTA,Zapata Die,Ingresado,4024806,112694,568
+Manuela Zapata,Toluol,PEREIRA,Rodríguez Ale,Ingresado,4177568,116971,904
+Nataly Muriel,Eter Etílico,SINCELEJO,Muriel Nat,Abierto,15925000,445900
+Cristián Grajales,Eter Etílico,MEDELLIN,Rodríguez Ale,Abierto,3091600,86564,8
+Juliana Pérez,Gas,BOGOTA,Muriel Nat,Abierto,6433132,180127,696
+Manuela Betancur,Kerosene,MEDELLIN,Muriel Nat,Pendiente envío,225624583,6317488,324
+Geraldine Ortiz,Kerosene,MEDELLIN,Betancur Man,Pendiente envío,8114000,227192
+Manuela Gómez,Eter Etílico,NEIVA,Gómez Man,Ingresado,2341625,65565,5
+Valentina Zapata,Acido Clorhidrico-Muriático,BOGOTA,Grajales Cri,Abierto,1420209,39765,852
+Diego Zapata,Cloruro de Amonio,BUCARAMANGA,Rodríguez Ale,Abierto,1762911,49361,508
+Geraldine Ortiz,Acido Clorhidrico-Muriático,VALLEDUPAR,Rodríguez Ale,Pendiente envío,5253632,147101,696
+Valentina Alzate,Kerosene,POPAYAN,Vanegas Cam,Pendiente envío,2731118,76471,304
+Diego Zapata,Toluol,BOGOTA,Arenas And,Abierto,6522366,182626,248
+Cristián Grajales,Acido Clorhidrico-Muriático,BOGOTA,Zapata Val,Abierto,6303214,176489,992
+Camila Vanegas,Acetileno,PEREIRA,Ortiz Ger,Abierto,2820433,78972,124
+Manuela Zapata,Acetileno,POPAYAN,Cely Lui,Pendiente envío,36451024,1020628,672
+Clara Sánchez,Kerosene,TULUA,Betancur Man,Abierto,5000000,140000
+Diego Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Cardona Jua,Abierto,2182852,61119,856
+Valentina De Los Ríos,Acido Sulfúrico,MEDELLIN,Rodríguez Ale,Abierto,3500000,98000
+Manuela Betancur,Gas,BOGOTA,Cely Lui,Abierto,1493417,41815,676
+Clara Sánchez,Cloruro de Amonio,BOGOTA,Ortiz Ger,Pendiente envío,6619528,185346,784
+Nataly Muriel,Alquitran,NEIVA,De Los Ríos Val,Abierto,3667138,102679,864
+Juan Cardona,Kerosene,BOGOTA,Grajales Cri,Pendiente envío,1837557,51451,596
+Juan Cardona,Eter Etílico,BOGOTA,Cardona Jua,Cerrado,3799756,106393,168
+Diego Zapata,Acetileno,CALI,Vanegas Cam,Pendiente envío,6966404,195059,312
+Manuela Zapata,Acetileno,VILLAVICENCIO,Vanegas Cam,Abierto,1490554,41735,512
+Juan Cardona,Cloruro de Amonio,BOGOTA,García Val,Abierto,1558862,43648,136
+Valentina García,Acetileno,MEDELLIN,Alzate Val,Cerrado,4717560,132091,68
+Valentina Zapata,Gas,MEDELLIN,Rodríguez Ale,Abierto,3087854,86459,912
+Alejandro Rodríguez,Eter Etílico,MEDELLIN,Pérez Jul,Abierto,1585975,44407,3
+Juliana Pérez,Toluol,CALI,Muriel Nat,Abierto,6913878,193588,584
+Alejandro Rodríguez,Acetileno,BOGOTA,Ortiz Ger,Cerrado,5878603,164600,884
+Valerie Zapata,Kerosene,MEDELLIN,Sánchez Mar,Abierto,20473029,573244,812
+Manuela Betancur,Acetileno,BOGOTA,Vanegas Cam,Abierto,1401597,39244,716
+Cristián Grajales,Gas,BOGOTA,Zapata Man,Abierto,2206084,61770,352
+Juan Cardona,Cloruro de Amonio,MEDELLIN,García Val,Abierto,1486470,41621,16
+Andrea Arenas,Acetileno,BOGOTA,Rodríguez Ale,Abierto,6732217,188502,076
+Natalia Zapata,Acido Clorhidrico-Muriático,POPAYAN,Sánchez Mar,Abierto,1580970,44267,16
+Juan Cardona,Eter Etílico,MEDELLIN,Rodríguez Ale,Pendiente envío,1911769,53529,532
+Juan Cardona,Cloruro de Amonio,MEDELLIN,García Val,Abierto,3181422,89079,816
+Valentina De Los Ríos,Acetileno,BOGOTA,Cely Lui,Pendiente envío,2243794,62826,232
+Luisa Cely,Acetileno,ARMENIA,Sánchez Mar,Abierto,4814964,134818,992
+Valentina Zapata,Kerosene,PASTO,Betancur Man,Abierto,4919503,137746,084
+Luisa Cely,Acetona ,MEDELLIN,Zapata Die,Cerrado,1700000,47600
+Valentina Zapata,Eter Etílico,MEDELLIN,Grajales Cri,Abierto,1814582,50808,296
+Nataly Muriel,Acetona ,CALI,Grajales Cri,Ingresado,3125000,87500
+Natalia Zapata,Acetileno,BOGOTA,Zapata Nat,Abierto,1901988,53255,664
+Manuela Betancur,Acido Sulfúrico,NEIVA,Vanegas Cam,Abierto,3648000,102144
+Valentina Zapata,Acetileno,BOGOTA,Gómez Man,Abierto,2624346,73481,688
+Valentina Alzate,Toluol,PASTO,Betancur Man,Abierto,1620024,45360,672
+Cristián Grajales,Kerosene,BOGOTA,Arenas And,Abierto,3711455,103920,74
+Manuela Betancur,Acetileno,TULUA,Vanegas Cam,Abierto,7994082,223834,296
+Manuela Betancur,Acido Sulfúrico,CALI,García Val,Abierto,7000000,196000
+Diego Zapata,Alquitran,BOGOTA,Arenas And,Ingresado,1787500,50050
+Andrea Arenas,Acido Clorhidrico-Muriático,BOGOTA,Cardona Jua,Cerrado,2708921,75849,788
+Natalia Zapata,Kerosene,POPAYAN,Grajales Cri,Abierto,13038850,365087,8
+Alejandro Rodríguez,Acetileno,BOGOTA,Gómez Man,Pendiente envío,2037082,57038,296
+Manuela Zapata,Acetileno,VALLEDUPAR,Zapata Die,Abierto,1635393,45791,004
+Juliana Pérez,Toluol,PEREIRA,Gómez Man,Abierto,1866098,52250,744
+Valerie Zapata,Gas,PASTO,Zapata Die,Ingresado,2515212,70425,936
+Cristián Grajales,Acetileno,PASTO,Arenas And,Abierto,2600000,72800
+Juan Cardona,Toluol,POPAYAN,Zapata Val,Abierto,29271968,819615,104
+Diego Zapata,Acetileno,BOGOTA,Sánchez Mar,Pendiente envío,2020476,56573,328
+Cristián Grajales,Toluol,PASTO,Arenas And,Cerrado,2505293,70148,204
+Valentina Alzate,Acetileno,MEDELLIN,Zapata Nat,Pendiente envío,3354297,93920,316
+Geraldine Ortiz,Acido Clorhidrico-Muriático,MANIZALES,Zapata Nat,Abierto,5128093,143586,604
+Juan Cardona,Eter Etílico,BARRANQUILLA,Zapata Man,Abierto,1874802,52494,456
+Manuela Zapata,Cloruro de Amonio,NEIVA,Zapata Nat,Abierto,2266607,63464,996
+Natalia Zapata,Acetileno,BOGOTA,Sánchez Mar,Abierto,2651693,74247,404
+Juliana Pérez,Acetileno,POPAYAN,Rodríguez Ale,Abierto,13965472,391033,216
+Juliana Pérez,Acido Sulfúrico,PEREIRA,Vanegas Cam,Ingresado,19060503,533694,084
+Valentina Alzate,Eter Etílico,MEDELLIN,Arenas And,Abierto,3496640,97905,92
+Clara Sánchez,Acido Sulfúrico,MEDELLIN,Alzate Val,Cerrado,3115800,87242,4
+Diego Zapata,Gas,NEIVA,Muriel Nat,Abierto,3652312,102264,736
+Camila Vanegas,Eter Etílico,BOGOTA,Sánchez Mar,Abierto,2207059,61797,652
+Manuela Betancur,Gas,SINCELEJO,Cardona Jua,Abierto,4899924,137197,872
+Valentina García,Eter Etílico,MEDELLIN,Zapata Val,Abierto,8871565,248403,82
+Manuela Betancur,Gas,BOGOTA,Muriel Nat,Abierto,2173280,60851,84
+Natalia Zapata,Acetileno,MANIZALES,Zapata Die,Abierto,14162227,396542,356
+Camila Vanegas,Acido Sulfúrico,MEDELLIN,De Los Ríos Val,Abierto,1930602,54056,856
+Juliana Pérez,Kerosene,TULUA,Cardona Jua,Abierto,1570000,43960
+Valentina García,Kerosene,PEREIRA,Cardona Jua,Cerrado,2788009,78064,252
+Valentina Alzate,Acetileno,MEDELLIN,Zapata Die,Ingresado,2083296,58332,288
+Valentina Zapata,Gas,PASTO,Gómez Man,Pendiente envío,2395199,67065,572
+Natalia Zapata,Acido Sulfúrico,BOGOTA,Pérez Jul,Cerrado,2716438,76060,264
+Alejandro Rodríguez,Acetona ,VILLAVICENCIO,Cardona Jua,Abierto,1820255,50967,14
+Camila Vanegas,Acido Sulfúrico,IBAGUE,Zapata Man,Abierto,9151828,256251,184
+Manuela Gómez,Acetileno,MEDELLIN,Alzate Val,Cerrado,3461465,96921,02
+Camila Vanegas,Acetona ,MEDELLIN,Betancur Man,Abierto,1786743,50028,804
+Clara Sánchez,Acido Clorhidrico-Muriático,BOGOTA,Gómez Man,Abierto,4984938,139578,264
+Manuela Gómez,Toluol,NEIVA,Cardona Jua,Cerrado,2347810,65738,68
+Clara Sánchez,Toluol,BOGOTA,Zapata Val,Cerrado,2118065,59305,82
+Geraldine Ortiz,Toluol,BOGOTA,Cardona Jua,Pendiente envío,1414795,39614,26
+Valentina Zapata,Cloruro de Amonio,CARTAGENA,Zapata Val,Abierto,5198606,145560,968
+Valentina García,Cloruro de Amonio,PEREIRA,Zapata Man,Ingresado,2822341,79025,548
+Cristián Grajales,Gas,PEREIRA,Zapata Val,Abierto,2871174,80392,872
+Natalia Zapata,Acido Clorhidrico-Muriático,BOGOTA,Sánchez Mar,Abierto,1426750,39949
+Juliana Pérez,Acido Clorhidrico-Muriático,BUCARAMANGA,Alzate Val,Abierto,1677028,46956,784
+Luisa Cely,Acetileno,MEDELLIN,Zapata Val,Cerrado,1432726,40116,328
+Diego Zapata,Acido Sulfúrico,BOGOTA,García Val,Abierto,2028504,56798,112
+Camila Vanegas,Acetileno,BOGOTA,Zapata Val,Abierto,1604164,44916,592
+Manuela Betancur,Alquitran,PASTO,Zapata Val,Abierto,2445882,68484,696
+Manuela Zapata,Kerosene,MEDELLIN,Zapata Val,Pendiente envío,9082630,254313,64
+Natalia Zapata,Acido Sulfúrico,PASTO,Zapata Die,Pendiente envío,2477254,69363,112
+Manuela Zapata,Acido Clorhidrico-Muriático,MEDELLIN,García Val,Ingresado,2119950,59358,6
+Nataly Muriel,Acetona ,VILLAVICENCIO,De Los Ríos Val,Abierto,12370065,346361,82
+Valentina García,Acido Clorhidrico-Muriático,CARTAGENA,Alzate Val,Ingresado,26940000,754320
+Andrea Arenas,Acido Clorhidrico-Muriático,BOGOTA,Arenas And,Abierto,2164436,60604,208
+Alejandro Rodríguez,Toluol,BOGOTA,Muriel Nat,Pendiente envío,2073640,58061,92
+Valentina Zapata,Gas,CUCUTA,Cardona Jua,Abierto,2167495,60689,86
+Luisa Cely,Acetileno,BOGOTA,Gómez Man,Abierto,3845886,107684,808
+Clara Sánchez,Acetileno,CALDAS,Alzate Val,Abierto,1611458,45120,824
+Valerie Zapata,Alquitran,BOGOTA,Sánchez Mar,Abierto,1413502,39578,056
+Clara Sánchez,Cloruro de Amonio,PASTO,De Los Ríos Val,Abierto,1833771,51345,588
+Manuela Gómez,Kerosene,POPAYAN,García Val,Abierto,10577732,296176,496
+Cristián Grajales,Toluol,BOGOTA,Alzate Val,Pendiente envío,6497183,181921,124
+Clara Sánchez,Acetona ,MEDELLIN,Zapata Val,Abierto,13339110,373495,08
+Camila Vanegas,Acetona ,BOGOTA,Cely Lui,Abierto,1769627,49549,556
+Valentina De Los Ríos,Gas,BOGOTA,Zapata Val,Cerrado,2622333,73425,324
+Clara Sánchez,Acido Clorhidrico-Muriático,BOGOTA,De Los Ríos Val,Cerrado,6572476,184029,328
+Nataly Muriel,Acido Sulfúrico,PEREIRA,Betancur Man,Abierto,2919615,81749,22
+Natalia Zapata,Gas,VILLAVICENCIO,Ortiz Ger,Abierto,1598560,44759,68
+Valentina Zapata,Acetileno,MEDELLIN,Zapata Die,Cerrado,3510712,98299,936
+Camila Vanegas,Acido Sulfúrico,ARMENIA,Cardona Jua,Cerrado,1608198,45029,544
+Manuela Gómez,Acido Sulfúrico,NEIVA,Arenas And,Ingresado,2385930,66806,04
+Camila Vanegas,Cloruro de Amonio,PASTO,Arenas And,Ingresado,1720000,48160
+Natalia Zapata,Acetileno,PASTO,Rodríguez Ale,Abierto,2399944,67198,432
+Cristián Grajales,Gas,POPAYAN,García Val,Cerrado,1532741,42916,748
+Clara Sánchez,Cloruro de Amonio,BOGOTA,Rodríguez Ale,Abierto,6696293,187496,204
+Camila Vanegas,Toluol,CALI,Gómez Man,Abierto,10996519,307902,532
+Valentina García,Acido Sulfúrico,VALLEDUPAR,Betancur Man,Abierto,1531650,42886,2
+Valentina Zapata,Gas,BOGOTA,Rodríguez Ale,Cerrado,2020096,56562,688
+Valentina García,Acido Sulfúrico,SANTA MARTA,Vanegas Cam,Abierto,13017275,364483,7
+Alejandro Rodríguez,Acido Sulfúrico,BOGOTA,Zapata Die,Abierto,1846164,51692,592
+Luisa Cely,Eter Etílico,POPAYAN,García Val,Abierto,16427362,459966,136
+Luisa Cely,Kerosene,POPAYAN,Muriel Nat,Abierto,7939165,222296,62
+Luisa Cely,Cloruro de Amonio,CALI,Ortiz Ger,Abierto,5204249,145718,972
+Natalia Zapata,Kerosene,NEIVA,García Val,Abierto,1868789,52326,092
+Manuela Betancur,Alquitran,BUCARAMANGA,De Los Ríos Val,Ingresado,37527957,1050782,796
+Manuela Zapata,Acetileno,PASTO,Pérez Jul,Ingresado,2424183,67877,124
+Juan Cardona,Eter Etílico,PASTO,Cely Lui,Abierto,2520000,70560
+Alejandro Rodríguez,Acetileno,BOGOTA,Grajales Cri,Abierto,2012685,56355,18
+Juliana Pérez,Acido Sulfúrico,MEDELLIN,Betancur Man,Abierto,4401588,123244,464
+Valentina De Los Ríos,Gas,BARRANQUILLA,Grajales Cri,Cerrado,1590698,44539,544
+Juan Cardona,Toluol,NEIVA,Cardona Jua,Ingresado,1799804,50394,512
+Manuela Zapata,Acido Clorhidrico-Muriático,BARRANQUILLA,Cardona Jua,Ingresado,5691226,159354,328
+Geraldine Ortiz,Toluol,CALDAS,Rodríguez Ale,Abierto,10292056,288177,568
+Geraldine Ortiz,Acetileno,BOGOTA,Gómez Man,Abierto,2091972,58575,216
+Diego Zapata,Acetileno,BOGOTA,Rodríguez Ale,Cerrado,2038730,57084,44
+Luisa Cely,Acido Clorhidrico-Muriático,MEDELLIN,Cardona Jua,Abierto,3260983,91307,524
+Valentina De Los Ríos,Acetileno,MEDELLIN,Pérez Jul,Cerrado,3286132,92011,696
+Cristián Grajales,Eter Etílico,MEDELLIN,García Val,Abierto,1450000,40600
+Nataly Muriel,Acido Clorhidrico-Muriático,NEIVA,Grajales Cri,Abierto,10693044,299405,232
+Cristián Grajales,Gas,BOGOTA,Pérez Jul,Abierto,3760473,105293,244
+Cristián Grajales,Acetona ,PEREIRA,Ortiz Ger,Ingresado,8760916,245305,648
+Manuela Gómez,Cloruro de Amonio,MEDELLIN,Zapata Val,Abierto,4601050,128829,4
+Camila Vanegas,Acetileno,NEIVA,Zapata Die,Abierto,2350338,65809,464
+Alejandro Rodríguez,Cloruro de Amonio,NEIVA,García Val,Cerrado,2171032,60788,896
+Manuela Betancur,Acetileno,MEDELLIN,Gómez Man,Abierto,3412533,95550,924
+Natalia Zapata,Alquitran,BARRANQUILLA,Vanegas Cam,Abierto,1480248,41446,944
+Juan Cardona,Acido Clorhidrico-Muriático,NEIVA,Zapata Die,Abierto,2315256,64827,168
+Manuela Betancur,Acido Sulfúrico,BUCARAMANGA,Zapata Nat,Abierto,11398268,319151,504
+Valentina García,Acido Clorhidrico-Muriático,BOGOTA,Zapata Val,Ingresado,5878499,164597,972
+Cristián Grajales,Kerosene,MEDELLIN,Muriel Nat,Abierto,8363316,234172,848
+Diego Zapata,Acido Sulfúrico,IBAGUE,Cely Lui,Pendiente envío,10142006,283976,168
+Valerie Zapata,Acetona ,CUCUTA,Zapata Nat,Abierto,1947285,54523,98
+Valentina Zapata,Acido Clorhidrico-Muriático,PASTO,Sánchez Mar,Pendiente envío,1782070,49897,96
+Natalia Zapata,Kerosene,PEREIRA,Zapata Die,Pendiente envío,2750147,77004,116
+Diego Zapata,Acetona ,MEDELLIN,Vanegas Cam,Pendiente envío,3579294,100220,232
+Nataly Muriel,Acetileno,VILLAVICENCIO,Zapata Die,Abierto,1900000,53200
+Juan Cardona,Acido Clorhidrico-Muriático,MEDELLIN,Arenas And,Abierto,4194390,117442,92
+Valentina De Los Ríos,Acetona ,NEIVA,Muriel Nat,Cerrado,5009476,140265,328
+Natalia Zapata,Acetona ,BOGOTA,Muriel Nat,Abierto,2631041,73669,148
+Camila Vanegas,Acido Sulfúrico,BOGOTA,Cardona Jua,Abierto,1353442,37896,376
+Geraldine Ortiz,Toluol,SANTA MARTA,Alzate Val,Pendiente envío,30356852,849991,856
+Luisa Cely,Alquitran,PASTO,Zapata Nat,Abierto,2570859,71984,052
+Cristián Grajales,Acido Clorhidrico-Muriático,VALLEDUPAR,Rodríguez Ale,Cerrado,1700037,47601,036
+Andrea Arenas,Gas,MEDELLIN,Ortiz Ger,Ingresado,4565935,127846,18
+Juliana Pérez,Alquitran,BOGOTA,Cardona Jua,Cerrado,2034625,56969,5
+Clara Sánchez,Toluol,MEDELLIN,Rodríguez Ale,Abierto,3416586,95664,408
+Camila Vanegas,Acido Clorhidrico-Muriático,PEREIRA,Zapata Nat,Abierto,2884886,80776,808
+Manuela Gómez,Acetileno,BOGOTA,Alzate Val,Cerrado,3945000,110460
+Valerie Zapata,Acetileno,NEIVA,Pérez Jul,Pendiente envío,1813507,50778,196
+Clara Sánchez,Alquitran,MEDELLIN,Betancur Man,Abierto,14919623,417749,444
+Valerie Zapata,Acetileno,MEDELLIN,Cely Lui,Abierto,4201254,117635,112
+Luisa Cely,Gas,PASTO,Rodríguez Ale,Abierto,2552916,71481,648
+Alejandro Rodríguez,Acetileno,MEDELLIN,Pérez Jul,Cerrado,2052344,57465,632
+Camila Vanegas,Cloruro de Amonio,BARRANQUILLA,Alzate Val,Pendiente envío,5118072,143306,016
+Camila Vanegas,Acetona ,BOGOTA,Zapata Nat,Abierto,2664600,74608,8
+Manuela Betancur,Cloruro de Amonio,NEIVA,Zapata Val,Abierto,2363567,66179,876
+Clara Sánchez,Eter Etílico,BOGOTA,Cardona Jua,Pendiente envío,2084925,58377,9
+Andrea Arenas,Acetona ,MEDELLIN,Betancur Man,Abierto,3088600,86480,8
+Valentina García,Eter Etílico,NEIVA,Pérez Jul,Abierto,3560000,99680
+Manuela Betancur,Acido Sulfúrico,CUCUTA,Zapata Die,Pendiente envío,1578600,44200,8
+Luisa Cely,Cloruro de Amonio,MONTERIA,Cely Lui,Abierto,17651126,494231,528
+Valentina Alzate,Cloruro de Amonio,MEDELLIN,Pérez Jul,Abierto,1797606,50332,968
+Andrea Arenas,Acetona ,PASTO,Ortiz Ger,Abierto,2517405,70487,34
+Valentina Alzate,Gas,SINCELEJO,Zapata Val,Abierto,12452294,348664,232
+Luisa Cely,Alquitran,MEDELLIN,Vanegas Cam,Ingresado,3420000,95760
+Natalia Zapata,Kerosene,BARRANQUILLA,Muriel Nat,Abierto,1935974,54207,272
+Manuela Gómez,Alquitran,MEDELLIN,Betancur Man,Abierto,1625603,45516,884
+Luisa Cely,Acetileno,MEDELLIN,Vanegas Cam,Abierto,3227793,90378,204
+Nataly Muriel,Cloruro de Amonio,BOGOTA,Pérez Jul,Pendiente envío,4011902,112333,256
+Juliana Pérez,Eter Etílico,BOGOTA,Vanegas Cam,Abierto,1750000,49000
+Juan Cardona,Gas,PASTO,Sánchez Mar,Pendiente envío,2524482,70685,496
+Valentina Zapata,Alquitran,MEDELLIN,Zapata Val,Pendiente envío,3516406,98459,368
+Manuela Betancur,Acido Clorhidrico-Muriático,BOGOTA,Betancur Man,Pendiente envío,2207059,61797,652
+Manuela Gómez,Acido Clorhidrico-Muriático,BOGOTA,Vanegas Cam,Abierto,6800000,190400
+Luisa Cely,Eter Etílico,PASTO,Grajales Cri,Abierto,1640925,45945,9
+Manuela Gómez,Alquitran,PASTO,Sánchez Mar,Ingresado,1722600,48232,8
+Manuela Zapata,Acetona ,MEDELLIN,Pérez Jul,Abierto,3296249,92294,972
+Valentina Alzate,Acetona ,MEDELLIN,García Val,Abierto,3086416,86419,648
+Juan Cardona,Acido Clorhidrico-Muriático,BOGOTA,Vanegas Cam,Abierto,2100000,58800
+Juliana Pérez,Gas,BOGOTA,Zapata Nat,Ingresado,3979171,111416,788
+Juan Cardona,Acetileno,NEIVA,Sánchez Mar,Abierto,2308226,64630,328
+Valerie Zapata,Acido Sulfúrico,MEDELLIN,Alzate Val,Abierto,1486889,41632,892
+Camila Vanegas,Toluol,NEIVA,Cely Lui,Ingresado,2282464,63908,992
+Nataly Muriel,Cloruro de Amonio,PASTO,Gómez Man,Ingresado,1704323,47721,044
+Diego Zapata,Toluol,VILLAVICENCIO,Grajales Cri,Ingresado,9990338,279729,464
+Clara Sánchez,Acido Sulfúrico,MEDELLIN,Sánchez Mar,Abierto,3162540,88551,12
+Clara Sánchez,Gas,POPAYAN,Rodríguez Ale,Abierto,5634321,157760,988
+Diego Zapata,Cloruro de Amonio,MEDELLIN,Gómez Man,Pendiente envío,1409046,39453,288
+Geraldine Ortiz,Gas,MEDELLIN,Zapata Die,Abierto,3039339,85101,492
+Manuela Zapata,Alquitran,IBAGUE,Sánchez Mar,Ingresado,19337254,541443,112
+Valerie Zapata,Kerosene,MONTERIA,Arenas And,Abierto,5113387,143174,836
+Camila Vanegas,Acetileno,MEDELLIN,Vanegas Cam,Abierto,3041499,85161,972
+Natalia Zapata,Acetileno,ARMENIA,Betancur Man,Abierto,1463709,40983,852
+Geraldine Ortiz,Cloruro de Amonio,BOGOTA,Rodríguez Ale,Pendiente envío,2118700,59323,6
+Valentina Zapata,Acido Clorhidrico-Muriático,BOGOTA,Zapata Nat,Abierto,2100000,58800
+Camila Vanegas,Eter Etílico,ARMENIA,Sánchez Mar,Abierto,1805000,50540
+Clara Sánchez,Acetona ,BUCARAMANGA,Rodríguez Ale,Abierto,5556000,155568
+Valentina Alzate,Eter Etílico,MEDELLIN,Zapata Val,Abierto,3093750,86625
+Valentina De Los Ríos,Acetileno,MEDELLIN,García Val,Ingresado,3156931,88394,068
+Valentina García,Acetileno,NEIVA,De Los Ríos Val,Pendiente envío,2365810,66242,68
+Juan Cardona,Acido Sulfúrico,MEDELLIN,Zapata Man,Pendiente envío,3218090,90106,52
+Valentina De Los Ríos,Acetileno,BOGOTA,Rodríguez Ale,Abierto,1825701,51119,628
+Camila Vanegas,Acido Clorhidrico-Muriático,CUCUTA,Arenas And,Cerrado,5435808,152202,624
+Manuela Zapata,Kerosene,BOGOTA,Zapata Nat,Abierto,1402720,39276,16
+Juan Cardona,Acido Sulfúrico,BOGOTA,Cely Lui,Abierto,6709950,187878,6
+Andrea Arenas,Kerosene,MEDELLIN,Cely Lui,Cerrado,319380140,8942643,92
+Alejandro Rodríguez,Kerosene,MEDELLIN,Cely Lui,Abierto,4612574,129152,072
+Luisa Cely,Acetileno,PEREIRA,García Val,Abierto,5058326,141633,128
+Nataly Muriel,Alquitran,PEREIRA,Vanegas Cam,Abierto,1441409,40359,452
+Manuela Zapata,Alquitran,SINCELEJO,Zapata Nat,Ingresado,7843669,219622,732
+Camila Vanegas,Cloruro de Amonio,PASTO,Zapata Man,Abierto,2399320,67180,96
+Clara Sánchez,Acido Clorhidrico-Muriático,MEDELLIN,Cardona Jua,Abierto,1448144,40548,032
+Camila Vanegas,Eter Etílico,BOGOTA,Alzate Val,Abierto,2640316,73928,848
+Valentina García,Acido Sulfúrico,BUCARAMANGA,Sánchez Mar,Abierto,2767863,77500,164
+Geraldine Ortiz,Gas,NEIVA,Cardona Jua,Cerrado,5104047,142913,316
+Valerie Zapata,Acetileno,BARRANQUILLA,Cardona Jua,Abierto,1700000,47600
+Andrea Arenas,Acido Clorhidrico-Muriático,PEREIRA,Ortiz Ger,Abierto,4123161,115448,508
+Valentina De Los Ríos,Alquitran,BOGOTA,Vanegas Cam,Abierto,6762553,189351,484
+Manuela Betancur,Eter Etílico,BOGOTA,García Val,Cerrado,6426734,179948,552
+Alejandro Rodríguez,Kerosene,MEDELLIN,Zapata Nat,Ingresado,3040000,85120
+Geraldine Ortiz,Cloruro de Amonio,FLORENCIA,García Val,Abierto,1950000,54600
+Valentina García,Cloruro de Amonio,NEIVA,Alzate Val,Pendiente envío,1475192,41305,376
+Diego Zapata,Alquitran,NEIVA,Zapata Die,Abierto,2329293,65220,204
+Valentina Alzate,Toluol,MEDELLIN,Rodríguez Ale,Pendiente envío,4453536,124699,008
+Manuela Zapata,Toluol,CALDAS,Sánchez Mar,Abierto,2236666,62626,648
+Geraldine Ortiz,Acido Clorhidrico-Muriático,POPAYAN,Betancur Man,Abierto,37140911,1039945,508
+Manuela Zapata,Gas,MEDELLIN,Gómez Man,Abierto,19308362,540634,136
+Valentina Zapata,Toluol,BOGOTA,Gómez Man,Abierto,3869152,108336,256
+Camila Vanegas,Alquitran,BOGOTA,Grajales Cri,Abierto,5800000,162400
+Camila Vanegas,Eter Etílico,BOGOTA,Zapata Nat,Cerrado,2664967,74619,076
+Valentina De Los Ríos,Acido Sulfúrico,PASTO,Zapata Nat,Abierto,2920210,81765,88
+Geraldine Ortiz,Eter Etílico,PEREIRA,Alzate Val,Pendiente envío,1952050,54657,4
+Valentina Alzate,Kerosene,TULUA,De Los Ríos Val,Cerrado,2000000,56000
+Valentina García,Alquitran,CARTAGENA,Sánchez Mar,Ingresado,1367422,38287,816
+Manuela Gómez,Acetona ,MEDELLIN,Vanegas Cam,Abierto,1722871,48240,388
+Manuela Betancur,Toluol,TULUA,García Val,Abierto,26142068,731977,904
+Juliana Pérez,Toluol,MEDELLIN,Sánchez Mar,Abierto,21293748,596224,944
+Alejandro Rodríguez,Eter Etílico,MEDELLIN,Sánchez Mar,Ingresado,3327732,93176,496
+Manuela Zapata,Acido Clorhidrico-Muriático,NEIVA,Betancur Man,Cerrado,1748851,48967,828
+Diego Zapata,Alquitran,MANIZALES,Grajales Cri,Abierto,4730000,132440
+Juliana Pérez,Toluol,PEREIRA,Muriel Nat,Pendiente envío,2950397,82611,116
+Nataly Muriel,Kerosene,CALI,Zapata Val,Abierto,7241551,202763,428
+Camila Vanegas,Alquitran,MEDELLIN,Vanegas Cam,Abierto,1687302,47244,456
+Camila Vanegas,Toluol,POPAYAN,Ortiz Ger,Abierto,10278714,287803,992
+Natalia Zapata,Cloruro de Amonio,PASTO,Zapata Nat,Abierto,2556640,71585,92
+Alejandro Rodríguez,Cloruro de Amonio,SINCELEJO,Betancur Man,Abierto,1671975,46815,3
+Camila Vanegas,Acetileno,NEIVA,Grajales Cri,Abierto,1837784,51457,952
+Camila Vanegas,Acetileno,MEDELLIN,Gómez Man,Abierto,3235153,90584,284
+Valerie Zapata,Acetileno,CALI,García Val,Abierto,6977388,195366,864
+Andrea Arenas,Acetileno,CALI,Rodríguez Ale,Abierto,9612263,269143,364
+Manuela Gómez,Kerosene,NEIVA,Zapata Nat,Abierto,1620931,45386,068
+Juan Cardona,Acetileno,BOGOTA,Cely Lui,Abierto,2193621,61421,388
+Valentina García,Acetileno,MEDELLIN,Muriel Nat,Abierto,8151563,228243,764
+Manuela Zapata,Cloruro de Amonio,PEREIRA,Pérez Jul,Abierto,3200000,89600
+Nataly Muriel,Acido Sulfúrico,CALI,Arenas And,Ingresado,7057260,197603,28
+Natalia Zapata,Toluol,PASTO,Rodríguez Ale,Abierto,1872783,52437,924
+Valentina Zapata,Acido Sulfúrico,BOGOTA,Pérez Jul,Ingresado,2003660,56102,48
+Nataly Muriel,Eter Etílico,MEDELLIN,Vanegas Cam,Abierto,3006506,84182,168
+Cristián Grajales,Toluol,PASTO,Cardona Jua,Pendiente envío,2561832,71731,296
+Andrea Arenas,Acetileno,MEDELLIN,Zapata Die,Abierto,1711842,47931,576
+Luisa Cely,Acetileno,BOGOTA,Zapata Die,Ingresado,2646282,74095,896
+Cristián Grajales,Acido Sulfúrico,BOGOTA,Pérez Jul,Abierto,1840000,51520
+Geraldine Ortiz,Acido Sulfúrico,CALDAS,Gómez Man,Abierto,3581086,100270,408
+Valentina García,Acetona ,POPAYAN,Alzate Val,Abierto,10511842,294331,576
+Valentina De Los Ríos,Gas,MEDELLIN,Zapata Nat,Ingresado,1597598,44732,744
+Clara Sánchez,Acido Clorhidrico-Muriático,PASTO,Vanegas Cam,Pendiente envío,14000000,392000
+Natalia Zapata,Acido Sulfúrico,MEDELLIN,Pérez Jul,Ingresado,1683696,47143,488
+Alejandro Rodríguez,Alquitran,IBAGUE,Zapata Val,Abierto,1900000,53200
+Camila Vanegas,Acido Sulfúrico,BOGOTA,García Val,Abierto,5874422,164483,816
+Valentina García,Acido Clorhidrico-Muriático,BOGOTA,Gómez Man,Abierto,2182958,61122,824
+Juliana Pérez,Alquitran,PASTO,Gómez Man,Abierto,3458799,96846,372
+Manuela Zapata,Eter Etílico,FLORENCIA,De Los Ríos Val,Abierto,1626008,45528,224
+Alejandro Rodríguez,Gas,MEDELLIN,Cely Lui,Abierto,1986456,55620,768
+Juan Cardona,Eter Etílico,BOGOTA,Vanegas Cam,Abierto,6675594,186916,632
+Manuela Gómez,Toluol,CALI,Cardona Jua,Pendiente envío,1568120,43907,36
+Juliana Pérez,Acido Clorhidrico-Muriático,MEDELLIN,Vanegas Cam,Abierto,4344974,121659,272
+Manuela Zapata,Kerosene,MEDELLIN,Ortiz Ger,Pendiente envío,14813182,414769,096
+Clara Sánchez,Cloruro de Amonio,MEDELLIN,Cardona Jua,Cerrado,4431205,124073,74
+Geraldine Ortiz,Eter Etílico,CUCUTA,Sánchez Mar,Cerrado,10888020,304864,56
+Valentina García,Acido Clorhidrico-Muriático,MEDELLIN,Rodríguez Ale,Abierto,8838808,247486,624
+Luisa Cely,Acido Clorhidrico-Muriático,PEREIRA,García Val,Ingresado,2878997,80611,916
+Valentina De Los Ríos,Acido Sulfúrico,BOGOTA,Rodríguez Ale,Abierto,5897005,165116,14
+Geraldine Ortiz,Acido Sulfúrico,BOGOTA,Sánchez Mar,Abierto,1426750,39949
+Luisa Cely,Toluol,BOGOTA,Arenas And,Cerrado,3993750,111825
+Juliana Pérez,Acido Clorhidrico-Muriático,CALI,Muriel Nat,Abierto,6958058,194825,624
+Andrea Arenas,Toluol,BOGOTA,Ortiz Ger,Abierto,1418914,39729,592
+Geraldine Ortiz,Acetona ,BOGOTA,Zapata Val,Abierto,1682957,47122,796
+Alejandro Rodríguez,Gas,BOGOTA,Cely Lui,Abierto,2700000,75600
+Natalia Zapata,Acetileno,MEDELLIN,Pérez Jul,Ingresado,3217212,90081,936
+Valentina Alzate,Eter Etílico,FLORENCIA,Zapata Die,Abierto,4096897,114713,116
+Valerie Zapata,Alquitran,MEDELLIN,Vanegas Cam,Abierto,3500000,98000
+Geraldine Ortiz,Acido Sulfúrico,PEREIRA,Arenas And,Ingresado,1350000,37800
+Valerie Zapata,Toluol,MEDELLIN,Muriel Nat,Abierto,1625388,45510,864
+Manuela Gómez,Acetileno,MEDELLIN,Muriel Nat,Abierto,1684625,47169,5
+Valerie Zapata,Acetona ,BARRANQUILLA,Zapata Nat,Abierto,5114355,143201,94
+Geraldine Ortiz,Kerosene,PEREIRA,Rodríguez Ale,Abierto,1721901,48213,228
+Juliana Pérez,Cloruro de Amonio,MEDELLIN,Vanegas Cam,Ingresado,3100000,86800
+Juliana Pérez,Cloruro de Amonio,PASTO,Betancur Man,Abierto,2596640,72705,92
+Manuela Betancur,Toluol,BOGOTA,Zapata Val,Abierto,4034738,112972,664
+Alejandro Rodríguez,Eter Etílico,MEDELLIN,Alzate Val,Abierto,3019808,84554,624
+Camila Vanegas,Acido Sulfúrico,NEIVA,Muriel Nat,Abierto,1785962,50006,936
+Cristián Grajales,Acetileno,BOGOTA,Muriel Nat,Abierto,6661886,186532,808
+Valentina García,Kerosene,NEIVA,Arenas And,Abierto,12869439,360344,292
+Andrea Arenas,Acetona ,MEDELLIN,Vanegas Cam,Ingresado,4181920,117093,76
+Manuela Zapata,Acetileno,NEIVA,Arenas And,Abierto,2297448,64328,544
+Clara Sánchez,Eter Etílico,MEDELLIN,Vanegas Cam,Abierto,4228213,118389,964
+Alejandro Rodríguez,Acetileno,VALLEDUPAR,Pérez Jul,Abierto,7756835,217191,38
+Manuela Zapata,Gas,MEDELLIN,García Val,Abierto,2097835,58739,38
+Juliana Pérez,Acido Sulfúrico,BOGOTA,Pérez Jul,Abierto,1949200,54577,6
+Geraldine Ortiz,Cloruro de Amonio,CUCUTA,Ortiz Ger,Cerrado,5190923,145345,844
+Manuela Betancur,Kerosene,BOGOTA,Arenas And,Abierto,6446678,180506,984
+Juliana Pérez,Cloruro de Amonio,NEIVA,Cely Lui,Abierto,2369719,66352,132
+Juliana Pérez,Acetona ,MEDELLIN,Muriel Nat,Cerrado,10910425,305491,9
+Valentina Alzate,Acetileno,IBAGUE,Muriel Nat,Abierto,10301375,288438,5
+Camila Vanegas,Cloruro de Amonio,CARTAGENA,Zapata Man,Pendiente envío,1430000,40040
+Valentina Alzate,Acetileno,MEDELLIN,Zapata Die,Abierto,1589218,44498,104
+Andrea Arenas,Acetileno,PASTO,Rodríguez Ale,Abierto,2472750,69237
+Valentina Zapata,Toluol,MEDELLIN,Betancur Man,Abierto,1561653,43726,284
+Manuela Gómez,Acetileno,BOGOTA,Gómez Man,Abierto,2252350,63065,8
+Nataly Muriel,Eter Etílico,MONTERIA,De Los Ríos Val,Abierto,1696132,47491,696
+Alejandro Rodríguez,Kerosene,POPAYAN,Rodríguez Ale,Abierto,1542680,43195,04
+Juan Cardona,Kerosene,BOGOTA,Zapata Man,Ingresado,6143561,172019,708
+Manuela Gómez,Toluol,PEREIRA,Alzate Val,Abierto,4085312,114388,736
+Luisa Cely,Acetileno,MEDELLIN,Arenas And,Pendiente envío,1457200,40801,6
+Juan Cardona,Cloruro de Amonio,MEDELLIN,De Los Ríos Val,Abierto,16709137,467855,836
+Manuela Betancur,Eter Etílico,PASTO,Cardona Jua,Cerrado,1762500,49350
+Andrea Arenas,Acetileno,PEREIRA,Grajales Cri,Abierto,2897500,81130
+Nataly Muriel,Toluol,ARMENIA,García Val,Abierto,1990286,55728,008
+Valerie Zapata,Gas,BOGOTA,Betancur Man,Cerrado,1909200,53457,6
+Luisa Cely,Alquitran,ARMENIA,Cardona Jua,Abierto,10146091,284090,548
+Diego Zapata,Acido Sulfúrico,MEDELLIN,Cely Lui,Abierto,3210053,89881,484
+Juliana Pérez,Acido Clorhidrico-Muriático,NEIVA,Pérez Jul,Abierto,12187737,341256,636
+Juan Cardona,Cloruro de Amonio,MEDELLIN,Pérez Jul,Abierto,1896482,53101,496
+Valerie Zapata,Alquitran,MEDELLIN,Gómez Man,Cerrado,4180460,117052,88
+Juliana Pérez,Cloruro de Amonio,CALDAS,Zapata Die,Ingresado,17432494,488109,832
+Camila Vanegas,Acido Sulfúrico,PEREIRA,Zapata Val,Abierto,2803849,78507,772
+Cristián Grajales,Gas,PEREIRA,Zapata Val,Abierto,4013790,112386,12
+Cristián Grajales,Gas,MEDELLIN,Arenas And,Ingresado,3165888,88644,864
+Alejandro Rodríguez,Toluol,BOGOTA,Cely Lui,Pendiente envío,1404119,39315,332
+Diego Zapata,Acetona ,PASTO,Zapata Die,Abierto,2422116,67819,248
+Valentina Alzate,Acetileno,MONTERIA,Pérez Jul,Abierto,16813848,470787,744
+Valentina De Los Ríos,Acetileno,MEDELLIN,Rodríguez Ale,Pendiente envío,4444606,124448,968
+Geraldine Ortiz,Gas,PASTO,Muriel Nat,Abierto,2450000,68600
+Juan Cardona,Gas,CALI,Vanegas Cam,Abierto,1482363,41506,164
+Valentina De Los Ríos,Gas,MEDELLIN,Grajales Cri,Abierto,4252271,119063,588
+Valentina Zapata,Toluol,VALLEDUPAR,De Los Ríos Val,Pendiente envío,5590246,156526,888
+Diego Zapata,Acetona ,MEDELLIN,Cardona Jua,Abierto,3615307,101228,596
+Valentina Zapata,Acetileno,BARRANQUILLA,Cardona Jua,Abierto,24579900,688237,2
+Camila Vanegas,Acetileno,MEDELLIN,Zapata Val,Abierto,4505328,126149,184
+Diego Zapata,Alquitran,MEDELLIN,Gómez Man,Abierto,3070545,85975,26
+Luisa Cely,Alquitran,BARRANQUILLA,Arenas And,Ingresado,1824129,51075,612
+Cristián Grajales,Acetona ,BOGOTA,Muriel Nat,Pendiente envío,1831500,51282
+Andrea Arenas,Eter Etílico,ARMENIA,García Val,Abierto,1400836,39223,408
+Nataly Muriel,Cloruro de Amonio,BARRANQUILLA,Grajales Cri,Abierto,5663185,158569,18
+Manuela Gómez,Acetona ,IBAGUE,Zapata Man,Abierto,28239104,790694,912
+Nataly Muriel,Cloruro de Amonio,BOGOTA,Cardona Jua,Abierto,3879187,108617,236
+Valentina Alzate,Acido Clorhidrico-Muriático,BOGOTA,Zapata Val,Abierto,2214113,61995,164
+Cristián Grajales,Toluol,BOGOTA,Arenas And,Abierto,3094112,86635,136
+Valentina García,Gas,MEDELLIN,Gómez Man,Abierto,3054914,85537,592
+Valerie Zapata,Cloruro de Amonio,SANTA MARTA,Pérez Jul,Abierto,11953007,334684,196
+Andrea Arenas,Cloruro de Amonio,MEDELLIN,Pérez Jul,Pendiente envío,3400000,95200
+Juliana Pérez,Acetona ,PASTO,Cely Lui,Abierto,2605257,72947,196
+Camila Vanegas,Kerosene,BOGOTA,Gómez Man,Abierto,2656130,74371,64
+Valentina De Los Ríos,Toluol,MEDELLIN,Sánchez Mar,Abierto,3142749,87996,972
+Valerie Zapata,Acetileno,BOGOTA,Zapata Nat,Abierto,2081124,58271,472
+Juan Cardona,Acido Sulfúrico,MEDELLIN,Muriel Nat,Cerrado,14708583,411840,324
+Valentina Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Zapata Nat,Abierto,3194614,89449,192
+Luisa Cely,Cloruro de Amonio,ARMENIA,Betancur Man,Abierto,25663595,718580,66
+Luisa Cely,Toluol,MEDELLIN,Alzate Val,Cerrado,3090128,86523,584
+Alejandro Rodríguez,Eter Etílico,VILLAVICENCIO,Zapata Val,Abierto,1917623,53693,444
+Valentina De Los Ríos,Acetileno,TULUA,Zapata Die,Pendiente envío,1496179,41893,012
+Valentina Alzate,Acido Clorhidrico-Muriático,CALI,Zapata Val,Ingresado,13307660,372614,48
+Valentina García,Acetileno,MANIZALES,Arenas And,Cerrado,17001930,476054,04
+Clara Sánchez,Acetileno,BUCARAMANGA,Muriel Nat,Abierto,1750000,49000
+Geraldine Ortiz,Cloruro de Amonio,MEDELLIN,Sánchez Mar,Abierto,3528739,98804,692
+Andrea Arenas,Acetileno,MEDELLIN,De Los Ríos Val,Abierto,2926042,81929,176
+Camila Vanegas,Toluol,CALI,Ortiz Ger,Abierto,1665816,46642,848
+Geraldine Ortiz,Alquitran,MEDELLIN,Arenas And,Ingresado,3265370,91430,36
+Valerie Zapata,Eter Etílico,MEDELLIN,Grajales Cri,Ingresado,3135000,87780
+Valentina De Los Ríos,Gas,NEIVA,Pérez Jul,Abierto,2225261,62307,308
+Andrea Arenas,Acido Sulfúrico,NEIVA,Muriel Nat,Abierto,2328239,65190,692
+Andrea Arenas,Toluol,SANTA MARTA,Arenas And,Cerrado,12310827,344703,156
+Valentina Alzate,Acido Clorhidrico-Muriático,TULUA,Gómez Man,Abierto,1475250,41307
+Natalia Zapata,Acetona ,BOGOTA,Zapata Die,Pendiente envío,6730464,188452,992
+Clara Sánchez,Alquitran,MEDELLIN,Arenas And,Pendiente envío,1474331,41281,268
+Nataly Muriel,Acetona ,NEIVA,Ortiz Ger,Ingresado,2321262,64995,336
+Manuela Betancur,Cloruro de Amonio,BOGOTA,Betancur Man,Abierto,6334000,177352
+Alejandro Rodríguez,Acetileno,PASTO,Grajales Cri,Ingresado,2055860,57564,08
+Manuela Zapata,Eter Etílico,NEIVA,Ortiz Ger,Ingresado,2325584,65116,352
+Valentina García,Alquitran,BOGOTA,Alzate Val,Abierto,1368419,38315,732
+Valentina García,Toluol,PEREIRA,Pérez Jul,Abierto,2910031,81480,868
+Juliana Pérez,Eter Etílico,FLORENCIA,De Los Ríos Val,Ingresado,1500000,42000
+Manuela Betancur,Acido Clorhidrico-Muriático,BOGOTA,Zapata Man,Abierto,1424214,39877,992
+Andrea Arenas,Acetona ,BUCARAMANGA,Cely Lui,Cerrado,15345321,429668,988
+Valerie Zapata,Acido Clorhidrico-Muriático,BOGOTA,Betancur Man,Abierto,2034418,56963,704
+Manuela Betancur,Eter Etílico,MEDELLIN,Ortiz Ger,Abierto,3478401,97395,228
+Geraldine Ortiz,Acetileno,BOGOTA,Rodríguez Ale,Abierto,2639828,73915,184
+Cristián Grajales,Toluol,CALI,Zapata Nat,Abierto,6981292,195476,176
+Diego Zapata,Cloruro de Amonio,BOGOTA,Zapata Val,Abierto,1840000,51520
+Valentina Alzate,Kerosene,BOGOTA,Grajales Cri,Cerrado,1655284,46347,952
+Valentina Alzate,Alquitran,MEDELLIN,Cely Lui,Abierto,10042554,281191,512
+Alejandro Rodríguez,Toluol,BOGOTA,Zapata Die,Abierto,2000000,56000
+Clara Sánchez,Cloruro de Amonio,CALI,Cely Lui,Pendiente envío,18758906,525249,368
+Valentina Zapata,Cloruro de Amonio,VILLAVICENCIO,Alzate Val,Cerrado,1911930,53534,04
+Manuela Betancur,Acido Clorhidrico-Muriático,MEDELLIN,De Los Ríos Val,Pendiente envío,1461760,40929,28
+Nataly Muriel,Acetileno,MEDELLIN,Zapata Die,Abierto,1657958,46422,824
+Cristián Grajales,Acido Sulfúrico,BOGOTA,Gómez Man,Abierto,3896329,109097,212
+Alejandro Rodríguez,Acido Clorhidrico-Muriático,MONTERIA,Muriel Nat,Cerrado,1627303,45564,484
+Camila Vanegas,Kerosene,MEDELLIN,Cardona Jua,Pendiente envío,4249411,118983,508
+Manuela Gómez,Eter Etílico,BOGOTA,De Los Ríos Val,Abierto,2675308,74908,624
+Valerie Zapata,Cloruro de Amonio,BARRANQUILLA,Ortiz Ger,Abierto,8210208,229885,824
+Valentina Alzate,Toluol,MEDELLIN,Alzate Val,Abierto,1931575,54084,1
+Alejandro Rodríguez,Eter Etílico,MEDELLIN,Cely Lui,Abierto,3497000,97916
+Valentina García,Acetona ,BOGOTA,Arenas And,Abierto,4025000,112700
+Valentina Zapata,Alquitran,CARTAGENA,Sánchez Mar,Pendiente envío,8785935,246006,18
+Valentina Alzate,Eter Etílico,NEIVA,García Val,Abierto,1380786,38662,008
+Valentina Alzate,Acido Clorhidrico-Muriático,PEREIRA,Arenas And,Abierto,13361194,374113,432
+Clara Sánchez,Gas,VILLAVICENCIO,Betancur Man,Abierto,7752588,217072,464
+Valentina García,Toluol,CALI,García Val,Abierto,7394114,207035,192
+Juan Cardona,Acetona ,NEIVA,De Los Ríos Val,Abierto,2390000,66920
+Natalia Zapata,Eter Etílico,MEDELLIN,Rodríguez Ale,Abierto,4203683,117703,124
+Valentina Alzate,Acido Sulfúrico,MEDELLIN,Grajales Cri,Abierto,3313327,92773,156
+Valentina Zapata,Acetileno,MEDELLIN,Zapata Man,Abierto,2902028,81256,784
+Alejandro Rodríguez,Gas,SANTA MARTA,Zapata Man,Abierto,16424534,459886,952
+Geraldine Ortiz,Gas,PEREIRA,Sánchez Mar,Pendiente envío,1724942,48298,376
+Juliana Pérez,Alquitran,MEDELLIN,Zapata Man,Abierto,4434271,124159,588
+Valentina De Los Ríos,Kerosene,CALDAS,Zapata Man,Abierto,3310224,92686,272
+Andrea Arenas,Acetona ,MEDELLIN,Alzate Val,Abierto,9609464,269064,992
+Juan Cardona,Kerosene,FLORENCIA,Alzate Val,Abierto,1400000,39200
+Clara Sánchez,Kerosene,BOGOTA,Alzate Val,Abierto,1415695,39639,46
+Manuela Betancur,Cloruro de Amonio,PEREIRA,Sánchez Mar,Cerrado,16565939,463846,292
+Valentina García,Alquitran,BUCARAMANGA,Grajales Cri,Abierto,3589476,100505,328
+Manuela Gómez,Gas,POPAYAN,Rodríguez Ale,Cerrado,1524249,42678,972
+Valentina Alzate,Alquitran,MEDELLIN,Ortiz Ger,Pendiente envío,1765169,49424,732
+Juliana Pérez,Acetileno,BOGOTA,Arenas And,Abierto,1783062,49925,736
+Natalia Zapata,Kerosene,BOGOTA,Cardona Jua,Abierto,1505057,42141,596
+Nataly Muriel,Acido Sulfúrico,NEIVA,Ortiz Ger,Abierto,5336440,149420,32
+Andrea Arenas,Toluol,PEREIRA,Arenas And,Abierto,2775473,77713,244
+Geraldine Ortiz,Alquitran,BOGOTA,Zapata Man,Pendiente envío,5844201,163637,628
+Luisa Cely,Gas,BOGOTA,Zapata Val,Abierto,1737328,48645,184
+Cristián Grajales,Eter Etílico,NEIVA,Gómez Man,Abierto,1689219,47298,132
+Camila Vanegas,Alquitran,MEDELLIN,Muriel Nat,Abierto,1448952,40570,656
+Manuela Betancur,Cloruro de Amonio,MEDELLIN,Cely Lui,Pendiente envío,3212868,89960,304
+Andrea Arenas,Acido Clorhidrico-Muriático,MEDELLIN,Alzate Val,Abierto,8834272,247359,616
+Valentina De Los Ríos,Alquitran,BOGOTA,Sánchez Mar,Abierto,1906776,53389,728
+Natalia Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Zapata Val,Abierto,3409754,95473,112
+Luisa Cely,Alquitran,BUCARAMANGA,Zapata Nat,Abierto,1975000,55300
+Manuela Zapata,Kerosene,PASTO,Grajales Cri,Abierto,16585211,464385,908
+Andrea Arenas,Acido Sulfúrico,BOGOTA,Gómez Man,Cerrado,2084796,58374,288
+Valentina De Los Ríos,Acetona ,PEREIRA,Vanegas Cam,Abierto,4160772,116501,616
+Nataly Muriel,Gas,PASTO,García Val,Abierto,2445070,68461,96
+Alejandro Rodríguez,Acetona ,BARRANQUILLA,Sánchez Mar,Ingresado,1650000,46200
+Valentina García,Eter Etílico,BOGOTA,Zapata Nat,Abierto,2715986,76047,608
+Camila Vanegas,Eter Etílico,ARMENIA,De Los Ríos Val,Abierto,1938478,54277,384
+Manuela Zapata,Eter Etílico,PEREIRA,Muriel Nat,Ingresado,2960000,82880
+Valerie Zapata,Acido Sulfúrico,BOGOTA,Muriel Nat,Abierto,2165850,60643,8
+Clara Sánchez,Kerosene,VALLEDUPAR,Ortiz Ger,Cerrado,2871000,80388
+Valentina De Los Ríos,Cloruro de Amonio,BOGOTA,Zapata Nat,Ingresado,1603174,44888,872
+Andrea Arenas,Alquitran,BOGOTA,Vanegas Cam,Cerrado,6071775,170009,7
+Andrea Arenas,Eter Etílico,MEDELLIN,Zapata Val,Pendiente envío,1534500,42966
+Nataly Muriel,Gas,PASTO,Cely Lui,Pendiente envío,1933803,54146,484
+Juliana Pérez,Toluol,MANIZALES,Arenas And,Pendiente envío,23658901,662449,228
+Natalia Zapata,Cloruro de Amonio,BOGOTA,Zapata Man,Abierto,2658416,74435,648
+Nataly Muriel,Toluol,BOGOTA,Ortiz Ger,Abierto,1622502,45430,056
+Valentina Alzate,Toluol,MEDELLIN,Gómez Man,Abierto,4328127,121187,556
+Juan Cardona,Acetileno,MEDELLIN,Vanegas Cam,Cerrado,1479316,41420,848
+Juan Cardona,Acetileno,BUCARAMANGA,Muriel Nat,Cerrado,9805531,274554,868
+Natalia Zapata,Acetileno,BOGOTA,García Val,Pendiente envío,1387956,38862,768
+Andrea Arenas,Acetileno,BOGOTA,Gómez Man,Abierto,2630894,73665,032
+Juan Cardona,Alquitran,NEIVA,Zapata Nat,Abierto,1934506,54166,168
+Juliana Pérez,Acido Sulfúrico,BOGOTA,Alzate Val,Abierto,3949571,110587,988
+Valentina Alzate,Acetona ,MEDELLIN,Zapata Die,Pendiente envío,3394424,95043,872
+Manuela Zapata,Acetileno,PEREIRA,Cely Lui,Pendiente envío,2827322,79165,016
+Nataly Muriel,Eter Etílico,BOGOTA,García Val,Abierto,6225652,174318,256
+Valentina Zapata,Cloruro de Amonio,MEDELLIN,Rodríguez Ale,Abierto,21000000,588000
+Valentina Alzate,Acetona ,BOGOTA,Cardona Jua,Abierto,1849035,51772,98
+Manuela Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Vanegas Cam,Abierto,9490327,265729,156
+Valerie Zapata,Acetileno,PASTO,Zapata Nat,Pendiente envío,1922526,53830,728
+Valentina De Los Ríos,Acido Sulfúrico,BARRANQUILLA,Zapata Nat,Cerrado,5730400,160451,2
+Nataly Muriel,Eter Etílico,VALLEDUPAR,García Val,Cerrado,1536199,43013,572
+Natalia Zapata,Acetona ,SINCELEJO,Betancur Man,Abierto,1493845,41827,66
+Valentina García,Kerosene,PASTO,Cely Lui,Cerrado,11650364,326210,192
+Alejandro Rodríguez,Acetileno,MEDELLIN,Ortiz Ger,Cerrado,3000000,84000
+Luisa Cely,Acetileno,BOGOTA,Rodríguez Ale,Abierto,1352093,37858,604
+Manuela Betancur,Acido Sulfúrico,MEDELLIN,Zapata Nat,Abierto,3110010,87080,28
+Juliana Pérez,Acido Sulfúrico,BOGOTA,Arenas And,Cerrado,3724569,104287,932
+Alejandro Rodríguez,Acido Sulfúrico,MEDELLIN,Pérez Jul,Ingresado,2210000,61880
+Alejandro Rodríguez,Cloruro de Amonio,PASTO,Arenas And,Abierto,1749945,48998,46
+Manuela Gómez,Eter Etílico,MEDELLIN,Zapata Nat,Abierto,3330425,93251,9
+Andrea Arenas,Cloruro de Amonio,PEREIRA,De Los Ríos Val,Abierto,2947537,82531,036
+Luisa Cely,Cloruro de Amonio,BOGOTA,Ortiz Ger,Cerrado,1554920,43537,76
+Cristián Grajales,Toluol,CALI,Ortiz Ger,Abierto,8797286,246324,008
+Andrea Arenas,Alquitran,SINCELEJO,Zapata Nat,Ingresado,5617706,157295,768
+Alejandro Rodríguez,Acetileno,CALI,Cely Lui,Abierto,6888022,192864,616
+Valentina García,Alquitran,BARRANQUILLA,Pérez Jul,Pendiente envío,9880529,276654,812
+Camila Vanegas,Alquitran,NEIVA,Betancur Man,Cerrado,2262055,63337,54
+Camila Vanegas,Cloruro de Amonio,BOGOTA,Pérez Jul,Ingresado,1453188,40689,264
+Diego Zapata,Acetileno,MEDELLIN,Zapata Man,Abierto,1422338,39825,464
+Alejandro Rodríguez,Gas,BOGOTA,Alzate Val,Abierto,1980934,55466,152
+Alejandro Rodríguez,Gas,NEIVA,Zapata Man,Abierto,3652394,102267,032
+Valentina García,Gas,BOGOTA,Ortiz Ger,Pendiente envío,6328111,177187,108
+Valerie Zapata,Eter Etílico,CARTAGENA,Grajales Cri,Pendiente envío,1663768,46585,504
+Juliana Pérez,Acido Clorhidrico-Muriático,BOGOTA,Rodríguez Ale,Abierto,1779850,49835,8
+Diego Zapata,Kerosene,CUCUTA,Pérez Jul,Abierto,1801232,50434,496
+Juan Cardona,Acido Sulfúrico,MEDELLIN,Betancur Man,Ingresado,4589982,128519,496
+Manuela Zapata,Acido Clorhidrico-Muriático,MANIZALES,Zapata Nat,Abierto,10077140,282159,92
+Valentina Alzate,Acido Clorhidrico-Muriático,ARMENIA,Zapata Man,Abierto,8408594,235440,632
+Juliana Pérez,Gas,MEDELLIN,Zapata Man,Abierto,1589824,44515,072
+Valentina De Los Ríos,Acido Sulfúrico,PASTO,Arenas And,Abierto,4648699,130163,572
+Nataly Muriel,Eter Etílico,MEDELLIN,De Los Ríos Val,Abierto,4550000,127400
+Manuela Zapata,Acetileno,BOGOTA,Pérez Jul,Abierto,1924221,53878,188
+Valentina Zapata,Acetileno,PASTO,Cely Lui,Abierto,4700000,131600
+Manuela Gómez,Kerosene,MEDELLIN,De Los Ríos Val,Abierto,3410000,95480
+Luisa Cely,Gas,BOGOTA,García Val,Abierto,1848621,51761,388
+Diego Zapata,Acetileno,BOGOTA,Pérez Jul,Abierto,1631475,45681,3
+Juliana Pérez,Kerosene,BARRANQUILLA,Cely Lui,Abierto,4632655,129714,34
+Valentina De Los Ríos,Acetona ,TULUA,Zapata Die,Abierto,5261668,147326,704
+Andrea Arenas,Cloruro de Amonio,CALI,Rodríguez Ale,Abierto,1850000,51800
+Cristián Grajales,Acetona ,BOGOTA,Vanegas Cam,Abierto,6012943,168362,404
+Valentina Alzate,Kerosene,FLORENCIA,Rodríguez Ale,Ingresado,1487913,41661,564
+Valentina García,Acetileno,TULUA,Muriel Nat,Abierto,1399988,39199,664
+Luisa Cely,Gas,BOGOTA,Arenas And,Pendiente envío,2191208,61353,824
+Cristián Grajales,Alquitran,FLORENCIA,Betancur Man,Abierto,26519058,742533,624
+Valentina Zapata,Acido Sulfúrico,NEIVA,Arenas And,Pendiente envío,2378210,66589,88
+Geraldine Ortiz,Cloruro de Amonio,SANTA MARTA,Ortiz Ger,Abierto,1517904,42501,312
+Alejandro Rodríguez,Acetileno,MEDELLIN,Zapata Man,Ingresado,3168978,88731,384
+Natalia Zapata,Toluol,MEDELLIN,Grajales Cri,Cerrado,3624760,101493,28
+Valentina De Los Ríos,Alquitran,BOGOTA,Zapata Die,Pendiente envío,3796461,106300,908
+Diego Zapata,Gas,MEDELLIN,Gómez Man,Pendiente envío,1829594,51228,632
+Juan Cardona,Toluol,FLORENCIA,Cardona Jua,Cerrado,1603091,44886,548
+Juan Cardona,Acido Clorhidrico-Muriático,FLORENCIA,Ortiz Ger,Ingresado,1381367,38678,276
+Manuela Gómez,Acido Sulfúrico,CUCUTA,Sánchez Mar,Abierto,1893030,53004,84
+Valentina De Los Ríos,Toluol,PASTO,Pérez Jul,Abierto,1743859,48828,052
+Valentina García,Acetileno,CALI,Ortiz Ger,Pendiente envío,4115147,115224,116
+Valerie Zapata,Eter Etílico,CALI,Cardona Jua,Pendiente envío,5491540,153763,12
+Cristián Grajales,Toluol,MEDELLIN,Zapata Man,Pendiente envío,4239616,118709,248
+Valentina Zapata,Toluol,FLORENCIA,Alzate Val,Abierto,1476513,41342,364
+Natalia Zapata,Kerosene,MEDELLIN,Betancur Man,Abierto,3355915,93965,62
+Luisa Cely,Cloruro de Amonio,MONTERIA,Pérez Jul,Cerrado,5346555,149703,54
+Andrea Arenas,Eter Etílico,ARMENIA,De Los Ríos Val,Abierto,12318350,344913,8
+Clara Sánchez,Eter Etílico,PEREIRA,Arenas And,Abierto,2958000,82824
+Juliana Pérez,Acetona ,NEIVA,Zapata Val,Abierto,2342336,65585,408
+Diego Zapata,Acetileno,SANTA MARTA,Sánchez Mar,Ingresado,5020574,140576,072
+Manuela Zapata,Kerosene,CALI,Cardona Jua,Abierto,7094180,198637,04
+Geraldine Ortiz,Acido Clorhidrico-Muriático,PASTO,Cely Lui,Ingresado,2460000,68880
+Valentina Zapata,Eter Etílico,NEIVA,Zapata Die,Ingresado,2390271,66927,588
+Natalia Zapata,Acido Sulfúrico,MEDELLIN,Muriel Nat,Abierto,4603800,128906,4
+Manuela Gómez,Alquitran,BOGOTA,Alzate Val,Cerrado,1431140,40071,92
+Manuela Gómez,Kerosene,PASTO,Zapata Val,Abierto,2480000,69440
+Manuela Gómez,Eter Etílico,ARMENIA,Zapata Val,Cerrado,1600000,44800
+Manuela Zapata,Gas,VALLEDUPAR,Pérez Jul,Cerrado,10013153,280368,284
+Valerie Zapata,Acetileno,FLORENCIA,Zapata Die,Abierto,5184945,145178,46
+Clara Sánchez,Acido Clorhidrico-Muriático,BOGOTA,García Val,Pendiente envío,3850935,107826,18
+Luisa Cely,Cloruro de Amonio,VALLEDUPAR,Muriel Nat,Abierto,1588804,44486,512
+Cristián Grajales,Cloruro de Amonio,MEDELLIN,García Val,Abierto,9389856,262915,968
+Valerie Zapata,Alquitran,BOGOTA,De Los Ríos Val,Abierto,1377920,38581,76
+Valentina Zapata,Acido Clorhidrico-Muriático,BARRANQUILLA,Grajales Cri,Pendiente envío,15638142,437867,976
+Camila Vanegas,Acetileno,MEDELLIN,Vanegas Cam,Ingresado,1760551,49295,428
+Camila Vanegas,Acido Sulfúrico,BOGOTA,Muriel Nat,Pendiente envío,6669015,186732,42
+Manuela Betancur,Acetileno,MONTERIA,Arenas And,Ingresado,14041856,393171,968
+Clara Sánchez,Gas,TULUA,Cardona Jua,Pendiente envío,1667646,46694,088
+Manuela Betancur,Cloruro de Amonio,MONTERIA,Muriel Nat,Abierto,1700000,47600
+Nataly Muriel,Acido Sulfúrico,BOGOTA,Cardona Jua,Pendiente envío,3727045,104357,26
+Cristián Grajales,Alquitran,CALI,Zapata Nat,Abierto,7331224,205274,272
+Nataly Muriel,Eter Etílico,BOGOTA,Alzate Val,Cerrado,6183606,173140,968
+Luisa Cely,Acetona ,MEDELLIN,Muriel Nat,Abierto,5347069,149717,932
+Manuela Betancur,Acido Clorhidrico-Muriático,BOGOTA,Betancur Man,Abierto,2710000,75880
+Luisa Cely,Toluol,BOGOTA,Gómez Man,Abierto,6765553,189435,484
+Manuela Gómez,Toluol,MEDELLIN,Rodríguez Ale,Cerrado,1387567,38851,876
+Andrea Arenas,Acetona ,BOGOTA,Rodríguez Ale,Pendiente envío,3957601,110812,828
+Cristián Grajales,Acetileno,IBAGUE,Pérez Jul,Abierto,1575560,44115,68
+Valentina García,Alquitran,MEDELLIN,Muriel Nat,Abierto,1600000,44800
+Alejandro Rodríguez,Cloruro de Amonio,MEDELLIN,Betancur Man,Abierto,2742460,76788,88
+Valerie Zapata,Cloruro de Amonio,NEIVA,Cely Lui,Ingresado,2300841,64423,548
+Valentina Zapata,Alquitran,POPAYAN,Cardona Jua,Ingresado,5293966,148231,048
+Valerie Zapata,Acido Clorhidrico-Muriático,CARTAGENA,Gómez Man,Abierto,1782042,49897,176
+Clara Sánchez,Gas,SINCELEJO,Pérez Jul,Cerrado,29596671,828706,788
+Cristián Grajales,Acido Sulfúrico,BOGOTA,Muriel Nat,Abierto,1747520,48930,56
+Andrea Arenas,Alquitran,ARMENIA,Cardona Jua,Abierto,1463989,40991,692
+Camila Vanegas,Acido Clorhidrico-Muriático,ARMENIA,Cely Lui,Cerrado,2860461,80092,908
+Juan Cardona,Gas,MEDELLIN,Sánchez Mar,Abierto,2953769,82705,532
+Manuela Gómez,Eter Etílico,MEDELLIN,Betancur Man,Abierto,1539420,43103,76
+Natalia Zapata,Toluol,PEREIRA,Arenas And,Pendiente envío,2896387,81098,836
+Andrea Arenas,Acido Sulfúrico,ARMENIA,Sánchez Mar,Abierto,1492478,41789,384
+Juan Cardona,Kerosene,MEDELLIN,Grajales Cri,Ingresado,3290000,92120
+Andrea Arenas,Gas,SINCELEJO,Zapata Nat,Abierto,1583334,44333,352
+Geraldine Ortiz,Acido Clorhidrico-Muriático,BOGOTA,Ortiz Ger,Abierto,1939060,54293,68
+Geraldine Ortiz,Acido Clorhidrico-Muriático,BOGOTA,De Los Ríos Val,Abierto,1442969,40403,132
+Juliana Pérez,Acetileno,BOGOTA,Zapata Val,Abierto,1354473,37925,244
+Valentina García,Kerosene,MEDELLIN,Grajales Cri,Pendiente envío,9445979,264487,412
+Camila Vanegas,Acetona ,CALDAS,De Los Ríos Val,Ingresado,1950000,54600
+Nataly Muriel,Gas,CARTAGENA,García Val,Abierto,2758389,77234,892
+Cristián Grajales,Acetileno,CALDAS,Alzate Val,Cerrado,5556000,155568
+Juliana Pérez,Acido Sulfúrico,SANTA MARTA,Vanegas Cam,Abierto,1472940,41242,32
+Valentina García,Cloruro de Amonio,FLORENCIA,Pérez Jul,Abierto,4960000,138880
+Geraldine Ortiz,Toluol,PASTO,Muriel Nat,Abierto,2584431,72364,068
+Luisa Cely,Acetileno,BOGOTA,Vanegas Cam,Abierto,3847321,107724,988
+Nataly Muriel,Toluol,SINCELEJO,Gómez Man,Abierto,10026488,280741,664
+Juan Cardona,Toluol,ARMENIA,Vanegas Cam,Cerrado,5250000,147000
+Valentina Alzate,Acetileno,BOGOTA,Zapata Nat,Abierto,3709289,103860,092
+Camila Vanegas,Toluol,POPAYAN,De Los Ríos Val,Abierto,1701827,47651,156
+Luisa Cely,Acetileno,MEDELLIN,Cely Lui,Pendiente envío,1468604,41120,912
+Luisa Cely,Cloruro de Amonio,PASTO,Muriel Nat,Ingresado,2450000,68600
+Manuela Zapata,Acetileno,MEDELLIN,Alzate Val,Abierto,3357837,94019,436
+Alejandro Rodríguez,Cloruro de Amonio,BARRANQUILLA,Vanegas Cam,Abierto,5504951,154138,628
+Geraldine Ortiz,Kerosene,NEIVA,Betancur Man,Abierto,1490994,41747,832
+Valerie Zapata,Kerosene,PASTO,Zapata Nat,Pendiente envío,1794746,50252,888
+Valentina Zapata,Toluol,PEREIRA,Pérez Jul,Pendiente envío,1558181,43629,068
+Valentina García,Cloruro de Amonio,NEIVA,Grajales Cri,Cerrado,2393488,67017,664
+Juan Cardona,Acetileno,MEDELLIN,Ortiz Ger,Abierto,155726974,4360355,272
+Valentina García,Toluol,MEDELLIN,Muriel Nat,Abierto,12090000,338520
+Geraldine Ortiz,Acido Sulfúrico,NEIVA,Zapata Man,Cerrado,2143032,60004,896
+Alejandro Rodríguez,Toluol,CARTAGENA,Grajales Cri,Abierto,9355335,261949,38
+Clara Sánchez,Acetona ,CALDAS,Zapata Die,Abierto,19025123,532703,444
+Valentina De Los Ríos,Toluol,BOGOTA,Vanegas Cam,Abierto,1377138,38559,864
+Diego Zapata,Acetona ,BOGOTA,Sánchez Mar,Pendiente envío,1804821,50534,988
+Luisa Cely,Eter Etílico,BARRANQUILLA,Arenas And,Pendiente envío,5500000,154000
+Luisa Cely,Acetona ,BOGOTA,Alzate Val,Cerrado,2712167,75940,676
+Cristián Grajales,Kerosene,PEREIRA,Zapata Val,Pendiente envío,2960000,82880
+Natalia Zapata,Gas,CALDAS,Zapata Nat,Abierto,6342899,177601,172
+Manuela Gómez,Eter Etílico,MEDELLIN,Grajales Cri,Ingresado,1880000,52640
+Diego Zapata,Toluol,NEIVA,Vanegas Cam,Pendiente envío,2266950,63474,6
+Alejandro Rodríguez,Acetileno,MEDELLIN,Arenas And,Abierto,3410058,95481,624
+Juan Cardona,Alquitran,MEDELLIN,Pérez Jul,Pendiente envío,3466111,97051,108
+Valentina De Los Ríos,Acido Sulfúrico,VILLAVICENCIO,Pérez Jul,Ingresado,2868389,80314,892
+Juliana Pérez,Acetileno,BOGOTA,García Val,Abierto,2617793,73298,204
+Diego Zapata,Acetileno,BOGOTA,Vanegas Cam,Pendiente envío,1550092,43402,576
+Cristián Grajales,Cloruro de Amonio,CUCUTA,Grajales Cri,Ingresado,28417736,795696,608
+Juan Cardona,Acetileno,MEDELLIN,Gómez Man,Abierto,26967889,755100,892
+Diego Zapata,Acido Sulfúrico,CALI,Zapata Die,Pendiente envío,7590216,212526,048
+Manuela Gómez,Cloruro de Amonio,MEDELLIN,Ortiz Ger,Abierto,1489812,41714,736
+Juliana Pérez,Acetileno,PEREIRA,De Los Ríos Val,Ingresado,2842905,79601,34
+Diego Zapata,Gas,MEDELLIN,De Los Ríos Val,Ingresado,15000000,420000
+Valentina García,Alquitran,MEDELLIN,Zapata Val,Abierto,1709666,47870,648
+Camila Vanegas,Toluol,BOGOTA,Ortiz Ger,Abierto,1780449,49852,572
+Luisa Cely,Eter Etílico,MONTERIA,García Val,Abierto,1740554,48735,512
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,MONTERIA,Sánchez Mar,Pendiente envío,12889781,360913,868
+Valentina Alzate,Kerosene,MEDELLIN,Muriel Nat,Cerrado,3437937,96262,236
+Alejandro Rodríguez,Acetileno,MEDELLIN,Ortiz Ger,Pendiente envío,3558000,99624
+Cristián Grajales,Acetileno,BOGOTA,Sánchez Mar,Cerrado,2052912,57481,536
+Cristián Grajales,Gas,MEDELLIN,Betancur Man,Abierto,3020210,84565,88
+Valentina Alzate,Eter Etílico,BOGOTA,Ortiz Ger,Abierto,2250894,63025,032
+Andrea Arenas,Acetileno,TULUA,Vanegas Cam,Pendiente envío,10247103,286918,884
+Natalia Zapata,Acetileno,NEIVA,Ortiz Ger,Abierto,2131205,59673,74
+Camila Vanegas,Toluol,BOGOTA,Pérez Jul,Abierto,2648926,74169,928
+Manuela Gómez,Acetona ,PASTO,García Val,Abierto,2490000,69720
+Juan Cardona,Acetileno,BOGOTA,Zapata Nat,Cerrado,2099000,58772
+Andrea Arenas,Kerosene,PASTO,Zapata Die,Ingresado,2450000,68600
+Nataly Muriel,Acido Sulfúrico,NEIVA,Vanegas Cam,Abierto,2261011,63308,308
+Manuela Zapata,Kerosene,CALI,Arenas And,Pendiente envío,7513809,210386,652
+Juliana Pérez,Acetileno,VILLAVICENCIO,Zapata Val,Ingresado,5000000,140000
+Andrea Arenas,Toluol,VILLAVICENCIO,Zapata Val,Ingresado,4830000,135240
+Geraldine Ortiz,Alquitran,PEREIRA,Grajales Cri,Cerrado,2756678,77186,984
+Manuela Betancur,Acido Clorhidrico-Muriático,MEDELLIN,Vanegas Cam,Abierto,1609863,45076,164
+Manuela Gómez,Alquitran,CARTAGENA,Zapata Val,Abierto,18679605,523028,94
+Manuela Zapata,Cloruro de Amonio,MEDELLIN,Pérez Jul,Abierto,13500073,378002,044
+Juliana Pérez,Alquitran,CALDAS,Gómez Man,Cerrado,2767109,77479,052
+Luisa Cely,Eter Etílico,MEDELLIN,Zapata Nat,Pendiente envío,1930811,54062,708
+Diego Zapata,Gas,MEDELLIN,Grajales Cri,Pendiente envío,3285344,91989,632
+Luisa Cely,Acetileno,BOGOTA,Muriel Nat,Cerrado,1882000,52696
+Alejandro Rodríguez,Alquitran,MEDELLIN,Zapata Nat,Abierto,4561338,127717,464
+Geraldine Ortiz,Gas,PEREIRA,De Los Ríos Val,Pendiente envío,1402380,39266,64
+Diego Zapata,Eter Etílico,PEREIRA,Vanegas Cam,Abierto,2875930,80526,04
+Valentina De Los Ríos,Cloruro de Amonio,MEDELLIN,Zapata Nat,Abierto,14596131,408691,668
+Manuela Betancur,Acetona ,BOGOTA,Muriel Nat,Cerrado,6723524,188258,672
+Luisa Cely,Eter Etílico,MEDELLIN,Ortiz Ger,Abierto,3372348,94425,744
+Valentina Zapata,Acetona ,MEDELLIN,Muriel Nat,Pendiente envío,1723765,48265,42
+Valentina Zapata,Kerosene,CALI,Cardona Jua,Abierto,7196992,201515,776
+Valentina Zapata,Gas,FLORENCIA,García Val,Abierto,41073234,1150050,552
+Diego Zapata,Acido Sulfúrico,BOGOTA,Cardona Jua,Abierto,6452260,180663,28
+Valentina De Los Ríos,Cloruro de Amonio,BOGOTA,García Val,Ingresado,1962142,54939,976
+Alejandro Rodríguez,Acido Sulfúrico,PASTO,Rodríguez Ale,Cerrado,8008254,224231,112
+Geraldine Ortiz,Toluol,PASTO,Gómez Man,Abierto,1732525,48510,7
+Valentina Alzate,Cloruro de Amonio,MEDELLIN,Betancur Man,Abierto,4437185,124241,18
+Alejandro Rodríguez,Acido Clorhidrico-Muriático,PEREIRA,Rodríguez Ale,Abierto,2831720,79288,16
+Andrea Arenas,Acetona ,BOGOTA,Cardona Jua,Abierto,2042299,57184,372
+Valerie Zapata,Gas,PASTO,Zapata Nat,Abierto,2417803,67698,484
+Manuela Zapata,Eter Etílico,PEREIRA,Zapata Die,Abierto,1700000,47600
+Manuela Zapata,Acido Sulfúrico,BARRANQUILLA,Zapata Die,Abierto,2478638,69401,864
+Andrea Arenas,Alquitran,TULUA,Rodríguez Ale,Ingresado,1615643,45238,004
+Manuela Zapata,Kerosene,BOGOTA,García Val,Pendiente envío,2000000,56000
+Alejandro Rodríguez,Eter Etílico,VALLEDUPAR,Zapata Val,Ingresado,12405561,347355,708
+Manuela Gómez,Acetileno,BOGOTA,Rodríguez Ale,Pendiente envío,1797611,50333,108
+Juan Cardona,Cloruro de Amonio,MEDELLIN,Vanegas Cam,Cerrado,4307663,120614,564
+Camila Vanegas,Acido Sulfúrico,BOGOTA,Ortiz Ger,Abierto,1556615,43585,22
+Andrea Arenas,Kerosene,CALI,Cardona Jua,Ingresado,7436530,208222,84
+Nataly Muriel,Acido Clorhidrico-Muriático,BOGOTA,García Val,Abierto,1882330,52705,24
+Manuela Betancur,Gas,BOGOTA,Rodríguez Ale,Pendiente envío,2659646,74470,088
+Manuela Zapata,Kerosene,MEDELLIN,Ortiz Ger,Cerrado,4575897,128125,116
+Valentina García,Acido Sulfúrico,BOGOTA,Alzate Val,Ingresado,6916362,193658,136
+Valentina García,Kerosene,IBAGUE,Alzate Val,Abierto,14218758,398125,224
+Valentina Zapata,Gas,CARTAGENA,Zapata Man,Abierto,4764000,133392
+Manuela Gómez,Cloruro de Amonio,PEREIRA,Alzate Val,Pendiente envío,4916756,137669,168
+Valerie Zapata,Kerosene,PASTO,Ortiz Ger,Pendiente envío,2598505,72758,14
+Valentina García,Alquitran,SINCELEJO,Vanegas Cam,Ingresado,5266692,147467,376
+Camila Vanegas,Acetileno,VALLEDUPAR,Zapata Die,Abierto,1703941,47710,348
+Nataly Muriel,Acetileno,MANIZALES,Arenas And,Ingresado,10759922,301277,816
+Andrea Arenas,Cloruro de Amonio,BARRANQUILLA,De Los Ríos Val,Cerrado,1490037,41721,036
+Luisa Cely,Toluol,MEDELLIN,Betancur Man,Cerrado,8312600,232752,8
+Diego Zapata,Gas,CARTAGENA,De Los Ríos Val,Abierto,3468000,97104
+Valentina García,Gas,MEDELLIN,Betancur Man,Abierto,4058643,113642,004
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,PEREIRA,De Los Ríos Val,Abierto,2877742,80576,776
+Manuela Zapata,Eter Etílico,MEDELLIN,Ortiz Ger,Abierto,3515629,98437,612
+Valentina Zapata,Kerosene,PASTO,De Los Ríos Val,Abierto,1832334,51305,352
+Cristián Grajales,Acetona ,MEDELLIN,Zapata Val,Abierto,1500748,42020,944
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,CARTAGENA,Arenas And,Cerrado,1639070,45893,96
+Cristián Grajales,Acido Sulfúrico,SANTA MARTA,Zapata Val,Abierto,2164938,60618,264
+Clara Sánchez,Acetileno,NEIVA,García Val,Pendiente envío,2373111,66447,108
+Clara Sánchez,Gas,MEDELLIN,García Val,Abierto,12183867,341148,276
+Valerie Zapata,Alquitran,PASTO,Pérez Jul,Abierto,1772647,49634,116
+Andrea Arenas,Acido Sulfúrico,ARMENIA,Alzate Val,Abierto,2867812,80298,736
+Camila Vanegas,Gas,PEREIRA,Cely Lui,Cerrado,2851115,79831,22
+Nataly Muriel,Cloruro de Amonio,NEIVA,Muriel Nat,Cerrado,1745763,48881,364
+Clara Sánchez,Cloruro de Amonio,SINCELEJO,Betancur Man,Abierto,1814791,50814,148
+Valerie Zapata,Kerosene,MEDELLIN,Zapata Nat,Pendiente envío,3168762,88725,336
+Andrea Arenas,Acido Sulfúrico,BARRANQUILLA,Zapata Man,Pendiente envío,2864186,80197,208
+Valentina García,Acetona ,BOGOTA,Rodríguez Ale,Abierto,2862275,80143,7
+Manuela Gómez,Eter Etílico,MEDELLIN,Zapata Man,Abierto,11134835,311775,38
+Manuela Gómez,Cloruro de Amonio,PEREIRA,Ortiz Ger,Abierto,13264428,371403,984
+Manuela Betancur,Acido Clorhidrico-Muriático,MEDELLIN,Muriel Nat,Ingresado,3335587,93396,436
+Diego Zapata,Toluol,BOGOTA,Sánchez Mar,Abierto,1419550,39747,4
+Manuela Betancur,Acido Sulfúrico,MEDELLIN,Ortiz Ger,Abierto,1421399,39799,172
+Valentina De Los Ríos,Toluol,CUCUTA,Zapata Die,Cerrado,2045457,57272,796
+Geraldine Ortiz,Alquitran,MEDELLIN,Zapata Nat,Abierto,1700000,47600
+Nataly Muriel,Acetona ,BOGOTA,Sánchez Mar,Ingresado,1376245,38534,86
+Natalia Zapata,Toluol,MEDELLIN,Zapata Die,Pendiente envío,8800600,246416,8
+Juan Cardona,Acetona ,MEDELLIN,Arenas And,Abierto,1816767,50869,476
+Cristián Grajales,Eter Etílico,MEDELLIN,De Los Ríos Val,Abierto,3474055,97273,54
+Valentina García,Toluol,MEDELLIN,Pérez Jul,Abierto,8943956,250430,768
+Nataly Muriel,Kerosene,CALI,Sánchez Mar,Abierto,1974129,55275,612
+Valentina García,Acetileno,PASTO,García Val,Cerrado,2412352,67545,856
+Clara Sánchez,Gas,MEDELLIN,Betancur Man,Cerrado,1676626,46945,528
+Luisa Cely,Gas,BOGOTA,Vanegas Cam,Abierto,1457535,40810,98
+Diego Zapata,Gas,MEDELLIN,Betancur Man,Ingresado,19780144,553844,032
+Valentina García,Acido Sulfúrico,MEDELLIN,Zapata Man,Abierto,2187500,61250
+Valentina García,Acido Clorhidrico-Muriático,PASTO,Sánchez Mar,Abierto,2451697,68647,516
+Manuela Gómez,Cloruro de Amonio,MEDELLIN,Cardona Jua,Abierto,221878178,6212588,984
+Manuela Betancur,Acetileno,IBAGUE,Arenas And,Abierto,1917533,53690,924
+Clara Sánchez,Acetileno,CALI,Zapata Die,Abierto,7167934,200702,152
+Manuela Betancur,Eter Etílico,MEDELLIN,Ortiz Ger,Ingresado,8406326,235377,128
+Juan Cardona,Alquitran,PASTO,Ortiz Ger,Cerrado,1636602,45824,856
+Clara Sánchez,Acido Clorhidrico-Muriático,CALI,García Val,Abierto,7597835,212739,38
+Juliana Pérez,Toluol,MEDELLIN,Zapata Man,Ingresado,2166955,60674,74
+Camila Vanegas,Gas,MEDELLIN,De Los Ríos Val,Ingresado,4263603,119380,884
+Valentina García,Alquitran,BOGOTA,Vanegas Cam,Abierto,1880536,52655,008
+Valentina Alzate,Toluol,BOGOTA,Grajales Cri,Abierto,6530704,182859,712
+Luisa Cely,Alquitran,ARMENIA,Zapata Val,Abierto,1500000,42000
+Valerie Zapata,Cloruro de Amonio,BOGOTA,García Val,Abierto,5934720,166172,16
+Andrea Arenas,Acido Sulfúrico,MEDELLIN,Zapata Val,Pendiente envío,3408619,95441,332
+Nataly Muriel,Acetileno,BOGOTA,Arenas And,Ingresado,4036866,113032,248
+Geraldine Ortiz,Eter Etílico,MEDELLIN,Alzate Val,Abierto,1797173,50320,844
+Natalia Zapata,Acetileno,IBAGUE,De Los Ríos Val,Abierto,1511532,42322,896
+Andrea Arenas,Acetileno,FLORENCIA,Pérez Jul,Abierto,1494894,41857,032
+Juliana Pérez,Toluol,MEDELLIN,Rodríguez Ale,Pendiente envío,16312614,456753,192
+Manuela Betancur,Acido Sulfúrico,MONTERIA,Cely Lui,Abierto,1700000,47600
+Valentina Alzate,Acido Sulfúrico,BOGOTA,Zapata Val,Ingresado,2635200,73785,6
+Valentina De Los Ríos,Eter Etílico,NEIVA,Zapata Val,Abierto,1954815,54734,82
+Camila Vanegas,Acetileno,SINCELEJO,Rodríguez Ale,Abierto,2203780,61705,84
+Natalia Zapata,Acetileno,BOGOTA,Zapata Die,Abierto,3839166,107496,648
+Valentina García,Eter Etílico,BOGOTA,García Val,Cerrado,3737011,104636,308
+Valentina Zapata,Eter Etílico,MEDELLIN,Zapata Nat,Abierto,3074184,86077,152
+Manuela Betancur,Acetileno,BOGOTA,Muriel Nat,Ingresado,1462208,40941,824
+Clara Sánchez,Acido Clorhidrico-Muriático,PASTO,Vanegas Cam,Abierto,2393917,67029,676
+Clara Sánchez,Acido Sulfúrico,MEDELLIN,Arenas And,Cerrado,1420118,39763,304
+Juan Cardona,Acetileno,MEDELLIN,Sánchez Mar,Abierto,1626205,45533,74
+Manuela Gómez,Acido Sulfúrico,PEREIRA,Zapata Man,Cerrado,2852693,79875,404
+Valerie Zapata,Kerosene,CARTAGENA,De Los Ríos Val,Abierto,6338828,177487,184
+Manuela Zapata,Acido Sulfúrico,BOGOTA,Cely Lui,Abierto,2676241,74934,748
+Geraldine Ortiz,Cloruro de Amonio,NEIVA,Betancur Man,Abierto,2278200,63789,6
+Valerie Zapata,Acido Sulfúrico,MEDELLIN,García Val,Cerrado,1369618,38349,304
+Valentina Alzate,Acido Sulfúrico,CALI,Arenas And,Ingresado,6986444,195620,432
+Manuela Gómez,Cloruro de Amonio,MEDELLIN,Rodríguez Ale,Cerrado,1447730,40536,44
+Valentina Zapata,Toluol,PASTO,De Los Ríos Val,Abierto,2569498,71945,944
+Alejandro Rodríguez,Kerosene,CALI,García Val,Abierto,7014870,196416,36
+Manuela Zapata,Toluol,NEIVA,García Val,Ingresado,2278065,63785,82
+Valentina García,Eter Etílico,NEIVA,Rodríguez Ale,Abierto,2298418,64355,704
+Manuela Zapata,Acetona ,CARTAGENA,Grajales Cri,Abierto,1569802,43954,456
+Valerie Zapata,Alquitran,PASTO,Grajales Cri,Abierto,1677960,46982,88
+Clara Sánchez,Kerosene,MEDELLIN,Zapata Die,Abierto,4341795,121570,26
+Luisa Cely,Alquitran,IBAGUE,Betancur Man,Cerrado,31765151,889424,228
+Juan Cardona,Acido Sulfúrico,BOGOTA,De Los Ríos Val,Pendiente envío,1753069,49085,932
+Alejandro Rodríguez,Acetona ,MEDELLIN,Zapata Val,Abierto,3327121,93159,388
+Manuela Zapata,Gas,IBAGUE,Zapata Nat,Abierto,5180129,145043,612
+Valentina Alzate,Alquitran,MEDELLIN,Pérez Jul,Abierto,1451670,40646,76
+Camila Vanegas,Acido Sulfúrico,MEDELLIN,Sánchez Mar,Abierto,1455359,40750,052
+Valentina García,Acetileno,MANIZALES,Ortiz Ger,Pendiente envío,1599453,44784,684
+Valentina De Los Ríos,Acetona ,MEDELLIN,Muriel Nat,Ingresado,1888320,52872,96
+Diego Zapata,Cloruro de Amonio,BARRANQUILLA,Arenas And,Abierto,5684565,159167,82
+Diego Zapata,Acido Sulfúrico,SANTA MARTA,Sánchez Mar,Abierto,10278667,287802,676
+Clara Sánchez,Alquitran,FLORENCIA,Zapata Man,Abierto,9262510,259350,28
+Juliana Pérez,Gas,MONTERIA,Alzate Val,Abierto,12866576,360264,128
+Valerie Zapata,Cloruro de Amonio,MEDELLIN,Cely Lui,Cerrado,3346380,93698,64
+Alejandro Rodríguez,Acetileno,BOGOTA,Zapata Nat,Pendiente envío,6072100,170018,8
+Valentina Alzate,Toluol,POPAYAN,Alzate Val,Abierto,8760320,245288,96
+Camila Vanegas,Acido Sulfúrico,PASTO,De Los Ríos Val,Abierto,12909598,361468,744
+Diego Zapata,Kerosene,NEIVA,Zapata Nat,Abierto,8987560,251651,68
+Valentina Alzate,Gas,ARMENIA,Muriel Nat,Abierto,1459415,40863,62
+Valerie Zapata,Gas,BUCARAMANGA,Zapata Man,Abierto,2997674,83934,872
+Manuela Betancur,Eter Etílico,BOGOTA,Cardona Jua,Ingresado,1529771,42833,588
+Juan Cardona,Toluol,MEDELLIN,Zapata Nat,Cerrado,3061339,85717,492
+Manuela Zapata,Acetileno,CALI,Rodríguez Ale,Cerrado,6872897,192441,116
+Clara Sánchez,Alquitran,CALI,García Val,Abierto,1465560,41035,68
+Juan Cardona,Acetona ,VALLEDUPAR,Arenas And,Abierto,5594396,156643,088
+Valentina García,Acido Sulfúrico,PASTO,Zapata Man,Abierto,2475498,69313,944
+Luisa Cely,Eter Etílico,MEDELLIN,Zapata Man,Ingresado,18208757,509845,196
+Manuela Zapata,Toluol,CALI,Zapata Val,Pendiente envío,6877178,192560,984
+Camila Vanegas,Toluol,NEIVA,Vanegas Cam,Ingresado,2323187,65049,236
+Camila Vanegas,Toluol,MEDELLIN,Zapata Man,Ingresado,3453880,96708,64
+Valerie Zapata,Acetona ,PASTO,Pérez Jul,Ingresado,2551029,71428,812
+Cristián Grajales,Alquitran,BARRANQUILLA,Pérez Jul,Pendiente envío,1559630,43669,64
+Nataly Muriel,Acetileno,MEDELLIN,Vanegas Cam,Abierto,1454126,40715,528
+Manuela Betancur,Acido Sulfúrico,PASTO,Zapata Die,Abierto,1825394,51111,032
+Manuela Zapata,Alquitran,MEDELLIN,García Val,Ingresado,1626065,45529,82
+Valentina Alzate,Toluol,MEDELLIN,Grajales Cri,Ingresado,16942252,474383,056
+Manuela Gómez,Alquitran,PASTO,De Los Ríos Val,Abierto,2483532,69538,896
+Luisa Cely,Eter Etílico,NEIVA,Rodríguez Ale,Abierto,2320453,64972,684
+Valentina Zapata,Eter Etílico,PEREIRA,Betancur Man,Abierto,1685537,47195,036
+Nataly Muriel,Gas,POPAYAN,Gómez Man,Abierto,2155493,60353,804
+Nataly Muriel,Gas,PASTO,Betancur Man,Abierto,5100000,142800
+Valerie Zapata,Acetileno,MANIZALES,Rodríguez Ale,Abierto,8686124,243211,472
+Valerie Zapata,Kerosene,MANIZALES,Arenas And,Pendiente envío,5366199,150253,572
+Camila Vanegas,Gas,POPAYAN,Betancur Man,Pendiente envío,2877160,80560,48
+Diego Zapata,Acido Clorhidrico-Muriático,PEREIRA,Gómez Man,Ingresado,2965000,83020
+Clara Sánchez,Acetileno,PASTO,Sánchez Mar,Pendiente envío,1866568,52263,904
+Manuela Betancur,Kerosene,MEDELLIN,De Los Ríos Val,Ingresado,5125992,143527,776
+Valentina García,Eter Etílico,BOGOTA,De Los Ríos Val,Abierto,2050879,57424,612
+Juan Cardona,Kerosene,MEDELLIN,Grajales Cri,Abierto,3259449,91264,572
+Cristián Grajales,Acetileno,MEDELLIN,Cely Lui,Cerrado,46898360,1313154,08
+Cristián Grajales,Acido Clorhidrico-Muriático,BOGOTA,Grajales Cri,Abierto,6203177,173688,956
+Geraldine Ortiz,Acetileno,IBAGUE,Betancur Man,Abierto,8705470,243753,16
+Nataly Muriel,Acido Clorhidrico-Muriático,MEDELLIN,Muriel Nat,Abierto,17103409,478895,452
+Clara Sánchez,Kerosene,PEREIRA,Betancur Man,Abierto,2805349,78549,772
+Valentina De Los Ríos,Alquitran,MEDELLIN,García Val,Abierto,3531995,98895,86
+Clara Sánchez,Acido Clorhidrico-Muriático,BOGOTA,Zapata Die,Cerrado,3776891,105752,948
+Clara Sánchez,Kerosene,PASTO,Sánchez Mar,Ingresado,2582589,72312,492
+Valentina Alzate,Acetileno,PEREIRA,Pérez Jul,Cerrado,4070706,113979,768
+Natalia Zapata,Toluol,MEDELLIN,De Los Ríos Val,Abierto,3554981,99539,468
+Valentina García,Acido Clorhidrico-Muriático,BOGOTA,Vanegas Cam,Cerrado,1677290,46964,12
+Valentina Alzate,Acetona ,CARTAGENA,Sánchez Mar,Ingresado,3019833,84555,324
+Clara Sánchez,Toluol,NEIVA,García Val,Abierto,2091151,58552,228
+Valerie Zapata,Gas,CALI,De Los Ríos Val,Cerrado,7366137,206251,836
+Luisa Cely,Acetona ,PASTO,Zapata Man,Abierto,2602427,72867,956
+Diego Zapata,Gas,BOGOTA,Vanegas Cam,Abierto,2694354,75441,912
+Andrea Arenas,Acetileno,MEDELLIN,García Val,Abierto,1411620,39525,36
+Valerie Zapata,Eter Etílico,MANIZALES,De Los Ríos Val,Abierto,3226643,90346,004
+Manuela Betancur,Acido Clorhidrico-Muriático,PEREIRA,Ortiz Ger,Pendiente envío,4102918,114881,704
+Juliana Pérez,Eter Etílico,CARTAGENA,Zapata Man,Ingresado,1696056,47489,568
+Nataly Muriel,Gas,BARRANQUILLA,Grajales Cri,Abierto,1498580,41960,24
+Juan Cardona,Eter Etílico,SANTA MARTA,Vanegas Cam,Abierto,2340000,65520
+Manuela Gómez,Alquitran,CALI,Sánchez Mar,Abierto,6894605,193048,94
+Diego Zapata,Alquitran,CALI,Zapata Die,Abierto,6825248,191106,944
+Juan Cardona,Eter Etílico,PASTO,Cely Lui,Abierto,1673499,46857,972
+Diego Zapata,Acido Sulfúrico,MEDELLIN,Arenas And,Abierto,2973922,83269,816
+Alejandro Rodríguez,Acetileno,PEREIRA,Cardona Jua,Ingresado,2922261,81823,308
+Valerie Zapata,Gas,PEREIRA,De Los Ríos Val,Ingresado,2791870,78172,36
+Cristián Grajales,Alquitran,BOGOTA,Sánchez Mar,Ingresado,13135483,367793,524
+Geraldine Ortiz,Gas,MEDELLIN,Vanegas Cam,Abierto,3524878,98696,584
+Juliana Pérez,Cloruro de Amonio,MEDELLIN,Betancur Man,Abierto,4317028,120876,784
+Camila Vanegas,Toluol,MEDELLIN,De Los Ríos Val,Pendiente envío,4199880,117596,64
+Valerie Zapata,Gas,NEIVA,Zapata Man,Abierto,2316529,64862,812
+Alejandro Rodríguez,Acetileno,BOGOTA,Rodríguez Ale,Abierto,1487908,41661,424
+Valentina De Los Ríos,Acido Sulfúrico,BARRANQUILLA,Zapata Man,Abierto,1585886,44404,808
+Valentina De Los Ríos,Acetona ,BOGOTA,Cely Lui,Ingresado,6293548,176219,344
+Valerie Zapata,Acetileno,MEDELLIN,Arenas And,Abierto,2066233,57854,524
+Andrea Arenas,Toluol,BARRANQUILLA,Sánchez Mar,Abierto,12177025,340956,7
+Camila Vanegas,Acido Clorhidrico-Muriático,CALDAS,Zapata Nat,Pendiente envío,39676998,1110955,944
+Clara Sánchez,Acetona ,NEIVA,Alzate Val,Abierto,2190984,61347,552
+Valentina Zapata,Acetona ,NEIVA,Zapata Die,Pendiente envío,2338340,65473,52
+Geraldine Ortiz,Acetileno,PASTO,García Val,Abierto,2610000,73080
+Manuela Betancur,Alquitran,BUCARAMANGA,Vanegas Cam,Abierto,6343703,177623,684
+Clara Sánchez,Acetileno,ARMENIA,Gómez Man,Abierto,2756981,77195,468
+Andrea Arenas,Acido Clorhidrico-Muriático,BOGOTA,Vanegas Cam,Abierto,1350423,37811,844
+Valerie Zapata,Alquitran,BOGOTA,Alzate Val,Cerrado,2206255,61775,14
+Alejandro Rodríguez,Eter Etílico,BOGOTA,Cardona Jua,Abierto,2148300,60152,4
+Andrea Arenas,Acetileno,SANTA MARTA,Gómez Man,Ingresado,1380000,38640
+Valentina García,Kerosene,MEDELLIN,Rodríguez Ale,Ingresado,1832118,51299,304
+Cristián Grajales,Eter Etílico,BOGOTA,De Los Ríos Val,Cerrado,1491970,41775,16
+Valerie Zapata,Gas,MEDELLIN,Zapata Val,Abierto,1509199,42257,572
+Andrea Arenas,Acetileno,CALI,Cardona Jua,Pendiente envío,7400657,207218,396
+Valentina Zapata,Acetileno,BOGOTA,Pérez Jul,Cerrado,10476895,293353,06
+Valentina García,Acido Clorhidrico-Muriático,MEDELLIN,Vanegas Cam,Abierto,1997697,55935,516
+Valentina Alzate,Cloruro de Amonio,MEDELLIN,Rodríguez Ale,Ingresado,21391672,598966,816
+Natalia Zapata,Acetileno,CALI,Vanegas Cam,Abierto,2764320,77400,96
+Valentina Zapata,Acido Sulfúrico,NEIVA,Grajales Cri,Abierto,2099851,58795,828
+Nataly Muriel,Acetileno,BOGOTA,Cardona Jua,Abierto,1407030,39396,84
+Clara Sánchez,Acido Sulfúrico,POPAYAN,García Val,Pendiente envío,1600000,44800
+Clara Sánchez,Eter Etílico,MEDELLIN,Ortiz Ger,Cerrado,142265317,3983428,876
+Luisa Cely,Gas,BOGOTA,Vanegas Cam,Abierto,6514069,182393,932
+Manuela Zapata,Eter Etílico,BOGOTA,Ortiz Ger,Abierto,5214581,146008,268
+Valentina Zapata,Acetileno,PEREIRA,Grajales Cri,Abierto,1900000,53200
+Luisa Cely,Acido Clorhidrico-Muriático,NEIVA,Pérez Jul,Ingresado,2226132,62331,696
+Alejandro Rodríguez,Acido Sulfúrico,BOGOTA,Zapata Die,Abierto,1354000,37912
+Juliana Pérez,Acetileno,PEREIRA,Alzate Val,Abierto,2871070,80389,96
+Clara Sánchez,Acido Sulfúrico,BOGOTA,Rodríguez Ale,Abierto,1366000,38248
+Luisa Cely,Eter Etílico,BOGOTA,Pérez Jul,Abierto,2729185,76417,18
+Alejandro Rodríguez,Acetileno,PEREIRA,Sánchez Mar,Abierto,2789292,78100,176
+Nataly Muriel,Acetileno,BOGOTA,Grajales Cri,Abierto,2706979,75795,412
+Luisa Cely,Eter Etílico,MEDELLIN,Zapata Die,Cerrado,3408155,95428,34
+Valentina García,Toluol,PEREIRA,Betancur Man,Cerrado,2793622,78221,416
+Cristián Grajales,Gas,MEDELLIN,Zapata Val,Cerrado,14084650,394370,2
+Manuela Gómez,Toluol,MEDELLIN,Pérez Jul,Abierto,16000000,448000
+Valentina De Los Ríos,Acido Sulfúrico,MANIZALES,Arenas And,Abierto,19309266,540659,448
+Manuela Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Grajales Cri,Abierto,1511540,42323,12
+Alejandro Rodríguez,Kerosene,MEDELLIN,Rodríguez Ale,Pendiente envío,2969448,83144,544
+Juan Cardona,Toluol,VILLAVICENCIO,Arenas And,Ingresado,25902945,725282,46
+Nataly Muriel,Acetona ,CUCUTA,Arenas And,Pendiente envío,4103043,114885,204
+Andrea Arenas,Acido Clorhidrico-Muriático,MEDELLIN,Pérez Jul,Abierto,3051898,85453,144
+Valentina Zapata,Acetona ,PEREIRA,Alzate Val,Cerrado,2093896,58629,088
+Valentina De Los Ríos,Acido Clorhidrico-Muriático,MEDELLIN,García Val,Abierto,2152206,60261,768
+Juan Cardona,Acetileno,SANTA MARTA,Muriel Nat,Ingresado,1717318,48084,904
+Natalia Zapata,Gas,NEIVA,Cely Lui,Abierto,3699007,103572,196
+Manuela Gómez,Acido Clorhidrico-Muriático,BOGOTA,Rodríguez Ale,Cerrado,1446671,40506,788
+Juliana Pérez,Acetona ,MEDELLIN,García Val,Abierto,1749640,48989,92
+Juan Cardona,Acido Sulfúrico,NEIVA,García Val,Abierto,2320486,64973,608
+Valentina Alzate,Cloruro de Amonio,MEDELLIN,Vanegas Cam,Abierto,9463388,264974,864
+Manuela Betancur,Eter Etílico,CALDAS,Vanegas Cam,Ingresado,1360000,38080
+Valentina De Los Ríos,Acetileno,NEIVA,De Los Ríos Val,Abierto,1547512,43330,336
+Valentina García,Toluol,BOGOTA,Arenas And,Abierto,6139672,171910,816
+Valentina García,Acetona ,PASTO,Alzate Val,Cerrado,2535905,71005,34
+Valerie Zapata,Alquitran,TULUA,García Val,Abierto,1900000,53200
+Valentina De Los Ríos,Kerosene,MEDELLIN,Zapata Nat,Abierto,1741352,48757,856
+Valentina De Los Ríos,Toluol,BARRANQUILLA,García Val,Pendiente envío,1593348,44613,744
+Natalia Zapata,Acetona ,CUCUTA,Zapata Val,Abierto,1571410,43999,48
+Juliana Pérez,Gas,BOGOTA,Arenas And,Abierto,2016815,56470,82
+Juliana Pérez,Acetona ,BOGOTA,Arenas And,Ingresado,9245638,258877,864
+Juan Cardona,Alquitran,VALLEDUPAR,Grajales Cri,Ingresado,1900000,53200
+Valentina Alzate,Kerosene,BOGOTA,Pérez Jul,Abierto,3828754,107205,112
+Valentina Zapata,Acetileno,MEDELLIN,Gómez Man,Ingresado,1900000,53200
+Manuela Zapata,Acetileno,NEIVA,Rodríguez Ale,Abierto,2301807,64450,596
+Nataly Muriel,Acetona ,PASTO,Arenas And,Abierto,2450000,68600
+Alejandro Rodríguez,Gas,BOGOTA,Betancur Man,Ingresado,1865060,52221,68
+Diego Zapata,Acido Clorhidrico-Muriático,MEDELLIN,Rodríguez Ale,Abierto,1902000,53256
+Cristián Grajales,Acetileno,CALI,Zapata Man,Abierto,7522251,210623,028
+Valentina Alzate,Acido Clorhidrico-Muriático,PASTO,Muriel Nat,Pendiente envío,1853397,51895,116
+Natalia Zapata,Acetileno,MEDELLIN,Cardona Jua,Abierto,4565671,127838,788
+Geraldine Ortiz,Toluol,CALI,Rodríguez Ale,Cerrado,38794429,1086244,012
+Diego Zapata,Acido Sulfúrico,BOGOTA,Rodríguez Ale,Cerrado,3768200,105509,6
+Juliana Pérez,Acetileno,MEDELLIN,García Val,Abierto,4478076,125386,128
+Andrea Arenas,Acetileno,MEDELLIN,Betancur Man,Abierto,11118312,311312,736
+Manuela Gómez,Cloruro de Amonio,CALI,Zapata Nat,Ingresado,4781134,133871,752
+Luisa Cely,Alquitran,BOGOTA,García Val,Cerrado,2218471,62117,188
+Clara Sánchez,Toluol,POPAYAN,Sánchez Mar,Abierto,30967178,867080,984
+Juan Cardona,Gas,MEDELLIN,Zapata Die,Abierto,2109483,59065,524
+Manuela Gómez,Toluol,PASTO,Rodríguez Ale,Abierto,1380778,38661,784
+Valentina De Los Ríos,Acetona ,BOGOTA,Vanegas Cam,Abierto,1857743,52016,804
+Valerie Zapata,Acetileno,MEDELLIN,Gómez Man,Cerrado,60406090,1691370,52
+Camila Vanegas,Acetona ,PASTO,Rodríguez Ale,Cerrado,2485226,69586,328
+Clara Sánchez,Kerosene,BOGOTA,Grajales Cri,Abierto,1607456,45008,768
+Nataly Muriel,Acetileno,MEDELLIN,Muriel Nat,Pendiente envío,1723067,48245,876
+Alejandro Rodríguez,Eter Etílico,MEDELLIN,Vanegas Cam,Ingresado,8865949,248246,572
+Camila Vanegas,Kerosene,IBAGUE,Ortiz Ger,Cerrado,7028932,196810,096
+Luisa Cely,Acetona ,CUCUTA,Sánchez Mar,Abierto,3357288,94004,064
+Juan Cardona,Acido Sulfúrico,PEREIRA,De Los Ríos Val,Abierto,2751039,77029,092
+Cristián Grajales,Acetileno,PEREIRA,Zapata Man,Abierto,2788291,78072,148
+Valerie Zapata,Gas,MEDELLIN,Arenas And,Abierto,4193680,117423,04
+Geraldine Ortiz,Acido Clorhidrico-Muriático,CALDAS,Vanegas Cam,Abierto,4962410,138947,48
+Cristián Grajales,Toluol,PEREIRA,Ortiz Ger,Abierto,2772587,77632,436
+Andrea Arenas,Acetileno,CALI,Rodríguez Ale,Pendiente envío,59887916,1676861,648
+Juliana Pérez,Kerosene,MEDELLIN,Ortiz Ger,Abierto,8165795,228642,26
+Valerie Zapata,Acido Clorhidrico-Muriático,VALLEDUPAR,Cely Lui,Cerrado,7074428,198083,984
+Cristián Grajales,Cloruro de Amonio,BOGOTA,Rodríguez Ale,Abierto,1416768,39669,504
+Manuela Gómez,Kerosene,MANIZALES,Vanegas Cam,Ingresado,1381095,38670,66
+Juliana Pérez,Kerosene,PEREIRA,De Los Ríos Val,Abierto,4164569,116607,932
+Diego Zapata,Acetona ,MEDELLIN,Zapata Die,Abierto,13797285,386323,98
+Andrea Arenas,Alquitran,PASTO,Ortiz Ger,Abierto,2422362,67826,136
+Valentina Alzate,Kerosene,NEIVA,Zapata Val,Ingresado,2363637,66181,836
+Nataly Muriel,Toluol,NEIVA,Zapata Man,Abierto,2391917,66973,676
+Valentina Alzate,Gas,BOGOTA,Cely Lui,Ingresado,4265000,119420
+Valentina Zapata,Acido Sulfúrico,MEDELLIN,Betancur Man,Pendiente envío,4411829,123531,212
+Manuela Zapata,Kerosene,MANIZALES,Pérez Jul,Pendiente envío,3500000,98000
+Natalia Zapata,Alquitran,MEDELLIN,Cely Lui,Abierto,3241470,90761,16
+Alejandro Rodríguez,Alquitran,PASTO,García Val,Abierto,1478311,41392,708
+Manuela Zapata,Acido Sulfúrico,VALLEDUPAR,Grajales Cri,Ingresado,1661604,46524,912
+Juan Cardona,Acetona ,BOGOTA,Pérez Jul,Cerrado,1488750,41685
+Manuela Gómez,Toluol,BOGOTA,Pérez Jul,Ingresado,1395072,39062,016
+Clara Sánchez,Alquitran,VALLEDUPAR,Cardona Jua,Cerrado,15850000,443800
+Valentina Zapata,Acetileno,NEIVA,Grajales Cri,Ingresado,2271122,63591,416
+Manuela Zapata,Acetileno,IBAGUE,Cardona Jua,Abierto,4094592,114648,576
+Juliana Pérez,Eter Etílico,MEDELLIN,Arenas And,Abierto,4341610,121565,08
+Clara Sánchez,Acido Sulfúrico,PASTO,Cely Lui,Cerrado,2498724,69964,272
+Camila Vanegas,Acido Sulfúrico,BOGOTA,Cardona Jua,Abierto,1456853,40791,884
+Luisa Cely,Eter Etílico,MEDELLIN,Alzate Val,Abierto,2120499,59373,972
+Valerie Zapata,Cloruro de Amonio,TULUA,García Val,Pendiente envío,10019449,280544,572
+Juliana Pérez,Acido Sulfúrico,PASTO,Zapata Die,Abierto,1820073,50962,044
+Nataly Muriel,Alquitran,PASTO,Zapata Nat,Cerrado,19075968,534127,104
+Juan Cardona,Acetona ,MEDELLIN,Zapata Man,Abierto,3080594,86256,632
+Camila Vanegas,Acido Clorhidrico-Muriático,ARMENIA,Sánchez Mar,Abierto,9980709,279459,852
+Manuela Betancur,Gas,SINCELEJO,Zapata Val,Abierto,1700000,47600
+Natalia Zapata,Cloruro de Amonio,CALI,Vanegas Cam,Ingresado,6861090,192110,52
+Juan Cardona,Acetona ,BOGOTA,Sánchez Mar,Abierto,6109274,171059,672
+Valentina Alzate,Gas,SINCELEJO,Rodríguez Ale,Abierto,1560602,43696,856
+Cristián Grajales,Toluol,BOGOTA,Grajales Cri,Ingresado,6736614,188625,192
+Manuela Zapata,Cloruro de Amonio,VALLEDUPAR,Sánchez Mar,Abierto,4837992,135463,776
+Luisa Cely,Acetileno,CUCUTA,Grajales Cri,Pendiente envío,4739559,132707,652
+Valerie Zapata,Acido Sulfúrico,CALI,Cely Lui,Pendiente envío,7751855,217051,94
+Andrea Arenas,Acetileno,NEIVA,Cely Lui,Pendiente envío,19088342,534473,576
+Valentina García,Cloruro de Amonio,CALDAS,De Los Ríos Val,Abierto,9669916,270757,648
+Cristián Grajales,Acido Sulfúrico,PEREIRA,Arenas And,Ingresado,2088000,58464
+Diego Zapata,Kerosene,BUCARAMANGA,Betancur Man,Abierto,1659570,46467,96
+Valerie Zapata,Acetona ,PASTO,Alzate Val,Ingresado,2581962,72294,936
+Diego Zapata,Gas,NEIVA,Cely Lui,Abierto,2313066,64765,848
+Valerie Zapata,Kerosene,CALDAS,De Los Ríos Val,Pendiente envío,1527010,42756,28
+Valentina De Los Ríos,Acetileno,CALI,Zapata Val,Abierto,6936771,194229,588
+Camila Vanegas,Acetileno,SINCELEJO,Ortiz Ger,Abierto,2783375,77934,5
+Alejandro Rodríguez,Toluol,MEDELLIN,Sánchez Mar,Abierto,12542828,351199,184
+Nataly Muriel,Acetona ,MONTERIA,Muriel Nat,Abierto,9567854,267899,912
+Valentina Zapata,Kerosene,PASTO,Arenas And,Cerrado,2511978,70335,384
+Juliana Pérez,Acetileno,MEDELLIN,García Val,Abierto,2128408,59595,424
+Juan Cardona,Toluol,MEDELLIN,Pérez Jul,Ingresado,13903001,389284,028
+Clara Sánchez,Alquitran,MEDELLIN,Zapata Man,Abierto,3348422,93755,816
+Valentina García,Acido Sulfúrico,POPAYAN,Zapata Val,Ingresado,12105598,338956,744
+Valentina Alzate,Toluol,MEDELLIN,Zapata Val,Pendiente envío,8007201,224201,628
+Juliana Pérez,Alquitran,BOGOTA,Cely Lui,Abierto,1997627,55933,556
+Luisa Cely,Acetona ,PEREIRA,Zapata Val,Cerrado,4161923,116533,844
+Valentina De Los Ríos,Alquitran,PASTO,Zapata Man,Abierto,2445107,68462,996
+Valentina De Los Ríos,Eter Etílico,FLORENCIA,Alzate Val,Cerrado,8762235,245342,58
+Juliana Pérez,Alquitran,CARTAGENA,Cardona Jua,Abierto,4960325,138889,1
+Natalia Zapata,Cloruro de Amonio,BOGOTA,Cardona Jua,Abierto,2062801,57758,428
+Geraldine Ortiz,Acetona ,BOGOTA,De Los Ríos Val,Ingresado,1400000,39200
+Juan Cardona,Acido Sulfúrico,MEDELLIN,De Los Ríos Val,Abierto,106089622,2970509,416
+Alejandro Rodríguez,Toluol,MEDELLIN,Cely Lui,Abierto,3626834,101551,352
+Manuela Gómez,Acetona ,PEREIRA,Gómez Man,Cerrado,2742111,76779,108
+Camila Vanegas,Acido Clorhidrico-Muriático,MEDELLIN,Zapata Val,Cerrado,2130000,59640
+Manuela Gómez,Acetileno,POPAYAN,Muriel Nat,Abierto,1882335,52705,38
+Geraldine Ortiz,Toluol,FLORENCIA,Sánchez Mar,Cerrado,1487039,41637,092
+Juan Cardona,Acetona ,BOGOTA,Zapata Nat,Abierto,1985560,55595,68
+Juan Cardona,Toluol,MEDELLIN,Alzate Val,Abierto,2104939,58938,292
+Valentina Zapata,Cloruro de Amonio,BOGOTA,Cely Lui,Abierto,1371726,38408,328
+Valentina Zapata,Alquitran,MONTERIA,Cardona Jua,Ingresado,1900000,53200
+Nataly Muriel,Toluol,PEREIRA,Zapata Nat,Abierto,4089463,114504,964
+Nataly Muriel,Acetileno,PEREIRA,Muriel Nat,Abierto,2905700,81359,6
+Clara Sánchez,Acetileno,MEDELLIN,Ortiz Ger,Pendiente envío,4620250,129367
+Valentina Zapata,Acido Sulfúrico,PEREIRA,Cardona Jua,Abierto,2796684,78307,152
+Diego Zapata,Acetileno,NEIVA,Zapata Nat,Abierto,4040000,113120
+Valentina De Los Ríos,Acetona ,PEREIRA,García Val,Abierto,7953791,222706,148
+Nataly Muriel,Cloruro de Amonio,NEIVA,Grajales Cri,Cerrado,2283488,63937,664
+Luisa Cely,Acetona ,VILLAVICENCIO,Betancur Man,Abierto,1541442,43160,376
+Nataly Muriel,Toluol,NEIVA,Pérez Jul,Abierto,1692600,47392,8
+Valentina De Los Ríos,Acetona ,PEREIRA,Grajales Cri,Pendiente envío,31661704,886527,712
+Juliana Pérez,Kerosene,BUCARAMANGA,Grajales Cri,Abierto,10360786,290102,008
+Valentina Zapata,Toluol,BOGOTA,Zapata Val,Pendiente envío,1640673,45938,844
+Nataly Muriel,Gas,MEDELLIN,Rodríguez Ale,Abierto,3068095,85906,66
+Cristián Grajales,Acido Sulfúrico,MEDELLIN,Rodríguez Ale,Abierto,3472594,97232,632
+Valerie Zapata,Acetileno,BOGOTA,Rodríguez Ale,Pendiente envío,1368777,38325,756
+Valentina García,Alquitran,NEIVA,Sánchez Mar,Pendiente envío,16659910,466477,48
+Geraldine Ortiz,Acetileno,PEREIRA,Arenas And,Abierto,2755980,77167,44
+Geraldine Ortiz,Alquitran,CALI,De Los Ríos Val,Abierto,15153014,424284,392
+Manuela Zapata,Alquitran,MEDELLIN,Alzate Val,Abierto,2200000,61600
+Alejandro Rodríguez,Toluol,BOGOTA,Pérez Jul,Pendiente envío,1842656,51594,368
+Andrea Arenas,Acido Clorhidrico-Muriático,MONTERIA,Cely Lui,Abierto,3284347,91961,716
+Juan Cardona,Gas,MEDELLIN,Muriel Nat,Cerrado,1433740,40144,72
+Valentina Alzate,Alquitran,MANIZALES,Zapata Man,Ingresado,9611949,269134,572
+Valerie Zapata,Gas,NEIVA,Betancur Man,Ingresado,4922719,137836,132
+Alejandro Rodríguez,Gas,MEDELLIN,Zapata Val,Abierto,1882000,52696
+Manuela Gómez,Acetileno,NEIVA,Vanegas Cam,Abierto,2284283,63959,924
+Juan Cardona,Acido Sulfúrico,BARRANQUILLA,García Val,Abierto,9671833,270811,324
+Clara Sánchez,Toluol,BUCARAMANGA,Arenas And,Abierto,9214407,258003,396
+Cristián Grajales,Acetona ,MEDELLIN,Cardona Jua,Cerrado,4250243,119006,804
+Manuela Betancur,Acetileno,MANIZALES,Sánchez Mar,Abierto,9135695,255799,46
+Natalia Zapata,Kerosene,BOGOTA,Zapata Man,Abierto,2152721,60276,188
+Clara Sánchez,Cloruro de Amonio,SINCELEJO,Zapata Die,Abierto,1398979,39171,412
+Nataly Muriel,Acido Clorhidrico-Muriático,POPAYAN,Zapata Man,Abierto,15006444,420180,432
+Manuela Zapata,Cloruro de Amonio,IBAGUE,Grajales Cri,Abierto,4947703,138535,684
+Natalia Zapata,Acetileno,BOGOTA,Rodríguez Ale,Abierto,3806760,106589,28
+Nataly Muriel,Eter Etílico,POPAYAN,Ortiz Ger,Abierto,11567171,323880,788
+Manuela Zapata,Acido Sulfúrico,BOGOTA,De Los Ríos Val,Abierto,1737828,48659,184
+Diego Zapata,Acetileno,MONTERIA,Zapata Val,Abierto,1904740,53332,72
+Natalia Zapata,Acido Clorhidrico-Muriático,PASTO,Zapata Nat,Ingresado,14000000,392000
+Juliana Pérez,Acetileno,CALI,Zapata Nat,Abierto,7139702,199911,656
+Geraldine Ortiz,Acetona ,VALLEDUPAR,Muriel Nat,Cerrado,5000000,140000
+Manuela Betancur,Gas,CALI,Muriel Nat,Ingresado,1569217,43938,076
+Geraldine Ortiz,Cloruro de Amonio,ARMENIA,Muriel Nat,Abierto,4990672,139738,816
+Manuela Betancur,Toluol,BOGOTA,Grajales Cri,Abierto,3906000,109368
+Nataly Muriel,Acido Clorhidrico-Muriático,MEDELLIN,Zapata Die,Cerrado,9419133,263735,724
+Natalia Zapata,Toluol,MANIZALES,Rodríguez Ale,Ingresado,4086750,114429
+Valentina García,Acetona ,MEDELLIN,Zapata Man,Abierto,3163801,88586,428
+Luisa Cely,Alquitran,PEREIRA,Zapata Die,Abierto,2800218,78406,104
+Manuela Gómez,Acetileno,MEDELLIN,Sánchez Mar,Cerrado,2131759,59689,252
+Alejandro Rodríguez,Alquitran,MONTERIA,Sánchez Mar,Abierto,4055430,113552,04
+Juliana Pérez,Acido Sulfúrico,BOGOTA,García Val,Abierto,2197290,61524,12
+Valentina García,Acido Clorhidrico-Muriático,PEREIRA,García Val,Cerrado,2881133,80671,724
+Geraldine Ortiz,Alquitran,MEDELLIN,Zapata Val,Abierto,1816187,50853,236
+Clara Sánchez,Acido Clorhidrico-Muriático,MEDELLIN,De Los Ríos Val,Abierto,4213721,117984,188
+Nataly Muriel,Acido Sulfúrico,MEDELLIN,Sánchez Mar,Abierto,1542155,43180,34
+Geraldine Ortiz,Acido Clorhidrico-Muriático,POPAYAN,Pérez Jul,Abierto,1900000,53200
+Luisa Cely,Cloruro de Amonio,FLORENCIA,Betancur Man,Abierto,1600000,44800
+Juan Cardona,Alquitran,CALI,Pérez Jul,Ingresado,7210210,201885,88
+Diego Zapata,Eter Etílico,MONTERIA,García Val,Abierto,2180000,61040
+Geraldine Ortiz,Cloruro de Amonio,CALI,Pérez Jul,Abierto,1438446,40276,488
+Valentina Zapata,Acetileno,BOGOTA,Cardona Jua,Ingresado,2658935,74450,18
+Geraldine Ortiz,Alquitran,BOGOTA,Ortiz Ger,Abierto,6290540,176135,12
+Valerie Zapata,Cloruro de Amonio,MEDELLIN,Gómez Man,Abierto,2972103,83218,884
+Diego Zapata,Acido Sulfúrico,SINCELEJO,Zapata Nat,Abierto,1436634,40225,752
+Nataly Muriel,Kerosene,BOGOTA,Vanegas Cam,Abierto,6194366,173442,248
+Juan Cardona,Alquitran,TULUA,De Los Ríos Val,Pendiente envío,15856643,443986,004
+Juliana Pérez,Eter Etílico,SINCELEJO,Cely Lui,Abierto,2314760,64813,28
+Manuela Gómez,Acido Sulfúrico,BOGOTA,Grajales Cri,Abierto,6267375,175486,5
+Valentina Alzate,Kerosene,CALI,Rodríguez Ale,Abierto,1840000,51520
+Manuela Betancur,Acetona ,VILLAVICENCIO,Sánchez Mar,Abierto,10178995,285011,86
+Valentina De Los Ríos,Toluol,PASTO,Alzate Val,Abierto,2562623,71753,444
+Manuela Gómez,Alquitran,PASTO,De Los Ríos Val,Cerrado,3003639,84101,892
+Manuela Betancur,Eter Etílico,TULUA,Arenas And,Abierto,1400000,39200
+Juan Cardona,Gas,PASTO,Cely Lui,Abierto,1672000,46816
+Valentina De Los Ríos,Acido Sulfúrico,PASTO,García Val,Abierto,1833180,51329,04
+Diego Zapata,Toluol,IBAGUE,Betancur Man,Cerrado,10777336,301765,408
+Valentina García,Acetileno,BOGOTA,De Los Ríos Val,Cerrado,2150000,60200
+Juliana Pérez,Eter Etílico,MEDELLIN,Alzate Val,Pendiente envío,1400000,39200
+Juan Cardona,Gas,BUCARAMANGA,Grajales Cri,Cerrado,4980000,139440
+Andrea Arenas,Eter Etílico,BOGOTA,Sánchez Mar,Abierto,5931716,166088,048
+Valentina Zapata,Acetileno,NEIVA,García Val,Pendiente envío,3642837,101999,436
+Valentina De Los Ríos,Acetileno,NEIVA,Sánchez Mar,Pendiente envío,2000000,56000
+Valentina Zapata,Alquitran,MEDELLIN,Grajales Cri,Abierto,1798111,50347,108
+Clara Sánchez,Acetileno,MEDELLIN,Cely Lui,Pendiente envío,1996345,55897,66
+Valentina García,Acido Sulfúrico,MEDELLIN,Zapata Man,Abierto,1450000,40600
+Juliana Pérez,Acido Clorhidrico-Muriático,BOGOTA,Pérez Jul,Abierto,1822670,51034,76
+Manuela Gómez,Eter Etílico,PASTO,Alzate Val,Abierto,2543640,71221,92
+Alejandro Rodríguez,Eter Etílico,VALLEDUPAR,Vanegas Cam,Abierto,7976298,223336,344
+Alejandro Rodríguez,Toluol,PASTO,Vanegas Cam,Abierto,2396364,67098,192
+Camila Vanegas,Gas,TULUA,Rodríguez Ale,Abierto,12417567,347691,876
+Andrea Arenas,Acido Clorhidrico-Muriático,MEDELLIN,Rodríguez Ale,Abierto,4184188,117157,264
+Natalia Zapata,Acetileno,BARRANQUILLA,Ortiz Ger,Pendiente envío,5663740,158584,72
+Diego Zapata,Cloruro de Amonio,MEDELLIN,Gómez Man,Abierto,1695198,47465,544
+Alejandro Rodríguez,Eter Etílico,BOGOTA,Cely Lui,Abierto,2663300,74572,4
+Valentina García,Kerosene,TULUA,Zapata Nat,Abierto,4853760,135905,28
+Camila Vanegas,Eter Etílico,BOGOTA,Zapata Die,Abierto,4800000,134400
+Juan Cardona,Acetileno,NEIVA,Gómez Man,Abierto,2383138,66727,864
+Geraldine Ortiz,Cloruro de Amonio,BOGOTA,Muriel Nat,Abierto,2050289,57408,092
+Juan Cardona,Alquitran,IBAGUE,Gómez Man,Pendiente envío,4734047,132553,316
