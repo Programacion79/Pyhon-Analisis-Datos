@@ -23,6 +23,16 @@ def analisisProductos():
     promVenta = df['valor venta'].mean()
     print(f'Promedio de venta es: {promVenta}')
 
+    #Agrupar por ciudad y sumar las ventas
+    ventaCiudad = df.groupby('ciudad')['valor venta'].sum().reset_index()
+    print(ventaCiudad)
+
+    
+
+    #Agrupar por producto y mostrar el promedio
+    ventaProducto = df.groupby('producto')['valor venta'].mean().reset_index()
+    print(ventaProducto)
+
 
 if __name__ == '__main__':
     analisisProductos()
